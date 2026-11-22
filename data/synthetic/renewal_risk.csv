@@ -1,0 +1,20 @@
+client_id,goal,age,package_id,package_size,state,sessions_left,used_pct,days_since_last_session,pace_vs_plan_4wk,avg_steps_30,fitbit_days_30,priority,model_risk,model_drivers,note
+C032,Strength,36,P049,20,Open,9,0.55,363,0.0,5290.928571428572,0.4666666666666667,High,0.9884267623954164,"many early cancels (50%); daily steps over the last 30 days (5,291 steps); long gap since the last session (13)",
+C028,Strength,42,P044,50,Open,23,0.54,199,0.0,4859.333333333333,0.4,High,0.9883507036231279,"many early cancels (54%); daily steps over the last 30 days (5,155 steps); long gap since the last session (13)",
+C031,Strength,44,P048,20,Open,9,0.55,149,0.0,5243.0625,0.5333333333333333,High,0.9864710820811704,"daily steps over the last 30 days (5,243 steps); many early cancels (50%); long gap since the last session (13)",
+C013,Postpartum,32,P022,20,Open,15,0.25,11,0.75,6233.2307692307695,0.8666666666666667,High,0.7931234907859032,"daily steps over the last 30 days (6,233 steps); long gap since the last session (11); many late cancels / no-shows (29%)",
+C017,Fat loss,34,P027,50,Open,21,0.58,4,0.5833333333333334,7205.380952380952,0.7,High,0.7771194732180609,"many late cancels / no-shows (23%); daily steps over the last 30 days (7,205 steps); many early cancels (33%)",
+C019,Longevity,66,P032,50,Open,44,0.12,5,0.7291666666666667,7667.592592592592,0.9,High,0.7320126636412945,slow pace: many weeks to use the remaining sessions (30 weeks at the recent pace); many early cancels (33%); number of packages so far (3),
+C008,Longevity,59,P013,50,Open,14,0.72,9,1.0,7380.608695652174,0.7666666666666667,High,0.7189884254742633,"long gap since the last session (9); many early cancels (36%); daily steps over the last 30 days (7,381 steps)",
+C034,Fat loss,44,P052,100,Open,83,0.17,2,0.75,7857.571428571428,0.7,High,0.6603440854053861,slow pace: many weeks to use the remaining sessions (36 weeks at the recent pace); many late cancels / no-shows (18%),
+C007,Fat loss,35,P012,50,Open,18,0.64,8,0.875,7757.0,0.8333333333333334,Watch,0.5621557244191828,long gap since the last session (8),
+C024,Fat loss,30,P038,50,Renewal pending,0,1.0,8,0.75,9068.92857142857,0.9333333333333333,Renewal pending,,,Package finished recently: have the renewal conversation.
+C005,Postpartum,37,P008,50,Open,46,0.08,1,1.0,6497.928571428572,0.9333333333333333,Too early,,,Package started recently: not enough history to score.
+C027,Strength,22,P043,50,Open,47,0.06,1,0.7777777777777777,9605.478260869566,0.7666666666666667,Too early,,,Package started recently: not enough history to score.
+C003,Prenatal,35,P004,20,Open,2,0.9,22,0.25,5618.625,0.8,OK,0.4192740821657825,"daily steps over the last 30 days (5,619 steps); long gap since the last session (13); many early cancels (42%)",
+C006,Fat loss,31,P011,100,Open,71,0.29,3,0.9166666666666666,9041.32142857143,0.9333333333333333,OK,0.41088604124816563,slow pace: many weeks to use the remaining sessions (25 weeks at the recent pace); number of packages so far (3),
+C014,Fat loss,52,P023,100,Open,18,0.82,5,0.875,8984.384615384615,0.8666666666666667,OK,0.3468834656523497,long gap since the last session (5); many early cancels (31%),
+C015,Fat loss,44,P025,20,Open,11,0.45,1,0.875,8581.692307692309,0.8666666666666667,OK,0.34186092598110257,many early cancels (31%),
+C016,Strength,50,P026,100,Open,38,0.62,4,0.875,10155.222222222223,0.9,OK,0.3247383286371595,slow pace: many weeks to use the remaining sessions (21 weeks at the recent pace); many early cancels (31%),
+C035,Postpartum,30,P055,50,Open,39,0.22,3,1.0,6739.777777777777,0.9,OK,0.2581158371152973,"daily steps over the last 30 days (6,740 steps); number of packages so far (3); active minutes per day, last 30 days (20 min)",
+C002,Prenatal,30,P003,20,Open,2,0.9,1,1.0,7771.392857142857,0.9333333333333333,OK,0.06273135125802115,no strong risk drivers,

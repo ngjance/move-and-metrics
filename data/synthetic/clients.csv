@@ -1,0 +1,36 @@
+client_id,age,goal,join_date,referral_source,planned_per_week,weeks_pregnant_at_join,weeks_postpartum_at_join,age_band
+C001,32,Prenatal,2025-10-06,Social media,2,21.0,,30-39
+C002,30,Prenatal,2025-12-01,Referral,2,18.0,,30-39
+C003,35,Prenatal,2026-01-12,Online,1,11.0,,30-39
+C004,40,Fat loss,2026-04-18,Social media,3,,,40-49
+C005,37,Postpartum,2026-05-27,Online,2,,10.0,30-39
+C006,31,Fat loss,2025-11-12,Online,3,,,30-39
+C007,35,Fat loss,2026-07-21,Referral,2,,,30-39
+C008,59,Longevity,2026-02-21,Social media,1,,,50-59
+C009,40,Fat loss,2025-09-14,Online,3,,,40-49
+C010,35,Fat loss,2025-09-10,Social media,2,,,30-39
+C011,46,Strength,2025-10-23,Referral,3,,,40-49
+C012,70,Longevity,2025-09-25,Referral,2,,,60+
+C013,32,Postpartum,2025-09-10,Referral,1,,37.0,30-39
+C014,52,Fat loss,2026-01-21,Online,2,,,50-59
+C015,44,Fat loss,2025-10-23,Walk-in,2,,,40-49
+C016,50,Strength,2026-04-06,Online,2,,,50-59
+C017,34,Fat loss,2026-09-06,Corporate,3,,,30-39
+C018,39,Fat loss,2025-12-16,Walk-in,3,,,30-39
+C019,66,Longevity,2025-10-13,Referral,2,,,60+
+C020,54,Fat loss,2025-11-22,Online,3,,,50-59
+C021,33,Fat loss,2026-02-28,Referral,3,,,30-39
+C022,36,Fat loss,2025-10-07,Walk-in,2,,,30-39
+C023,49,Strength,2026-04-16,Social media,2,,,40-49
+C024,30,Fat loss,2026-05-19,Corporate,2,,,30-39
+C025,36,Postpartum,2025-09-07,Online,1,,16.0,30-39
+C026,28,Fat loss,2026-05-18,Online,3,,,<30
+C027,22,Strength,2026-09-05,Walk-in,3,,,<30
+C028,42,Strength,2026-02-12,Corporate,3,,,40-49
+C029,52,Fat loss,2025-09-02,Online,2,,,50-59
+C030,28,Fat loss,2026-01-18,Referral,2,,,<30
+C031,44,Strength,2026-05-18,Walk-in,3,,,40-49
+C032,36,Strength,2025-10-18,Social media,3,,,30-39
+C033,43,Fat loss,2026-04-28,Social media,2,,,40-49
+C034,44,Fat loss,2026-06-01,Corporate,2,,,40-49
+C035,30,Postpartum,2026-05-04,Social media,2,,23.0,30-39

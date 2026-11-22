@@ -1,0 +1,561 @@
+measurement_id,client_id,date,measure_name,value,unit
+M0001,C001,2025-10-10,Body weight,79.6,kg
+M0002,C001,2025-10-10,Body fat percentage,34.1,%
+M0003,C001,2025-10-10,Skeletal muscle mass,25.1,kg
+M0004,C001,2025-10-10,Energy level (1-10),6.5,score
+M0005,C001,2025-12-05,Body weight,82.0,kg
+M0006,C001,2025-12-05,Body fat percentage,36.1,%
+M0007,C001,2025-12-05,Skeletal muscle mass,26.4,kg
+M0008,C001,2025-12-05,Energy level (1-10),6.4,score
+M0009,C001,2026-01-30,Body weight,83.5,kg
+M0010,C001,2026-01-30,Body fat percentage,35.9,%
+M0011,C001,2026-01-30,Skeletal muscle mass,26.2,kg
+M0012,C001,2026-01-30,Energy level (1-10),6.6,score
+M0013,C001,2026-03-27,Body weight,84.8,kg
+M0014,C001,2026-03-27,Body fat percentage,38.7,%
+M0015,C001,2026-03-27,Skeletal muscle mass,26.3,kg
+M0016,C001,2026-03-27,Energy level (1-10),7.2,score
+M0017,C001,2026-05-22,Body weight,87.8,kg
+M0018,C001,2026-05-22,Body fat percentage,40.6,%
+M0019,C001,2026-05-22,Skeletal muscle mass,25.7,kg
+M0020,C001,2026-05-22,Energy level (1-10),6.7,score
+M0021,C002,2025-12-04,Body weight,76.8,kg
+M0022,C002,2025-12-04,Body fat percentage,26.6,%
+M0023,C002,2025-12-04,Skeletal muscle mass,28.1,kg
+M0024,C002,2025-12-04,Energy level (1-10),6.0,score
+M0025,C002,2026-01-29,Body weight,79.7,kg
+M0026,C002,2026-01-29,Body fat percentage,28.8,%
+M0027,C002,2026-01-29,Skeletal muscle mass,28.4,kg
+M0028,C002,2026-01-29,Energy level (1-10),6.0,score
+M0029,C002,2026-03-26,Body weight,82.5,kg
+M0030,C002,2026-03-26,Body fat percentage,29.1,%
+M0031,C002,2026-03-26,Skeletal muscle mass,28.0,kg
+M0032,C002,2026-03-26,Energy level (1-10),6.3,score
+M0033,C002,2026-05-21,Body weight,84.1,kg
+M0034,C002,2026-05-21,Body fat percentage,28.8,%
+M0035,C002,2026-05-21,Skeletal muscle mass,28.2,kg
+M0036,C002,2026-05-21,Energy level (1-10),6.2,score
+M0037,C002,2026-07-16,Body weight,86.9,kg
+M0038,C002,2026-07-16,Body fat percentage,32.8,%
+M0039,C002,2026-07-16,Skeletal muscle mass,28.4,kg
+M0040,C002,2026-07-16,Energy level (1-10),6.3,score
+M0041,C002,2026-09-10,Body weight,86.8,kg
+M0042,C002,2026-09-10,Body fat percentage,33.2,%
+M0043,C002,2026-09-10,Skeletal muscle mass,28.0,kg
+M0044,C002,2026-09-10,Energy level (1-10),6.1,score
+M0045,C002,2026-11-05,Body weight,84.1,kg
+M0046,C002,2026-11-05,Body fat percentage,32.3,%
+M0047,C002,2026-11-05,Skeletal muscle mass,28.1,kg
+M0048,C002,2026-11-05,Energy level (1-10),6.1,score
+M0049,C003,2026-01-20,Body weight,54.2,kg
+M0050,C003,2026-01-20,Body fat percentage,28.8,%
+M0051,C003,2026-01-20,Skeletal muscle mass,19.6,kg
+M0052,C003,2026-01-20,Energy level (1-10),6.4,score
+M0053,C003,2026-03-17,Body weight,55.6,kg
+M0054,C003,2026-03-17,Body fat percentage,30.8,%
+M0055,C003,2026-03-17,Skeletal muscle mass,19.2,kg
+M0056,C003,2026-03-17,Energy level (1-10),6.1,score
+M0057,C003,2026-05-12,Body weight,58.6,kg
+M0058,C003,2026-05-12,Body fat percentage,31.7,%
+M0059,C003,2026-05-12,Skeletal muscle mass,19.3,kg
+M0060,C003,2026-05-12,Energy level (1-10),6.1,score
+M0061,C003,2026-07-07,Body weight,60.3,kg
+M0062,C003,2026-07-07,Body fat percentage,31.6,%
+M0063,C003,2026-07-07,Skeletal muscle mass,19.5,kg
+M0064,C003,2026-07-07,Energy level (1-10),6.2,score
+M0065,C003,2026-09-01,Body weight,62.2,kg
+M0066,C003,2026-09-01,Body fat percentage,34.3,%
+M0067,C003,2026-09-01,Skeletal muscle mass,19.2,kg
+M0068,C003,2026-09-01,Energy level (1-10),6.4,score
+M0069,C004,2026-04-27,Body weight,73.0,kg
+M0070,C004,2026-04-27,Body fat percentage,34.9,%
+M0071,C004,2026-04-27,Skeletal muscle mass,24.0,kg
+M0072,C004,2026-04-27,Waist circumference,82.6,cm
+M0073,C005,2026-05-30,Body weight,74.0,kg
+M0074,C005,2026-05-30,Body fat percentage,31.5,%
+M0075,C005,2026-05-30,Skeletal muscle mass,25.7,kg
+M0076,C005,2026-05-30,Plank hold,31.1,sec
+M0077,C005,2026-07-25,Body weight,74.1,kg
+M0078,C005,2026-07-25,Body fat percentage,31.3,%
+M0079,C005,2026-07-25,Skeletal muscle mass,25.3,kg
+M0080,C005,2026-07-25,Plank hold,42.0,sec
+M0081,C005,2026-09-19,Body weight,73.4,kg
+M0082,C005,2026-09-19,Body fat percentage,30.1,%
+M0083,C005,2026-09-19,Skeletal muscle mass,24.8,kg
+M0084,C005,2026-09-19,Plank hold,52.4,sec
+M0085,C005,2026-11-14,Body weight,72.5,kg
+M0086,C005,2026-11-14,Body fat percentage,29.7,%
+M0087,C005,2026-11-14,Skeletal muscle mass,25.8,kg
+M0088,C005,2026-11-14,Plank hold,57.6,sec
+M0089,C006,2025-11-13,Body weight,68.6,kg
+M0090,C006,2025-11-13,Body fat percentage,27.0,%
+M0091,C006,2025-11-13,Skeletal muscle mass,25.4,kg
+M0092,C006,2025-11-13,Waist circumference,80.8,cm
+M0093,C006,2026-01-08,Body weight,67.6,kg
+M0094,C006,2026-01-08,Body fat percentage,26.1,%
+M0095,C006,2026-01-08,Skeletal muscle mass,25.6,kg
+M0096,C006,2026-01-08,Waist circumference,79.7,cm
+M0097,C006,2026-03-05,Body weight,66.6,kg
+M0098,C006,2026-03-05,Body fat percentage,24.4,%
+M0099,C006,2026-03-05,Skeletal muscle mass,25.3,kg
+M0100,C006,2026-03-05,Waist circumference,78.7,cm
+M0101,C006,2026-04-30,Body weight,66.4,kg
+M0102,C006,2026-04-30,Body fat percentage,24.2,%
+M0103,C006,2026-04-30,Skeletal muscle mass,25.2,kg
+M0104,C006,2026-04-30,Waist circumference,76.6,cm
+M0105,C006,2026-06-25,Body weight,65.6,kg
+M0106,C006,2026-06-25,Body fat percentage,21.0,%
+M0107,C006,2026-06-25,Skeletal muscle mass,25.6,kg
+M0108,C006,2026-06-25,Waist circumference,74.2,cm
+M0109,C006,2026-08-20,Body weight,65.5,kg
+M0110,C006,2026-08-20,Body fat percentage,20.8,%
+M0111,C006,2026-08-20,Skeletal muscle mass,25.6,kg
+M0112,C006,2026-08-20,Waist circumference,73.7,cm
+M0113,C006,2026-10-15,Body weight,62.7,kg
+M0114,C006,2026-10-15,Body fat percentage,20.2,%
+M0115,C006,2026-10-15,Skeletal muscle mass,25.7,kg
+M0116,C006,2026-10-15,Waist circumference,72.7,cm
+M0117,C007,2026-07-27,Body weight,73.6,kg
+M0118,C007,2026-07-27,Body fat percentage,26.0,%
+M0119,C007,2026-07-27,Skeletal muscle mass,26.8,kg
+M0120,C007,2026-07-27,Waist circumference,90.6,cm
+M0121,C007,2026-09-21,Body weight,73.0,kg
+M0122,C007,2026-09-21,Body fat percentage,25.5,%
+M0123,C007,2026-09-21,Skeletal muscle mass,27.5,kg
+M0124,C007,2026-09-21,Waist circumference,88.9,cm
+M0125,C008,2026-03-13,Body weight,65.7,kg
+M0126,C008,2026-03-13,Body fat percentage,39.5,%
+M0127,C008,2026-03-13,Skeletal muscle mass,20.8,kg
+M0128,C008,2026-03-13,30-second sit-to-stand,10.9,reps
+M0129,C008,2026-05-08,Body weight,66.6,kg
+M0130,C008,2026-05-08,Body fat percentage,36.9,%
+M0131,C008,2026-05-08,Skeletal muscle mass,20.8,kg
+M0132,C008,2026-05-08,30-second sit-to-stand,11.2,reps
+M0133,C008,2026-07-03,Body weight,66.2,kg
+M0134,C008,2026-07-03,Body fat percentage,37.1,%
+M0135,C008,2026-07-03,Skeletal muscle mass,21.3,kg
+M0136,C008,2026-07-03,30-second sit-to-stand,11.9,reps
+M0137,C008,2026-08-28,Body weight,66.2,kg
+M0138,C008,2026-08-28,Body fat percentage,37.1,%
+M0139,C008,2026-08-28,Skeletal muscle mass,20.7,kg
+M0140,C008,2026-08-28,30-second sit-to-stand,11.7,reps
+M0141,C008,2026-10-23,Body weight,66.1,kg
+M0142,C008,2026-10-23,Body fat percentage,38.2,%
+M0143,C008,2026-10-23,Skeletal muscle mass,21.1,kg
+M0144,C008,2026-10-23,30-second sit-to-stand,12.3,reps
+M0145,C009,2025-09-18,Body weight,70.2,kg
+M0146,C009,2025-09-18,Body fat percentage,35.9,%
+M0147,C009,2025-09-18,Skeletal muscle mass,22.0,kg
+M0148,C009,2025-09-18,Waist circumference,99.0,cm
+M0149,C009,2025-11-13,Body weight,68.1,kg
+M0150,C009,2025-11-13,Body fat percentage,34.8,%
+M0151,C009,2025-11-13,Skeletal muscle mass,22.8,kg
+M0152,C009,2025-11-13,Waist circumference,97.1,cm
+M0153,C009,2026-01-08,Body weight,67.6,kg
+M0154,C009,2026-01-08,Body fat percentage,33.7,%
+M0155,C009,2026-01-08,Skeletal muscle mass,22.7,kg
+M0156,C009,2026-01-08,Waist circumference,95.9,cm
+M0157,C010,2025-09-10,Body weight,62.8,kg
+M0158,C010,2025-09-10,Body fat percentage,33.5,%
+M0159,C010,2025-09-10,Skeletal muscle mass,20.4,kg
+M0160,C010,2025-09-10,Waist circumference,90.6,cm
+M0161,C010,2025-11-05,Body weight,61.9,kg
+M0162,C010,2025-11-05,Body fat percentage,33.5,%
+M0163,C010,2025-11-05,Skeletal muscle mass,21.0,kg
+M0164,C010,2025-11-05,Waist circumference,89.2,cm
+M0165,C010,2025-12-31,Body weight,60.8,kg
+M0166,C010,2025-12-31,Body fat percentage,31.9,%
+M0167,C010,2025-12-31,Skeletal muscle mass,21.1,kg
+M0168,C010,2025-12-31,Waist circumference,89.0,cm
+M0169,C010,2026-02-25,Body weight,59.9,kg
+M0170,C010,2026-02-25,Body fat percentage,32.6,%
+M0171,C010,2026-02-25,Skeletal muscle mass,21.1,kg
+M0172,C010,2026-02-25,Waist circumference,87.7,cm
+M0173,C010,2026-04-22,Body weight,59.2,kg
+M0174,C010,2026-04-22,Body fat percentage,30.0,%
+M0175,C010,2026-04-22,Skeletal muscle mass,21.4,kg
+M0176,C010,2026-04-22,Waist circumference,86.9,cm
+M0177,C010,2026-06-17,Body weight,59.7,kg
+M0178,C010,2026-06-17,Body fat percentage,29.6,%
+M0179,C010,2026-06-17,Skeletal muscle mass,21.0,kg
+M0180,C010,2026-06-17,Waist circumference,85.7,cm
+M0181,C011,2025-10-23,Body weight,79.5,kg
+M0182,C011,2025-10-23,Body fat percentage,27.5,%
+M0183,C011,2025-10-23,Skeletal muscle mass,29.5,kg
+M0184,C011,2025-10-23,Deadlift 5RM,63.3,kg
+M0185,C011,2025-12-18,Body weight,80.8,kg
+M0186,C011,2025-12-18,Body fat percentage,25.8,%
+M0187,C011,2025-12-18,Skeletal muscle mass,28.8,kg
+M0188,C011,2025-12-18,Deadlift 5RM,71.4,kg
+M0189,C011,2026-02-12,Body weight,80.2,kg
+M0190,C011,2026-02-12,Body fat percentage,23.8,%
+M0191,C011,2026-02-12,Skeletal muscle mass,29.9,kg
+M0192,C011,2026-02-12,Deadlift 5RM,79.1,kg
+M0193,C012,2025-10-02,Body weight,74.2,kg
+M0194,C012,2025-10-02,Body fat percentage,26.6,%
+M0195,C012,2025-10-02,Skeletal muscle mass,28.5,kg
+M0196,C012,2025-10-02,30-second sit-to-stand,9.0,reps
+M0197,C012,2025-11-27,Body weight,73.6,kg
+M0198,C012,2025-11-27,Body fat percentage,25.1,%
+M0199,C012,2025-11-27,Skeletal muscle mass,27.5,kg
+M0200,C012,2025-11-27,30-second sit-to-stand,9.3,reps
+M0201,C012,2026-01-22,Body weight,73.9,kg
+M0202,C012,2026-01-22,Body fat percentage,24.7,%
+M0203,C012,2026-01-22,Skeletal muscle mass,27.7,kg
+M0204,C012,2026-01-22,30-second sit-to-stand,9.8,reps
+M0205,C012,2026-03-19,Body weight,72.7,kg
+M0206,C012,2026-03-19,Body fat percentage,24.0,%
+M0207,C012,2026-03-19,Skeletal muscle mass,28.3,kg
+M0208,C012,2026-03-19,30-second sit-to-stand,10.0,reps
+M0209,C013,2025-09-10,Body weight,60.9,kg
+M0210,C013,2025-09-10,Body fat percentage,24.0,%
+M0211,C013,2025-09-10,Skeletal muscle mass,22.4,kg
+M0212,C013,2025-09-10,Plank hold,41.2,sec
+M0213,C013,2025-11-05,Body weight,59.1,kg
+M0214,C013,2025-11-05,Body fat percentage,26.2,%
+M0215,C013,2025-11-05,Skeletal muscle mass,23.1,kg
+M0216,C013,2025-11-05,Plank hold,44.2,sec
+M0217,C013,2025-12-31,Body weight,60.9,kg
+M0218,C013,2025-12-31,Body fat percentage,25.0,%
+M0219,C013,2025-12-31,Skeletal muscle mass,22.9,kg
+M0220,C013,2025-12-31,Plank hold,49.9,sec
+M0221,C013,2026-02-25,Body weight,61.2,kg
+M0222,C013,2026-02-25,Body fat percentage,24.7,%
+M0223,C013,2026-02-25,Skeletal muscle mass,23.5,kg
+M0224,C013,2026-02-25,Plank hold,55.5,sec
+M0225,C013,2026-04-22,Body weight,60.6,kg
+M0226,C013,2026-04-22,Body fat percentage,24.3,%
+M0227,C013,2026-04-22,Skeletal muscle mass,22.9,kg
+M0228,C013,2026-04-22,Plank hold,61.9,sec
+M0229,C013,2026-06-17,Body weight,59.2,kg
+M0230,C013,2026-06-17,Body fat percentage,23.1,%
+M0231,C013,2026-06-17,Skeletal muscle mass,23.5,kg
+M0232,C013,2026-06-17,Plank hold,56.1,sec
+M0233,C013,2026-08-12,Body weight,59.8,kg
+M0234,C013,2026-08-12,Body fat percentage,23.2,%
+M0235,C013,2026-08-12,Skeletal muscle mass,22.8,kg
+M0236,C013,2026-08-12,Plank hold,62.0,sec
+M0237,C013,2026-10-07,Body weight,58.9,kg
+M0238,C013,2026-10-07,Body fat percentage,22.4,%
+M0239,C013,2026-10-07,Skeletal muscle mass,22.9,kg
+M0240,C013,2026-10-07,Plank hold,70.7,sec
+M0241,C014,2026-01-23,Body weight,79.8,kg
+M0242,C014,2026-01-23,Body fat percentage,35.3,%
+M0243,C014,2026-01-23,Skeletal muscle mass,25.8,kg
+M0244,C014,2026-01-23,Waist circumference,84.4,cm
+M0245,C014,2026-03-20,Body weight,80.5,kg
+M0246,C014,2026-03-20,Body fat percentage,33.8,%
+M0247,C014,2026-03-20,Skeletal muscle mass,26.2,kg
+M0248,C014,2026-03-20,Waist circumference,81.6,cm
+M0249,C014,2026-05-15,Body weight,79.4,kg
+M0250,C014,2026-05-15,Body fat percentage,35.3,%
+M0251,C014,2026-05-15,Skeletal muscle mass,26.2,kg
+M0252,C014,2026-05-15,Waist circumference,81.3,cm
+M0253,C014,2026-07-10,Body weight,79.9,kg
+M0254,C014,2026-07-10,Body fat percentage,35.0,%
+M0255,C014,2026-07-10,Skeletal muscle mass,26.4,kg
+M0256,C014,2026-07-10,Waist circumference,79.8,cm
+M0257,C014,2026-09-04,Body weight,78.6,kg
+M0258,C014,2026-09-04,Body fat percentage,32.9,%
+M0259,C014,2026-09-04,Skeletal muscle mass,26.3,kg
+M0260,C014,2026-09-04,Waist circumference,79.6,cm
+M0261,C014,2026-10-30,Body weight,77.5,kg
+M0262,C014,2026-10-30,Body fat percentage,33.3,%
+M0263,C014,2026-10-30,Skeletal muscle mass,26.6,kg
+M0264,C014,2026-10-30,Waist circumference,77.6,cm
+M0265,C015,2025-10-23,Body weight,80.0,kg
+M0266,C015,2025-10-23,Body fat percentage,32.5,%
+M0267,C015,2025-10-23,Skeletal muscle mass,25.9,kg
+M0268,C015,2025-10-23,Waist circumference,94.8,cm
+M0269,C015,2025-12-18,Body weight,78.0,kg
+M0270,C015,2025-12-18,Body fat percentage,32.2,%
+M0271,C015,2025-12-18,Skeletal muscle mass,26.7,kg
+M0272,C015,2025-12-18,Waist circumference,93.1,cm
+M0273,C015,2026-02-12,Body weight,76.8,kg
+M0274,C015,2026-02-12,Body fat percentage,30.7,%
+M0275,C015,2026-02-12,Skeletal muscle mass,26.7,kg
+M0276,C015,2026-02-12,Waist circumference,92.4,cm
+M0277,C015,2026-04-09,Body weight,76.5,kg
+M0278,C015,2026-04-09,Body fat percentage,29.0,%
+M0279,C015,2026-04-09,Skeletal muscle mass,26.8,kg
+M0280,C015,2026-04-09,Waist circumference,91.0,cm
+M0281,C015,2026-06-04,Body weight,76.6,kg
+M0282,C015,2026-06-04,Body fat percentage,29.5,%
+M0283,C015,2026-06-04,Skeletal muscle mass,26.8,kg
+M0284,C015,2026-06-04,Waist circumference,90.0,cm
+M0285,C015,2026-07-30,Body weight,75.7,kg
+M0286,C015,2026-07-30,Body fat percentage,27.3,%
+M0287,C015,2026-07-30,Skeletal muscle mass,26.5,kg
+M0288,C015,2026-07-30,Waist circumference,89.5,cm
+M0289,C015,2026-09-24,Body weight,75.7,kg
+M0290,C015,2026-09-24,Body fat percentage,28.4,%
+M0291,C015,2026-09-24,Skeletal muscle mass,26.6,kg
+M0292,C015,2026-09-24,Waist circumference,87.9,cm
+M0293,C016,2026-04-15,Body weight,62.2,kg
+M0294,C016,2026-04-15,Body fat percentage,28.9,%
+M0295,C016,2026-04-15,Skeletal muscle mass,20.9,kg
+M0296,C016,2026-04-15,Deadlift 5RM,58.4,kg
+M0297,C016,2026-06-10,Body weight,61.2,kg
+M0298,C016,2026-06-10,Body fat percentage,28.6,%
+M0299,C016,2026-06-10,Skeletal muscle mass,22.3,kg
+M0300,C016,2026-06-10,Deadlift 5RM,70.7,kg
+M0301,C016,2026-08-05,Body weight,61.1,kg
+M0302,C016,2026-08-05,Body fat percentage,29.8,%
+M0303,C016,2026-08-05,Skeletal muscle mass,22.7,kg
+M0304,C016,2026-08-05,Deadlift 5RM,72.9,kg
+M0305,C016,2026-09-30,Body weight,61.8,kg
+M0306,C016,2026-09-30,Body fat percentage,28.7,%
+M0307,C016,2026-09-30,Skeletal muscle mass,23.0,kg
+M0308,C016,2026-09-30,Deadlift 5RM,81.2,kg
+M0309,C017,2026-09-08,Body weight,65.5,kg
+M0310,C017,2026-09-08,Body fat percentage,27.1,%
+M0311,C017,2026-09-08,Skeletal muscle mass,24.3,kg
+M0312,C017,2026-09-08,Waist circumference,93.5,cm
+M0313,C017,2026-11-03,Body weight,64.8,kg
+M0314,C017,2026-11-03,Body fat percentage,26.0,%
+M0315,C017,2026-11-03,Skeletal muscle mass,24.3,kg
+M0316,C017,2026-11-03,Waist circumference,92.8,cm
+M0317,C018,2025-12-17,Body weight,72.4,kg
+M0318,C018,2025-12-17,Body fat percentage,24.7,%
+M0319,C018,2025-12-17,Skeletal muscle mass,26.3,kg
+M0320,C018,2025-12-17,Waist circumference,81.8,cm
+M0321,C018,2026-02-11,Body weight,70.9,kg
+M0322,C018,2026-02-11,Body fat percentage,25.5,%
+M0323,C018,2026-02-11,Skeletal muscle mass,26.5,kg
+M0324,C018,2026-02-11,Waist circumference,80.0,cm
+M0325,C019,2025-10-14,Body weight,82.2,kg
+M0326,C019,2025-10-14,Body fat percentage,31.7,%
+M0327,C019,2025-10-14,Skeletal muscle mass,26.9,kg
+M0328,C019,2025-10-14,30-second sit-to-stand,8.7,reps
+M0329,C019,2025-12-09,Body weight,81.6,kg
+M0330,C019,2025-12-09,Body fat percentage,34.5,%
+M0331,C019,2025-12-09,Skeletal muscle mass,27.3,kg
+M0332,C019,2025-12-09,30-second sit-to-stand,9.2,reps
+M0333,C019,2026-02-03,Body weight,82.3,kg
+M0334,C019,2026-02-03,Body fat percentage,34.8,%
+M0335,C019,2026-02-03,Skeletal muscle mass,27.5,kg
+M0336,C019,2026-02-03,30-second sit-to-stand,10.9,reps
+M0337,C019,2026-03-31,Body weight,80.9,kg
+M0338,C019,2026-03-31,Body fat percentage,33.6,%
+M0339,C019,2026-03-31,Skeletal muscle mass,27.5,kg
+M0340,C019,2026-03-31,30-second sit-to-stand,11.0,reps
+M0341,C019,2026-05-26,Body weight,81.3,kg
+M0342,C019,2026-05-26,Body fat percentage,32.8,%
+M0343,C019,2026-05-26,Skeletal muscle mass,27.9,kg
+M0344,C019,2026-05-26,30-second sit-to-stand,11.7,reps
+M0345,C019,2026-07-21,Body weight,81.6,kg
+M0346,C019,2026-07-21,Body fat percentage,33.2,%
+M0347,C019,2026-07-21,Skeletal muscle mass,27.8,kg
+M0348,C019,2026-07-21,30-second sit-to-stand,13.1,reps
+M0349,C019,2026-09-15,Body weight,80.8,kg
+M0350,C019,2026-09-15,Body fat percentage,33.2,%
+M0351,C019,2026-09-15,Skeletal muscle mass,28.4,kg
+M0352,C019,2026-09-15,30-second sit-to-stand,14.7,reps
+M0353,C019,2026-11-10,Body weight,81.9,kg
+M0354,C019,2026-11-10,Body fat percentage,31.5,%
+M0355,C019,2026-11-10,Skeletal muscle mass,28.5,kg
+M0356,C019,2026-11-10,30-second sit-to-stand,15.8,reps
+M0357,C020,2025-11-22,Body weight,78.3,kg
+M0358,C020,2025-11-22,Body fat percentage,38.8,%
+M0359,C020,2025-11-22,Skeletal muscle mass,23.9,kg
+M0360,C020,2025-11-22,Waist circumference,86.4,cm
+M0361,C020,2026-01-17,Body weight,78.3,kg
+M0362,C020,2026-01-17,Body fat percentage,38.9,%
+M0363,C020,2026-01-17,Skeletal muscle mass,23.2,kg
+M0364,C020,2026-01-17,Waist circumference,85.7,cm
+M0365,C021,2026-03-02,Body weight,60.6,kg
+M0366,C021,2026-03-02,Body fat percentage,38.5,%
+M0367,C021,2026-03-02,Skeletal muscle mass,18.9,kg
+M0368,C021,2026-03-02,Waist circumference,90.0,cm
+M0369,C021,2026-04-27,Body weight,61.4,kg
+M0370,C021,2026-04-27,Body fat percentage,38.2,%
+M0371,C021,2026-04-27,Skeletal muscle mass,19.4,kg
+M0372,C021,2026-04-27,Waist circumference,88.4,cm
+M0373,C021,2026-06-22,Body weight,60.4,kg
+M0374,C021,2026-06-22,Body fat percentage,36.4,%
+M0375,C021,2026-06-22,Skeletal muscle mass,19.4,kg
+M0376,C021,2026-06-22,Waist circumference,87.2,cm
+M0377,C022,2025-10-10,Body weight,71.7,kg
+M0378,C022,2025-10-10,Body fat percentage,25.1,%
+M0379,C022,2025-10-10,Skeletal muscle mass,26.4,kg
+M0380,C022,2025-10-10,Waist circumference,84.2,cm
+M0381,C022,2025-12-05,Body weight,71.6,kg
+M0382,C022,2025-12-05,Body fat percentage,25.2,%
+M0383,C022,2025-12-05,Skeletal muscle mass,26.2,kg
+M0384,C022,2025-12-05,Waist circumference,83.3,cm
+M0385,C022,2026-01-30,Body weight,70.3,kg
+M0386,C022,2026-01-30,Body fat percentage,24.0,%
+M0387,C022,2026-01-30,Skeletal muscle mass,27.2,kg
+M0388,C022,2026-01-30,Waist circumference,82.3,cm
+M0389,C022,2026-03-27,Body weight,71.7,kg
+M0390,C022,2026-03-27,Body fat percentage,23.7,%
+M0391,C022,2026-03-27,Skeletal muscle mass,26.4,kg
+M0392,C022,2026-03-27,Waist circumference,81.3,cm
+M0393,C023,2026-04-16,Body weight,78.9,kg
+M0394,C023,2026-04-16,Body fat percentage,22.1,%
+M0395,C023,2026-04-16,Skeletal muscle mass,31.0,kg
+M0396,C023,2026-04-16,Deadlift 5RM,44.0,kg
+M0397,C023,2026-06-11,Body weight,78.8,kg
+M0398,C023,2026-06-11,Body fat percentage,22.0,%
+M0399,C023,2026-06-11,Skeletal muscle mass,31.8,kg
+M0400,C023,2026-06-11,Deadlift 5RM,51.7,kg
+M0401,C023,2026-08-06,Body weight,78.9,kg
+M0402,C023,2026-08-06,Body fat percentage,21.1,%
+M0403,C023,2026-08-06,Skeletal muscle mass,32.2,kg
+M0404,C023,2026-08-06,Deadlift 5RM,59.4,kg
+M0405,C024,2026-05-20,Body weight,65.1,kg
+M0406,C024,2026-05-20,Body fat percentage,30.5,%
+M0407,C024,2026-05-20,Skeletal muscle mass,22.3,kg
+M0408,C024,2026-05-20,Waist circumference,88.8,cm
+M0409,C024,2026-07-15,Body weight,63.6,kg
+M0410,C024,2026-07-15,Body fat percentage,29.3,%
+M0411,C024,2026-07-15,Skeletal muscle mass,22.5,kg
+M0412,C024,2026-07-15,Waist circumference,86.5,cm
+M0413,C024,2026-09-09,Body weight,62.9,kg
+M0414,C024,2026-09-09,Body fat percentage,29.3,%
+M0415,C024,2026-09-09,Skeletal muscle mass,22.6,kg
+M0416,C024,2026-09-09,Waist circumference,86.2,cm
+M0417,C024,2026-11-04,Body weight,61.4,kg
+M0418,C024,2026-11-04,Body fat percentage,27.3,%
+M0419,C024,2026-11-04,Skeletal muscle mass,23.0,kg
+M0420,C024,2026-11-04,Waist circumference,84.6,cm
+M0421,C025,2025-09-12,Body weight,47.4,kg
+M0422,C025,2025-09-12,Body fat percentage,30.9,%
+M0423,C025,2025-09-12,Skeletal muscle mass,16.3,kg
+M0424,C025,2025-09-12,Plank hold,42.9,sec
+M0425,C025,2025-11-07,Body weight,46.0,kg
+M0426,C025,2025-11-07,Body fat percentage,30.5,%
+M0427,C025,2025-11-07,Skeletal muscle mass,16.9,kg
+M0428,C025,2025-11-07,Plank hold,48.3,sec
+M0429,C025,2026-01-02,Body weight,47.6,kg
+M0430,C025,2026-01-02,Body fat percentage,28.9,%
+M0431,C025,2026-01-02,Skeletal muscle mass,16.3,kg
+M0432,C025,2026-01-02,Plank hold,49.0,sec
+M0433,C025,2026-02-27,Body weight,46.8,kg
+M0434,C025,2026-02-27,Body fat percentage,28.8,%
+M0435,C025,2026-02-27,Skeletal muscle mass,16.5,kg
+M0436,C025,2026-02-27,Plank hold,49.8,sec
+M0437,C025,2026-04-24,Body weight,46.0,kg
+M0438,C025,2026-04-24,Body fat percentage,28.2,%
+M0439,C025,2026-04-24,Skeletal muscle mass,16.7,kg
+M0440,C025,2026-04-24,Plank hold,52.6,sec
+M0441,C025,2026-06-19,Body weight,46.1,kg
+M0442,C025,2026-06-19,Body fat percentage,28.3,%
+M0443,C025,2026-06-19,Skeletal muscle mass,16.3,kg
+M0444,C025,2026-06-19,Plank hold,60.4,sec
+M0445,C025,2026-08-14,Body weight,45.8,kg
+M0446,C025,2026-08-14,Body fat percentage,28.0,%
+M0447,C025,2026-08-14,Skeletal muscle mass,15.8,kg
+M0448,C025,2026-08-14,Plank hold,64.5,sec
+M0449,C026,2026-05-18,Body weight,59.0,kg
+M0450,C026,2026-05-18,Body fat percentage,38.8,%
+M0451,C026,2026-05-18,Skeletal muscle mass,17.8,kg
+M0452,C026,2026-05-18,Waist circumference,89.1,cm
+M0453,C026,2026-07-13,Body weight,58.6,kg
+M0454,C026,2026-07-13,Body fat percentage,40.4,%
+M0455,C026,2026-07-13,Skeletal muscle mass,18.2,kg
+M0456,C026,2026-07-13,Waist circumference,87.9,cm
+M0457,C027,2026-09-07,Body weight,61.8,kg
+M0458,C027,2026-09-07,Body fat percentage,19.3,%
+M0459,C027,2026-09-07,Skeletal muscle mass,24.4,kg
+M0460,C027,2026-09-07,Deadlift 5RM,73.2,kg
+M0461,C027,2026-11-02,Body weight,60.4,kg
+M0462,C027,2026-11-02,Body fat percentage,18.4,%
+M0463,C027,2026-11-02,Skeletal muscle mass,25.0,kg
+M0464,C027,2026-11-02,Deadlift 5RM,82.8,kg
+M0465,C028,2026-02-17,Body weight,70.3,kg
+M0466,C028,2026-02-17,Body fat percentage,24.2,%
+M0467,C028,2026-02-17,Skeletal muscle mass,26.4,kg
+M0468,C028,2026-02-17,Deadlift 5RM,73.8,kg
+M0469,C028,2026-04-14,Body weight,70.4,kg
+M0470,C028,2026-04-14,Body fat percentage,24.3,%
+M0471,C028,2026-04-14,Skeletal muscle mass,26.5,kg
+M0472,C028,2026-04-14,Deadlift 5RM,77.2,kg
+M0473,C029,2025-09-02,Body weight,56.0,kg
+M0474,C029,2025-09-02,Body fat percentage,32.0,%
+M0475,C029,2025-09-02,Skeletal muscle mass,18.7,kg
+M0476,C029,2025-09-02,Waist circumference,84.9,cm
+M0477,C029,2025-10-28,Body weight,55.5,kg
+M0478,C029,2025-10-28,Body fat percentage,30.4,%
+M0479,C029,2025-10-28,Skeletal muscle mass,19.1,kg
+M0480,C029,2025-10-28,Waist circumference,83.7,cm
+M0481,C029,2025-12-23,Body weight,53.2,kg
+M0482,C029,2025-12-23,Body fat percentage,30.8,%
+M0483,C029,2025-12-23,Skeletal muscle mass,18.6,kg
+M0484,C029,2025-12-23,Waist circumference,82.8,cm
+M0485,C029,2026-02-17,Body weight,53.0,kg
+M0486,C029,2026-02-17,Body fat percentage,30.3,%
+M0487,C029,2026-02-17,Skeletal muscle mass,19.8,kg
+M0488,C029,2026-02-17,Waist circumference,81.9,cm
+M0489,C029,2026-04-14,Body weight,52.8,kg
+M0490,C029,2026-04-14,Body fat percentage,27.9,%
+M0491,C029,2026-04-14,Skeletal muscle mass,18.9,kg
+M0492,C029,2026-04-14,Waist circumference,81.6,cm
+M0493,C030,2026-02-03,Body weight,56.1,kg
+M0494,C030,2026-02-03,Body fat percentage,30.2,%
+M0495,C030,2026-02-03,Skeletal muscle mass,19.7,kg
+M0496,C030,2026-02-03,Waist circumference,81.2,cm
+M0497,C030,2026-03-31,Body weight,55.9,kg
+M0498,C030,2026-03-31,Body fat percentage,27.9,%
+M0499,C030,2026-03-31,Skeletal muscle mass,19.5,kg
+M0500,C030,2026-03-31,Waist circumference,81.0,cm
+M0501,C030,2026-05-26,Body weight,55.8,kg
+M0502,C030,2026-05-26,Body fat percentage,29.0,%
+M0503,C030,2026-05-26,Skeletal muscle mass,19.9,kg
+M0504,C030,2026-05-26,Waist circumference,79.3,cm
+M0505,C030,2026-07-21,Body weight,55.1,kg
+M0506,C030,2026-07-21,Body fat percentage,28.7,%
+M0507,C030,2026-07-21,Skeletal muscle mass,20.2,kg
+M0508,C030,2026-07-21,Waist circumference,79.7,cm
+M0509,C031,2026-05-19,Body weight,78.3,kg
+M0510,C031,2026-05-19,Body fat percentage,20.5,%
+M0511,C031,2026-05-19,Skeletal muscle mass,30.6,kg
+M0512,C031,2026-05-19,Deadlift 5RM,42.4,kg
+M0513,C032,2025-10-18,Body weight,70.6,kg
+M0514,C032,2025-10-18,Body fat percentage,28.8,%
+M0515,C032,2025-10-18,Skeletal muscle mass,25.9,kg
+M0516,C032,2025-10-18,Deadlift 5RM,92.1,kg
+M0517,C033,2026-05-04,Body weight,81.3,kg
+M0518,C033,2026-05-04,Body fat percentage,35.4,%
+M0519,C033,2026-05-04,Skeletal muscle mass,26.4,kg
+M0520,C033,2026-05-04,Waist circumference,84.7,cm
+M0521,C033,2026-06-29,Body weight,78.3,kg
+M0522,C033,2026-06-29,Body fat percentage,33.7,%
+M0523,C033,2026-06-29,Skeletal muscle mass,26.1,kg
+M0524,C033,2026-06-29,Waist circumference,83.7,cm
+M0525,C033,2026-08-24,Body weight,79.3,kg
+M0526,C033,2026-08-24,Body fat percentage,34.0,%
+M0527,C033,2026-08-24,Skeletal muscle mass,26.5,kg
+M0528,C033,2026-08-24,Waist circumference,82.9,cm
+M0529,C033,2026-10-19,Body weight,79.3,kg
+M0530,C033,2026-10-19,Body fat percentage,32.5,%
+M0531,C033,2026-10-19,Skeletal muscle mass,26.7,kg
+M0532,C033,2026-10-19,Waist circumference,81.5,cm
+M0533,C034,2026-06-05,Body weight,77.8,kg
+M0534,C034,2026-06-05,Body fat percentage,38.6,%
+M0535,C034,2026-06-05,Skeletal muscle mass,23.8,kg
+M0536,C034,2026-06-05,Waist circumference,81.9,cm
+M0537,C034,2026-07-31,Body weight,75.0,kg
+M0538,C034,2026-07-31,Body fat percentage,37.9,%
+M0539,C034,2026-07-31,Skeletal muscle mass,23.6,kg
+M0540,C034,2026-07-31,Waist circumference,81.0,cm
+M0541,C034,2026-09-25,Body weight,76.7,kg
+M0542,C034,2026-09-25,Body fat percentage,39.3,%
+M0543,C034,2026-09-25,Skeletal muscle mass,23.6,kg
+M0544,C034,2026-09-25,Waist circumference,81.3,cm
+M0545,C035,2026-05-04,Body weight,42.8,kg
+M0546,C035,2026-05-04,Body fat percentage,32.8,%
+M0547,C035,2026-05-04,Skeletal muscle mass,14.0,kg
+M0548,C035,2026-05-04,Plank hold,30.1,sec
+M0549,C035,2026-06-29,Body weight,43.0,kg
+M0550,C035,2026-06-29,Body fat percentage,33.0,%
+M0551,C035,2026-06-29,Skeletal muscle mass,14.8,kg
+M0552,C035,2026-06-29,Plank hold,38.3,sec
+M0553,C035,2026-08-24,Body weight,42.2,kg
+M0554,C035,2026-08-24,Body fat percentage,29.7,%
+M0555,C035,2026-08-24,Skeletal muscle mass,14.3,kg
+M0556,C035,2026-08-24,Plank hold,52.6,sec
+M0557,C035,2026-10-19,Body weight,42.0,kg
+M0558,C035,2026-10-19,Body fat percentage,30.8,%
+M0559,C035,2026-10-19,Skeletal muscle mass,15.3,kg
+M0560,C035,2026-10-19,Plank hold,64.1,sec

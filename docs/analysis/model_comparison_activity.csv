@@ -1,0 +1,3 @@
+model,features,cv_auc,spread,packages
+Gym attendance only,18,0.735,0.05,274
+"Gym attendance + activity, last 30 days",22,0.749,0.05,274

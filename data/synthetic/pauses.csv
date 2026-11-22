@@ -1,0 +1,7 @@
+pause_id,package_id,client_id,pause_start,pause_end,reason_category
+Z001,P001,C001,2025-11-09,2026-05-28,Maternity
+Z002,P002,C002,2026-01-04,2026-08-07,Maternity
+Z003,P004,C003,2026-03-24,2026-08-31,Maternity
+Z004,P021,C013,2026-04-09,2026-05-20,Illness
+Z005,P039,C025,2026-01-14,2026-02-08,Travel
+Z006,P051,C034,2026-07-18,2026-08-23,Work

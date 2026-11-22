@@ -1,0 +1,21 @@
+factor,key,family,kind,n,cases,effect,ci_low,ci_high,p_value,null,summary,p_holm,evidence
+Skipped sessions (share of bookings not attended),skip_rate,Gym and pauses,continuous,36,36,0.8359375,0.6654555940023068,0.9548275862068966,0.0006566173637719724,0.5,AUC 0.84,0.0059095562739477515,More non-renewal
+Late cancels + no-shows (share of bookings),forfeit_rate,Gym and pauses,continuous,36,33,0.6625,0.5049826388888888,0.8207552083333332,0.10085934697038475,0.5,AUC 0.66,0.7060154287926932,No clear association
+Early cancels (share of bookings),early_rate,Gym and pauses,continuous,36,36,0.79375,0.6092559523809524,0.9452778633004925,0.0028509558306438684,0.5,AUC 0.79,0.022807646645150947,More non-renewal
+"Pause length, all packages (days; 0 if none)",pause_days,Gym and pauses,continuous,36,5,0.48437499999999994,0.3706280193236715,0.581578947368421,0.8117077368796477,0.5,AUC 0.48,1.0,Too few cases to judge (5)
+"Pause length, only packages with a pause (days)",pause_days_paused_only,Gym and pauses,continuous,5,5,0.33333333333333337,0.0,1.0,0.8,0.5,AUC 0.33,1.0,Too few cases to judge (5)
+Package number (1 = first),package_no,Gym and pauses,continuous,36,36,0.5703125,0.42607954545454546,0.7349608460758309,0.3828474934989071,0.5,AUC 0.57,1.0,No clear association
+Age,age,Gym and pauses,continuous,36,36,0.5906250000000001,0.40794473684210525,0.7721649616368286,0.3634655261141586,0.5,AUC 0.59,1.0,No clear association
+Had any pause,had_pause,Gym and pauses,binary,36,5,-0.05161290322580642,-0.5,0.4661904761904757,1.0,0.0,40% vs 45% did not renew (5 vs 31 packages),1.0,Too few cases to judge (5)
+Had a maternity pause,maternity_pause,Gym and pauses,binary,36,2,0.05882352941176472,-0.5428571428571428,0.6486486486486487,1.0,0.0,50% vs 44% did not renew (2 vs 34 packages),1.0,Too few cases to judge (2)
+"Average daily steps, last 30 days",steps_30,Activity outside the gym (last 30 days),continuous,36,36,0.42500000000000004,0.23641521423384168,0.6164772727272726,0.4543759676970297,0.5,AUC 0.43,0.9856417715959849,No clear association
+"Active minutes per day, last 30 days",active_min_30,Activity outside the gym (last 30 days),continuous,36,36,0.47812499999999997,0.2788786764705882,0.6942045454545454,0.836062788872005,0.5,AUC 0.48,0.9856417715959849,No clear association
+"Share of days with Fitbit data (checking in), last 30 days",wear_30,Activity outside the gym (last 30 days),continuous,36,36,0.40312499999999996,0.20950404667795977,0.5934354114452798,0.3285472571986616,0.5,AUC 0.40,0.9856417715959849,No clear association
+Step trend within the last 30 days (second half vs first half),steps_trend_30,Activity outside the gym (last 30 days),continuous,36,36,0.315625,0.09747874149659864,0.520267335004177,0.06254813352933254,0.5,AUC 0.32,0.25019253411733017,No clear association
+Body weight at start of package (kg),baseline_weight,Body measurements,continuous,36,36,0.4984375,0.29648033126293993,0.6854983660130719,1.0,0.5,AUC 0.50,1.0,No clear association
+Body fat % at start of package,baseline_bodyfat,Body measurements,continuous,36,36,0.5625,0.40289194139194134,0.7136574074074074,0.5346545273088407,0.5,AUC 0.56,1.0,No clear association
+Skeletal muscle mass at start of package (kg),baseline_smm,Body measurements,continuous,36,36,0.515625,0.34822668650793653,0.6910380116959063,0.8860769548425729,0.5,AUC 0.52,1.0,No clear association
+Change in body weight over the package (kg),delta_weight,Body measurements,continuous,28,28,0.6015625,0.38888888888888884,0.8010937499999999,0.3775523350633868,0.5,AUC 0.60,1.0,No clear association
+Change in body fat % over the package (points),delta_bodyfat,Body measurements,continuous,28,28,0.36979166666666663,0.17303931766174332,0.579669237012987,0.2550524575117107,0.5,AUC 0.37,1.0,No clear association
+Change in skeletal muscle mass over the package (kg),delta_smm,Body measurements,continuous,28,28,0.33854166666666663,0.14375000000000004,0.5613541666666665,0.15600187534202178,0.5,AUC 0.34,1.0,No clear association
+Moved in the goal direction (body fat down for fat loss/postpartum; muscle up for strength/longevity),goal_progress,Body measurements,binary,26,4,-0.09090909090909088,-0.6521739130434783,0.4487272727272722,1.0,0.0,41% vs 50% did not renew (22 vs 4 packages),1.0,Too few cases to judge (4)

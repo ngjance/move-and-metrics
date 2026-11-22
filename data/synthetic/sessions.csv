@@ -1,0 +1,2448 @@
+session_id,package_id,client_id,date,phase,outcome,cancel_notice_hours,reschedule_attempt
+S00001,P045,C029,2025-09-02,Standard,Attended,,0
+S00002,P045,C029,2025-09-03,Standard,Attended,,0
+S00003,P039,C025,2025-09-09,Postpartum,Early cancel,39.0,0
+S00004,P045,C029,2025-09-09,Standard,Early cancel,67.0,0
+S00005,P016,C010,2025-09-10,Standard,Attended,,0
+S00006,P021,C013,2025-09-10,Postpartum,Attended,,0
+S00007,P045,C029,2025-09-10,Standard,Attended,,0
+S00008,P039,C025,2025-09-12,Postpartum,Attended,,1
+S00009,P045,C029,2025-09-13,Standard,Early cancel,55.0,1
+S00010,P045,C029,2025-09-15,Standard,Attended,,2
+S00011,P016,C010,2025-09-16,Standard,Attended,,0
+S00012,P039,C025,2025-09-16,Postpartum,Attended,,0
+S00013,P045,C029,2025-09-16,Standard,Attended,,0
+S00014,P014,C009,2025-09-17,Standard,Early cancel,70.0,0
+S00015,P016,C010,2025-09-17,Standard,Attended,,0
+S00016,P021,C013,2025-09-17,Postpartum,Early cancel,56.0,0
+S00017,P045,C029,2025-09-17,Standard,Early cancel,67.0,0
+S00018,P014,C009,2025-09-18,Standard,Attended,,0
+S00019,P014,C009,2025-09-19,Standard,Attended,,0
+S00020,P021,C013,2025-09-19,Postpartum,Early cancel,51.0,1
+S00021,P045,C029,2025-09-19,Standard,Early cancel,39.0,1
+S00022,P014,C009,2025-09-22,Standard,Early cancel,33.0,1
+S00023,P016,C010,2025-09-23,Standard,Attended,,0
+S00024,P021,C013,2025-09-23,Postpartum,Attended,,2
+S00025,P039,C025,2025-09-23,Postpartum,Attended,,0
+S00026,P045,C029,2025-09-23,Standard,Attended,,0
+S00027,P014,C009,2025-09-24,Standard,Attended,,0
+S00028,P016,C010,2025-09-24,Standard,Late cancel,21.0,0
+S00029,P021,C013,2025-09-24,Postpartum,Attended,,0
+S00030,P045,C029,2025-09-24,Standard,Attended,,0
+S00031,P014,C009,2025-09-25,Standard,Attended,,0
+S00032,P020,C012,2025-09-25,Standard,Early cancel,46.0,0
+S00033,P045,C029,2025-09-25,Standard,Attended,,2
+S00034,P014,C009,2025-09-26,Standard,Early cancel,62.0,0
+S00035,P014,C009,2025-09-27,Standard,Attended,,2
+S00036,P014,C009,2025-09-29,Standard,Early cancel,57.0,1
+S00037,P020,C012,2025-09-29,Standard,Late cancel,20.0,1
+S00038,P016,C010,2025-09-30,Standard,Attended,,0
+S00039,P039,C025,2025-09-30,Postpartum,Attended,,0
+S00040,P045,C029,2025-09-30,Standard,Attended,,0
+S00041,P014,C009,2025-10-01,Standard,Attended,,0
+S00042,P016,C010,2025-10-01,Standard,Early cancel,65.0,0
+S00043,P020,C012,2025-10-01,Standard,Late cancel,7.0,0
+S00044,P021,C013,2025-10-01,Postpartum,Late cancel,5.0,0
+S00045,P045,C029,2025-10-01,Standard,Attended,,0
+S00046,P014,C009,2025-10-02,Standard,Attended,,0
+S00047,P020,C012,2025-10-02,Standard,Attended,,0
+S00048,P014,C009,2025-10-03,Standard,Early cancel,57.0,0
+S00049,P016,C010,2025-10-03,Standard,Early cancel,45.0,1
+S00050,P014,C009,2025-10-04,Standard,Attended,,2
+S00051,P016,C010,2025-10-06,Standard,Attended,,2
+S00052,P014,C009,2025-10-07,Standard,Attended,,1
+S00053,P016,C010,2025-10-07,Standard,Attended,,0
+S00054,P039,C025,2025-10-07,Postpartum,Early cancel,42.0,0
+S00055,P045,C029,2025-10-07,Standard,Attended,,0
+S00056,P014,C009,2025-10-08,Standard,Early cancel,28.0,0
+S00057,P016,C010,2025-10-08,Standard,Attended,,0
+S00058,P020,C012,2025-10-08,Standard,Attended,,0
+S00059,P021,C013,2025-10-08,Postpartum,Early cancel,60.0,0
+S00060,P045,C029,2025-10-08,Standard,Early cancel,25.0,0
+S00061,P014,C009,2025-10-09,Standard,Early cancel,24.0,0
+S00062,P020,C012,2025-10-09,Standard,Early cancel,47.0,0
+S00063,P001,C001,2025-10-10,Prenatal,Attended,,0
+S00064,P014,C009,2025-10-10,Standard,Late cancel,16.0,0
+S00065,P035,C022,2025-10-10,Standard,Attended,,0
+S00066,P039,C025,2025-10-10,Postpartum,Early cancel,58.0,1
+S00067,P045,C029,2025-10-10,Standard,Attended,,1
+S00068,P001,C001,2025-10-11,Prenatal,Early cancel,49.0,0
+S00069,P021,C013,2025-10-11,Postpartum,Early cancel,24.0,1
+S00070,P035,C022,2025-10-11,Standard,Attended,,0
+S00071,P014,C009,2025-10-13,Standard,Early cancel,59.0,1
+S00072,P020,C012,2025-10-13,Standard,Attended,,1
+S00073,P039,C025,2025-10-13,Postpartum,Attended,,2
+S00074,P001,C001,2025-10-14,Prenatal,Attended,,1
+S00075,P014,C009,2025-10-14,Standard,Attended,,1
+S00076,P016,C010,2025-10-14,Standard,Attended,,0
+S00077,P030,C019,2025-10-14,Standard,Attended,,0
+S00078,P039,C025,2025-10-14,Postpartum,Attended,,0
+S00079,P045,C029,2025-10-14,Standard,Attended,,0
+S00080,P014,C009,2025-10-15,Standard,Attended,,0
+S00081,P016,C010,2025-10-15,Standard,Attended,,0
+S00082,P020,C012,2025-10-15,Standard,Attended,,0
+S00083,P021,C013,2025-10-15,Postpartum,Early cancel,55.0,0
+S00084,P045,C029,2025-10-15,Standard,Early cancel,70.0,0
+S00085,P014,C009,2025-10-16,Standard,Attended,,0
+S00086,P020,C012,2025-10-16,Standard,Attended,,0
+S00087,P021,C013,2025-10-16,Postpartum,Attended,,2
+S00088,P001,C001,2025-10-17,Prenatal,Early cancel,31.0,0
+S00089,P014,C009,2025-10-17,Standard,Attended,,0
+S00090,P030,C019,2025-10-17,Standard,Attended,,0
+S00091,P035,C022,2025-10-17,Standard,Attended,,0
+S00092,P001,C001,2025-10-18,Prenatal,Late cancel,17.0,0
+S00093,P014,C009,2025-10-18,Standard,Late cancel,9.0,2
+S00094,P021,C013,2025-10-18,Postpartum,Attended,,1
+S00095,P035,C022,2025-10-18,Standard,Early cancel,35.0,0
+S00096,P045,C029,2025-10-18,Standard,Early cancel,55.0,1
+S00097,P049,C032,2025-10-18,Standard,Attended,,0
+S00098,P035,C022,2025-10-20,Standard,Attended,,1
+S00099,P049,C032,2025-10-20,Standard,Early cancel,56.0,0
+S00100,P001,C001,2025-10-21,Prenatal,Attended,,1
+S00101,P016,C010,2025-10-21,Standard,Attended,,0
+S00102,P030,C019,2025-10-21,Standard,Late cancel,10.0,0
+S00103,P039,C025,2025-10-21,Postpartum,Early cancel,65.0,0
+S00104,P045,C029,2025-10-21,Standard,Late cancel,4.0,0
+S00105,P014,C009,2025-10-22,Standard,Attended,,0
+S00106,P016,C010,2025-10-22,Standard,Attended,,0
+S00107,P020,C012,2025-10-22,Standard,Attended,,0
+S00108,P021,C013,2025-10-22,Postpartum,Early cancel,43.0,0
+S00109,P045,C029,2025-10-22,Standard,Attended,,0
+S00110,P014,C009,2025-10-23,Standard,Attended,,0
+S00111,P019,C011,2025-10-23,Standard,Attended,,0
+S00112,P020,C012,2025-10-23,Standard,Late cancel,23.0,0
+S00113,P024,C015,2025-10-23,Standard,Attended,,0
+S00114,P045,C029,2025-10-23,Standard,Attended,,2
+S00115,P001,C001,2025-10-24,Prenatal,Late cancel,6.0,0
+S00116,P014,C009,2025-10-24,Standard,Attended,,0
+S00117,P021,C013,2025-10-24,Postpartum,Early cancel,69.0,1
+S00118,P030,C019,2025-10-24,Standard,Early cancel,71.0,0
+S00119,P035,C022,2025-10-24,Standard,Late cancel,1.0,0
+S00120,P049,C032,2025-10-24,Standard,Early cancel,68.0,0
+S00121,P001,C001,2025-10-25,Prenatal,Early cancel,56.0,0
+S00122,P035,C022,2025-10-25,Standard,Early cancel,26.0,0
+S00123,P039,C025,2025-10-25,Postpartum,Early cancel,45.0,1
+S00124,P049,C032,2025-10-25,Standard,Early cancel,66.0,0
+S00125,P019,C011,2025-10-27,Standard,Early cancel,54.0,0
+S00126,P021,C013,2025-10-27,Postpartum,Early cancel,35.0,2
+S00127,P039,C025,2025-10-27,Postpartum,Early cancel,42.0,2
+S00128,P049,C032,2025-10-27,Standard,Late cancel,17.0,0
+S00129,P001,C001,2025-10-28,Prenatal,Early cancel,46.0,1
+S00130,P016,C010,2025-10-28,Standard,Attended,,0
+S00131,P024,C015,2025-10-28,Standard,Attended,,0
+S00132,P030,C019,2025-10-28,Standard,Attended,,0
+S00133,P039,C025,2025-10-28,Postpartum,Attended,,0
+S00134,P045,C029,2025-10-28,Standard,Attended,,0
+S00135,P049,C032,2025-10-28,Standard,Attended,,1
+S00136,P014,C009,2025-10-29,Standard,Attended,,0
+S00137,P016,C010,2025-10-29,Standard,Late cancel,7.0,0
+S00138,P019,C011,2025-10-29,Standard,Early cancel,42.0,0
+S00139,P020,C012,2025-10-29,Standard,Attended,,0
+S00140,P021,C013,2025-10-29,Postpartum,Attended,,0
+S00141,P030,C019,2025-10-29,Standard,Attended,,1
+S00142,P035,C022,2025-10-29,Standard,Attended,,1
+S00143,P045,C029,2025-10-29,Standard,Early cancel,30.0,0
+S00144,P049,C032,2025-10-29,Standard,Early cancel,57.0,1
+S00145,P001,C001,2025-10-30,Prenatal,Attended,,2
+S00146,P014,C009,2025-10-30,Standard,Early cancel,47.0,0
+S00147,P019,C011,2025-10-30,Standard,Early cancel,37.0,0
+S00148,P020,C012,2025-10-30,Standard,Attended,,0
+S00149,P024,C015,2025-10-30,Standard,Attended,,0
+S00150,P049,C032,2025-10-30,Standard,Attended,,1
+S00151,P001,C001,2025-10-31,Prenatal,Early cancel,49.0,0
+S00152,P014,C009,2025-10-31,Standard,Early cancel,35.0,0
+S00153,P019,C011,2025-10-31,Standard,Early cancel,27.0,1
+S00154,P030,C019,2025-10-31,Standard,Attended,,0
+S00155,P035,C022,2025-10-31,Standard,Early cancel,43.0,0
+S00156,P045,C029,2025-10-31,Standard,Early cancel,66.0,1
+S00157,P049,C032,2025-10-31,Standard,Attended,,0
+S00158,P001,C001,2025-11-01,Prenatal,Attended,,0
+S00159,P035,C022,2025-11-01,Standard,Early cancel,60.0,0
+S00160,P049,C032,2025-11-01,Standard,Attended,,0
+S00161,P001,C001,2025-11-03,Prenatal,Attended,,1
+S00162,P014,C009,2025-11-03,Standard,Attended,,1
+S00163,P019,C011,2025-11-03,Standard,Early cancel,59.0,0
+S00164,P035,C022,2025-11-03,Standard,Attended,,1
+S00165,P045,C029,2025-11-03,Standard,Early cancel,30.0,2
+S00166,P049,C032,2025-11-03,Standard,Early cancel,42.0,0
+S00167,P014,C009,2025-11-04,Standard,Late cancel,15.0,1
+S00168,P016,C010,2025-11-04,Standard,Attended,,0
+S00169,P019,C011,2025-11-04,Standard,Early cancel,43.0,1
+S00170,P024,C015,2025-11-04,Standard,Attended,,0
+S00171,P030,C019,2025-11-04,Standard,Attended,,0
+S00172,P039,C025,2025-11-04,Postpartum,Early cancel,32.0,0
+S00173,P045,C029,2025-11-04,Standard,Early cancel,24.0,0
+S00174,P049,C032,2025-11-04,Standard,Attended,,2
+S00175,P014,C009,2025-11-05,Standard,Attended,,0
+S00176,P016,C010,2025-11-05,Standard,Attended,,0
+S00177,P019,C011,2025-11-05,Standard,Attended,,0
+S00178,P020,C012,2025-11-05,Standard,Late cancel,22.0,0
+S00179,P021,C013,2025-11-05,Postpartum,Late cancel,17.0,0
+S00180,P035,C022,2025-11-05,Standard,Attended,,1
+S00181,P045,C029,2025-11-05,Standard,Attended,,0
+S00182,P014,C009,2025-11-06,Standard,Early cancel,72.0,0
+S00183,P019,C011,2025-11-06,Standard,Early cancel,72.0,0
+S00184,P020,C012,2025-11-06,Standard,Late cancel,2.0,0
+S00185,P024,C015,2025-11-06,Standard,Attended,,0
+S00186,P039,C025,2025-11-06,Postpartum,Attended,,1
+S00187,P049,C032,2025-11-06,Standard,Attended,,1
+S00188,P001,C001,2025-11-07,Prenatal,Attended,,0
+S00189,P014,C009,2025-11-07,Standard,Late cancel,14.0,0
+S00190,P019,C011,2025-11-07,Standard,Attended,,1
+S00191,P030,C019,2025-11-07,Standard,Attended,,0
+S00192,P035,C022,2025-11-07,Standard,Attended,,0
+S00193,P049,C032,2025-11-07,Standard,Late cancel,20.0,0
+S00194,P001,C001,2025-11-08,Prenatal,Attended,,0
+S00195,P019,C011,2025-11-08,Standard,Attended,,2
+S00196,P035,C022,2025-11-08,Standard,Early cancel,30.0,0
+S00197,P045,C029,2025-11-08,Standard,Attended,,1
+S00198,P049,C032,2025-11-08,Standard,Attended,,0
+S00199,P014,C009,2025-11-10,Standard,Attended,,1
+S00200,P019,C011,2025-11-10,Standard,Attended,,0
+S00201,P049,C032,2025-11-10,Standard,Early cancel,24.0,0
+S00202,P016,C010,2025-11-11,Standard,Early cancel,52.0,0
+S00203,P019,C011,2025-11-11,Standard,Attended,,1
+S00204,P024,C015,2025-11-11,Standard,Early cancel,31.0,0
+S00205,P030,C019,2025-11-11,Standard,Late cancel,9.0,0
+S00206,P039,C025,2025-11-11,Postpartum,Late cancel,10.0,0
+S00207,P045,C029,2025-11-11,Standard,Early cancel,68.0,0
+S00208,P009,C006,2025-11-12,Standard,Late cancel,5.0,0
+S00209,P014,C009,2025-11-12,Standard,Attended,,0
+S00210,P016,C010,2025-11-12,Standard,Attended,,0
+S00211,P019,C011,2025-11-12,Standard,Attended,,0
+S00212,P020,C012,2025-11-12,Standard,Early cancel,61.0,0
+S00213,P021,C013,2025-11-12,Postpartum,Early cancel,32.0,0
+S00214,P035,C022,2025-11-12,Standard,Early cancel,44.0,1
+S00215,P045,C029,2025-11-12,Standard,Attended,,0
+S00216,P009,C006,2025-11-13,Standard,Attended,,0
+S00217,P014,C009,2025-11-13,Standard,Attended,,0
+S00218,P019,C011,2025-11-13,Standard,Attended,,0
+S00219,P020,C012,2025-11-13,Standard,Early cancel,67.0,0
+S00220,P024,C015,2025-11-13,Standard,Attended,,0
+S00221,P014,C009,2025-11-14,Standard,Early cancel,62.0,0
+S00222,P016,C010,2025-11-14,Standard,Attended,,1
+S00223,P019,C011,2025-11-14,Standard,Attended,,2
+S00224,P020,C012,2025-11-14,Standard,Late cancel,11.0,1
+S00225,P021,C013,2025-11-14,Postpartum,Attended,,1
+S00226,P024,C015,2025-11-14,Standard,Attended,,1
+S00227,P030,C019,2025-11-14,Standard,Attended,,0
+S00228,P035,C022,2025-11-14,Standard,Early cancel,32.0,0
+S00229,P049,C032,2025-11-14,Standard,Early cancel,45.0,0
+S00230,P019,C011,2025-11-15,Standard,Attended,,1
+S00231,P020,C012,2025-11-15,Standard,Late cancel,3.0,1
+S00232,P035,C022,2025-11-15,Standard,Attended,,0
+S00233,P049,C032,2025-11-15,Standard,Early cancel,66.0,0
+S00234,P014,C009,2025-11-17,Standard,Attended,,1
+S00235,P019,C011,2025-11-17,Standard,Early cancel,32.0,0
+S00236,P035,C022,2025-11-17,Standard,Attended,,2
+S00237,P049,C032,2025-11-17,Standard,Attended,,0
+S00238,P009,C006,2025-11-18,Standard,Attended,,0
+S00239,P016,C010,2025-11-18,Standard,Early cancel,37.0,0
+S00240,P024,C015,2025-11-18,Standard,Attended,,0
+S00241,P030,C019,2025-11-18,Standard,Attended,,0
+S00242,P035,C022,2025-11-18,Standard,Attended,,1
+S00243,P039,C025,2025-11-18,Postpartum,Early cancel,72.0,0
+S00244,P049,C032,2025-11-18,Standard,Early cancel,56.0,1
+S00245,P009,C006,2025-11-19,Standard,Attended,,0
+S00246,P014,C009,2025-11-19,Standard,Early cancel,35.0,0
+S00247,P016,C010,2025-11-19,Standard,Attended,,0
+S00248,P019,C011,2025-11-19,Standard,Attended,,0
+S00249,P020,C012,2025-11-19,Standard,Attended,,0
+S00250,P021,C013,2025-11-19,Postpartum,Early cancel,62.0,0
+S00251,P049,C032,2025-11-19,Standard,Early cancel,53.0,1
+S00252,P009,C006,2025-11-20,Standard,Attended,,0
+S00253,P014,C009,2025-11-20,Standard,Attended,,0
+S00254,P019,C011,2025-11-20,Standard,Early cancel,33.0,0
+S00255,P020,C012,2025-11-20,Standard,Attended,,0
+S00256,P024,C015,2025-11-20,Standard,Early cancel,72.0,0
+S00257,P039,C025,2025-11-20,Postpartum,Attended,,1
+S00258,P049,C032,2025-11-20,Standard,Early cancel,58.0,1
+S00259,P014,C009,2025-11-21,Standard,Attended,,0
+S00260,P019,C011,2025-11-21,Standard,Attended,,1
+S00261,P021,C013,2025-11-21,Postpartum,Attended,,1
+S00262,P030,C019,2025-11-21,Standard,Attended,,0
+S00263,P035,C022,2025-11-21,Standard,Early cancel,55.0,0
+S00264,P033,C020,2025-11-22,Standard,Attended,,0
+S00265,P035,C022,2025-11-22,Standard,Attended,,0
+S00266,P014,C009,2025-11-24,Standard,Attended,,1
+S00267,P019,C011,2025-11-24,Standard,Attended,,0
+S00268,P024,C015,2025-11-24,Standard,Attended,,1
+S00269,P035,C022,2025-11-24,Standard,Early cancel,43.0,1
+S00270,P009,C006,2025-11-25,Standard,Attended,,0
+S00271,P019,C011,2025-11-25,Standard,Early cancel,27.0,1
+S00272,P024,C015,2025-11-25,Standard,Late cancel,11.0,0
+S00273,P030,C019,2025-11-25,Standard,Attended,,0
+S00274,P039,C025,2025-11-25,Postpartum,Attended,,0
+S00275,P046,C029,2025-11-25,Standard,Attended,,0
+S00276,P009,C006,2025-11-26,Standard,Early cancel,60.0,0
+S00277,P014,C009,2025-11-26,Standard,Attended,,0
+S00278,P019,C011,2025-11-26,Standard,Attended,,0
+S00279,P020,C012,2025-11-26,Standard,Attended,,0
+S00280,P021,C013,2025-11-26,Postpartum,Late cancel,1.0,0
+S00281,P035,C022,2025-11-26,Standard,Attended,,2
+S00282,P046,C029,2025-11-26,Standard,Attended,,0
+S00283,P009,C006,2025-11-27,Standard,Attended,,0
+S00284,P014,C009,2025-11-27,Standard,Attended,,0
+S00285,P019,C011,2025-11-27,Standard,Early cancel,33.0,0
+S00286,P020,C012,2025-11-27,Standard,Attended,,0
+S00287,P024,C015,2025-11-27,Standard,Attended,,0
+S00288,P033,C020,2025-11-27,Standard,Attended,,0
+S00289,P014,C009,2025-11-28,Standard,Attended,,0
+S00290,P019,C011,2025-11-28,Standard,Attended,,2
+S00291,P030,C019,2025-11-28,Standard,Attended,,0
+S00292,P033,C020,2025-11-28,Standard,Early cancel,67.0,0
+S00293,P035,C022,2025-11-28,Standard,Attended,,0
+S00294,P033,C020,2025-11-29,Standard,Early cancel,27.0,0
+S00295,P035,C022,2025-11-29,Standard,Attended,,0
+S00296,P009,C006,2025-12-01,Standard,Attended,,1
+S00297,P019,C011,2025-12-01,Standard,Attended,,0
+S00298,P033,C020,2025-12-01,Standard,Early cancel,69.0,1
+S00299,P009,C006,2025-12-02,Standard,Early cancel,61.0,0
+S00300,P017,C010,2025-12-02,Standard,Attended,,0
+S00301,P019,C011,2025-12-02,Standard,Early cancel,53.0,1
+S00302,P024,C015,2025-12-02,Standard,Attended,,0
+S00303,P030,C019,2025-12-02,Standard,Early cancel,43.0,0
+S00304,P039,C025,2025-12-02,Postpartum,Attended,,0
+S00305,P046,C029,2025-12-02,Standard,Early cancel,37.0,0
+S00306,P009,C006,2025-12-03,Standard,Attended,,0
+S00307,P014,C009,2025-12-03,Standard,Late cancel,20.0,0
+S00308,P017,C010,2025-12-03,Standard,Attended,,0
+S00309,P019,C011,2025-12-03,Standard,Early cancel,67.0,0
+S00310,P020,C012,2025-12-03,Standard,Early cancel,31.0,0
+S00311,P021,C013,2025-12-03,Postpartum,Early cancel,58.0,0
+S00312,P033,C020,2025-12-03,Standard,Early cancel,52.0,1
+S00313,P046,C029,2025-12-03,Standard,Attended,,0
+S00314,P002,C002,2025-12-04,Prenatal,Attended,,0
+S00315,P009,C006,2025-12-04,Standard,Attended,,0
+S00316,P014,C009,2025-12-04,Standard,Attended,,0
+S00317,P019,C011,2025-12-04,Standard,Attended,,0
+S00318,P020,C012,2025-12-04,Standard,Attended,,0
+S00319,P024,C015,2025-12-04,Standard,Attended,,0
+S00320,P030,C019,2025-12-04,Standard,Attended,,1
+S00321,P033,C020,2025-12-04,Standard,Attended,,0
+S00322,P009,C006,2025-12-05,Standard,Attended,,1
+S00323,P014,C009,2025-12-05,Standard,Late cancel,22.0,0
+S00324,P030,C019,2025-12-05,Standard,Attended,,0
+S00325,P033,C020,2025-12-05,Standard,Early cancel,32.0,0
+S00326,P035,C022,2025-12-05,Standard,Attended,,0
+S00327,P046,C029,2025-12-05,Standard,Late cancel,14.0,1
+S00328,P002,C002,2025-12-06,Prenatal,Attended,,0
+S00329,P019,C011,2025-12-06,Standard,Attended,,2
+S00330,P021,C013,2025-12-06,Postpartum,Early cancel,54.0,1
+S00331,P033,C020,2025-12-06,Standard,Early cancel,43.0,0
+S00332,P035,C022,2025-12-06,Standard,Late cancel,11.0,0
+S00333,P019,C011,2025-12-08,Standard,Early cancel,40.0,0
+S00334,P020,C012,2025-12-08,Standard,Early cancel,25.0,1
+S00335,P021,C013,2025-12-08,Postpartum,Attended,,2
+S00336,P033,C020,2025-12-08,Standard,Late cancel,15.0,2
+S00337,P009,C006,2025-12-09,Standard,Attended,,0
+S00338,P017,C010,2025-12-09,Standard,Attended,,0
+S00339,P019,C011,2025-12-09,Standard,Attended,,1
+S00340,P024,C015,2025-12-09,Standard,Attended,,0
+S00341,P030,C019,2025-12-09,Standard,Early cancel,59.0,0
+S00342,P033,C020,2025-12-09,Standard,Early cancel,37.0,2
+S00343,P039,C025,2025-12-09,Postpartum,Attended,,0
+S00344,P046,C029,2025-12-09,Standard,Early cancel,26.0,0
+S00345,P009,C006,2025-12-10,Standard,Attended,,0
+S00346,P014,C009,2025-12-10,Standard,Attended,,0
+S00347,P017,C010,2025-12-10,Standard,Attended,,0
+S00348,P019,C011,2025-12-10,Standard,Early cancel,24.0,0
+S00349,P020,C012,2025-12-10,Standard,Early cancel,64.0,0
+S00350,P021,C013,2025-12-10,Postpartum,No-show,,0
+S00351,P033,C020,2025-12-10,Standard,Early cancel,57.0,1
+S00352,P046,C029,2025-12-10,Standard,Early cancel,49.0,0
+S00353,P002,C002,2025-12-11,Prenatal,Attended,,0
+S00354,P009,C006,2025-12-11,Standard,Attended,,0
+S00355,P014,C009,2025-12-11,Standard,Attended,,0
+S00356,P019,C011,2025-12-11,Standard,Attended,,0
+S00357,P020,C012,2025-12-11,Standard,Late cancel,1.0,0
+S00358,P024,C015,2025-12-11,Standard,Late cancel,14.0,0
+S00359,P033,C020,2025-12-11,Standard,Late cancel,3.0,0
+S00360,P014,C009,2025-12-12,Standard,Attended,,0
+S00361,P019,C011,2025-12-12,Standard,Attended,,1
+S00362,P020,C012,2025-12-12,Standard,Early cancel,69.0,2
+S00363,P030,C019,2025-12-12,Standard,Early cancel,55.0,0
+S00364,P033,C020,2025-12-12,Standard,Attended,,0
+S00365,P035,C022,2025-12-12,Standard,Attended,,0
+S00366,P002,C002,2025-12-13,Prenatal,Attended,,0
+S00367,P020,C012,2025-12-13,Standard,Attended,,1
+S00368,P030,C019,2025-12-13,Standard,Attended,,1
+S00369,P033,C020,2025-12-13,Standard,Early cancel,53.0,0
+S00370,P035,C022,2025-12-13,Standard,Early cancel,42.0,0
+S00371,P046,C029,2025-12-13,Standard,Attended,,1
+S00372,P019,C011,2025-12-15,Standard,Attended,,0
+S00373,P030,C019,2025-12-15,Standard,Attended,,1
+S00374,P033,C020,2025-12-15,Standard,Early cancel,37.0,1
+S00375,P035,C022,2025-12-15,Standard,Attended,,1
+S00376,P046,C029,2025-12-15,Standard,Attended,,1
+S00377,P009,C006,2025-12-16,Standard,Early cancel,52.0,0
+S00378,P017,C010,2025-12-16,Standard,Attended,,0
+S00379,P019,C011,2025-12-16,Standard,Early cancel,47.0,1
+S00380,P024,C015,2025-12-16,Standard,Attended,,0
+S00381,P028,C018,2025-12-16,Standard,Late cancel,6.0,0
+S00382,P030,C019,2025-12-16,Standard,Attended,,0
+S00383,P033,C020,2025-12-16,Standard,Early cancel,40.0,2
+S00384,P039,C025,2025-12-16,Postpartum,Attended,,0
+S00385,P046,C029,2025-12-16,Standard,Attended,,0
+S00386,P009,C006,2025-12-17,Standard,Attended,,0
+S00387,P014,C009,2025-12-17,Standard,Early cancel,51.0,0
+S00388,P017,C010,2025-12-17,Standard,Attended,,0
+S00389,P019,C011,2025-12-17,Standard,Early cancel,52.0,0
+S00390,P020,C012,2025-12-17,Standard,Early cancel,37.0,0
+S00391,P021,C013,2025-12-17,Postpartum,Attended,,0
+S00392,P028,C018,2025-12-17,Standard,Attended,,0
+S00393,P033,C020,2025-12-17,Standard,Attended,,1
+S00394,P046,C029,2025-12-17,Standard,Early cancel,26.0,0
+S00395,P002,C002,2025-12-18,Prenatal,Early cancel,61.0,0
+S00396,P009,C006,2025-12-18,Standard,Attended,,0
+S00397,P014,C009,2025-12-18,Standard,Attended,,0
+S00398,P019,C011,2025-12-18,Standard,Late cancel,19.0,0
+S00399,P020,C012,2025-12-18,Standard,Early cancel,64.0,0
+S00400,P024,C015,2025-12-18,Standard,Attended,,0
+S00401,P033,C020,2025-12-18,Standard,Early cancel,67.0,0
+S00402,P009,C006,2025-12-19,Standard,Early cancel,40.0,1
+S00403,P014,C009,2025-12-19,Standard,Attended,,0
+S00404,P019,C011,2025-12-19,Standard,Early cancel,36.0,2
+S00405,P020,C012,2025-12-19,Standard,Attended,,1
+S00406,P030,C019,2025-12-19,Standard,Attended,,0
+S00407,P033,C020,2025-12-19,Standard,Early cancel,30.0,0
+S00408,P035,C022,2025-12-19,Standard,Attended,,0
+S00409,P002,C002,2025-12-20,Prenatal,Attended,,0
+S00410,P014,C009,2025-12-20,Standard,Early cancel,29.0,1
+S00411,P019,C011,2025-12-20,Standard,Late cancel,11.0,1
+S00412,P020,C012,2025-12-20,Standard,Early cancel,46.0,1
+S00413,P028,C018,2025-12-20,Standard,Early cancel,39.0,0
+S00414,P033,C020,2025-12-20,Standard,Attended,,0
+S00415,P035,C022,2025-12-20,Standard,Attended,,0
+S00416,P002,C002,2025-12-22,Prenatal,Attended,,1
+S00417,P019,C011,2025-12-22,Standard,Early cancel,42.0,0
+S00418,P033,C020,2025-12-22,Standard,Attended,,2
+S00419,P046,C029,2025-12-22,Standard,Attended,,1
+S00420,P009,C006,2025-12-23,Standard,Early cancel,27.0,0
+S00421,P014,C009,2025-12-23,Standard,Attended,,2
+S00422,P017,C010,2025-12-23,Standard,Late cancel,19.0,0
+S00423,P024,C015,2025-12-23,Standard,Early cancel,39.0,0
+S00424,P028,C018,2025-12-23,Standard,Early cancel,64.0,0
+S00425,P030,C019,2025-12-23,Standard,No-show,,0
+S00426,P033,C020,2025-12-23,Standard,Early cancel,49.0,1
+S00427,P039,C025,2025-12-23,Postpartum,Late cancel,11.0,0
+S00428,P046,C029,2025-12-23,Standard,Attended,,0
+S00429,P009,C006,2025-12-24,Standard,Attended,,0
+S00430,P014,C009,2025-12-24,Standard,Attended,,0
+S00431,P017,C010,2025-12-24,Standard,Attended,,0
+S00432,P019,C011,2025-12-24,Standard,Early cancel,57.0,0
+S00433,P020,C012,2025-12-24,Standard,Late cancel,8.0,0
+S00434,P021,C013,2025-12-24,Postpartum,Attended,,0
+S00435,P028,C018,2025-12-24,Standard,Attended,,0
+S00436,P033,C020,2025-12-24,Standard,Attended,,1
+S00437,P046,C029,2025-12-24,Standard,Late cancel,20.0,0
+S00438,P002,C002,2025-12-25,Prenatal,Early cancel,64.0,0
+S00439,P009,C006,2025-12-25,Standard,Attended,,0
+S00440,P014,C009,2025-12-25,Standard,Attended,,0
+S00441,P019,C011,2025-12-25,Standard,Early cancel,46.0,0
+S00442,P020,C012,2025-12-25,Standard,Late cancel,1.0,0
+S00443,P024,C015,2025-12-25,Standard,Attended,,0
+S00444,P028,C018,2025-12-25,Standard,Attended,,1
+S00445,P033,C020,2025-12-25,Standard,Early cancel,64.0,0
+S00446,P009,C006,2025-12-26,Standard,Attended,,2
+S00447,P014,C009,2025-12-26,Standard,Attended,,0
+S00448,P019,C011,2025-12-26,Standard,Early cancel,35.0,1
+S00449,P020,C012,2025-12-26,Standard,Attended,,2
+S00450,P024,C015,2025-12-26,Standard,Attended,,1
+S00451,P028,C018,2025-12-26,Standard,Early cancel,37.0,1
+S00452,P030,C019,2025-12-26,Standard,Early cancel,40.0,0
+S00453,P033,C020,2025-12-26,Standard,Late cancel,11.0,0
+S00454,P035,C022,2025-12-26,Standard,Attended,,0
+S00455,P002,C002,2025-12-27,Prenatal,Attended,,0
+S00456,P009,C006,2025-12-27,Standard,Early cancel,52.0,1
+S00457,P028,C018,2025-12-27,Standard,Attended,,0
+S00458,P033,C020,2025-12-27,Standard,Early cancel,47.0,0
+S00459,P035,C022,2025-12-27,Standard,Early cancel,41.0,0
+S00460,P002,C002,2025-12-29,Prenatal,Late cancel,6.0,1
+S00461,P009,C006,2025-12-29,Standard,Attended,,2
+S00462,P019,C011,2025-12-29,Standard,Early cancel,31.0,0
+S00463,P028,C018,2025-12-29,Standard,Early cancel,38.0,2
+S00464,P030,C019,2025-12-29,Standard,Attended,,1
+S00465,P033,C020,2025-12-29,Standard,Early cancel,37.0,2
+S00466,P017,C010,2025-12-30,Standard,Late cancel,6.0,0
+S00467,P019,C011,2025-12-30,Standard,Early cancel,43.0,1
+S00468,P024,C015,2025-12-30,Standard,Attended,,0
+S00469,P028,C018,2025-12-30,Standard,Early cancel,35.0,0
+S00470,P030,C019,2025-12-30,Standard,Attended,,0
+S00471,P033,C020,2025-12-30,Standard,Late cancel,18.0,1
+S00472,P035,C022,2025-12-30,Standard,Attended,,1
+S00473,P039,C025,2025-12-30,Postpartum,Late cancel,6.0,0
+S00474,P046,C029,2025-12-30,Standard,Attended,,0
+S00475,P014,C009,2025-12-31,Standard,Attended,,0
+S00476,P017,C010,2025-12-31,Standard,Attended,,0
+S00477,P019,C011,2025-12-31,Standard,Attended,,0
+S00478,P020,C012,2025-12-31,Standard,Early cancel,62.0,0
+S00479,P021,C013,2025-12-31,Postpartum,Early cancel,27.0,0
+S00480,P028,C018,2025-12-31,Standard,Attended,,0
+S00481,P033,C020,2025-12-31,Standard,Late cancel,3.0,1
+S00482,P046,C029,2025-12-31,Standard,Early cancel,63.0,0
+S00483,P002,C002,2026-01-01,Prenatal,Late cancel,9.0,0
+S00484,P014,C009,2026-01-01,Standard,Attended,,0
+S00485,P019,C011,2026-01-01,Standard,Early cancel,36.0,0
+S00486,P020,C012,2026-01-01,Standard,Early cancel,71.0,0
+S00487,P024,C015,2026-01-01,Standard,Attended,,0
+S00488,P033,C020,2026-01-01,Standard,Late cancel,12.0,0
+S00489,P014,C009,2026-01-02,Standard,Attended,,0
+S00490,P019,C011,2026-01-02,Standard,Attended,,1
+S00491,P030,C019,2026-01-02,Standard,Attended,,0
+S00492,P033,C020,2026-01-02,Standard,Early cancel,71.0,0
+S00493,P035,C022,2026-01-02,Standard,Attended,,0
+S00494,P046,C029,2026-01-02,Standard,Attended,,1
+S00495,P002,C002,2026-01-03,Prenatal,Attended,,0
+S00496,P019,C011,2026-01-03,Standard,Attended,,2
+S00497,P020,C012,2026-01-03,Standard,Early cancel,56.0,1
+S00498,P021,C013,2026-01-03,Postpartum,Attended,,1
+S00499,P028,C018,2026-01-03,Standard,Attended,,0
+S00500,P033,C020,2026-01-03,Standard,Attended,,0
+S00501,P035,C022,2026-01-03,Standard,Attended,,0
+S00502,P019,C011,2026-01-05,Standard,Attended,,0
+S00503,P020,C012,2026-01-05,Standard,Early cancel,28.0,1
+S00504,P028,C018,2026-01-05,Standard,Attended,,1
+S00505,P033,C020,2026-01-05,Standard,Early cancel,43.0,1
+S00506,P017,C010,2026-01-06,Standard,Early cancel,57.0,0
+S00507,P019,C011,2026-01-06,Standard,Attended,,1
+S00508,P020,C012,2026-01-06,Standard,Attended,,2
+S00509,P024,C015,2026-01-06,Standard,Attended,,0
+S00510,P028,C018,2026-01-06,Standard,Early cancel,37.0,0
+S00511,P030,C019,2026-01-06,Standard,Early cancel,68.0,0
+S00512,P039,C025,2026-01-06,Postpartum,Attended,,0
+S00513,P046,C029,2026-01-06,Standard,Late cancel,1.0,0
+S00514,P014,C009,2026-01-07,Standard,Late cancel,3.0,0
+S00515,P017,C010,2026-01-07,Standard,Late cancel,3.0,0
+S00516,P019,C011,2026-01-07,Standard,Late cancel,9.0,0
+S00517,P020,C012,2026-01-07,Standard,Attended,,0
+S00518,P021,C013,2026-01-07,Postpartum,Early cancel,47.0,0
+S00519,P028,C018,2026-01-07,Standard,Attended,,0
+S00520,P046,C029,2026-01-07,Standard,Attended,,0
+S00521,P014,C009,2026-01-08,Standard,Attended,,0
+S00522,P017,C010,2026-01-08,Standard,Early cancel,24.0,1
+S00523,P019,C011,2026-01-08,Standard,Attended,,0
+S00524,P020,C012,2026-01-08,Standard,Late cancel,4.0,0
+S00525,P024,C015,2026-01-08,Standard,Attended,,0
+S00526,P028,C018,2026-01-08,Standard,Attended,,1
+S00527,P033,C020,2026-01-08,Standard,Early cancel,66.0,0
+S00528,P019,C011,2026-01-09,Standard,Attended,,2
+S00529,P020,C012,2026-01-09,Standard,No-show,,2
+S00530,P021,C013,2026-01-09,Postpartum,Late cancel,14.0,1
+S00531,P030,C019,2026-01-09,Standard,Early cancel,55.0,0
+S00532,P033,C020,2026-01-09,Standard,Early cancel,70.0,0
+S00533,P035,C022,2026-01-09,Standard,Attended,,0
+S00534,P019,C011,2026-01-10,Standard,Attended,,1
+S00535,P028,C018,2026-01-10,Standard,Attended,,0
+S00536,P030,C019,2026-01-10,Standard,Attended,,1
+S00537,P033,C020,2026-01-10,Standard,Early cancel,56.0,0
+S00538,P035,C022,2026-01-10,Standard,Attended,,0
+S00539,P017,C010,2026-01-12,Standard,Attended,,2
+S00540,P019,C011,2026-01-12,Standard,Early cancel,64.0,0
+S00541,P030,C019,2026-01-12,Standard,Attended,,1
+S00542,P033,C020,2026-01-12,Standard,Early cancel,34.0,2
+S00543,P010,C006,2026-01-13,Standard,Early cancel,69.0,0
+S00544,P017,C010,2026-01-13,Standard,Attended,,0
+S00545,P024,C015,2026-01-13,Standard,Attended,,0
+S00546,P028,C018,2026-01-13,Standard,Early cancel,60.0,0
+S00547,P030,C019,2026-01-13,Standard,Attended,,0
+S00548,P033,C020,2026-01-13,Standard,Early cancel,66.0,1
+S00549,P039,C025,2026-01-13,Postpartum,Attended,,0
+S00550,P046,C029,2026-01-13,Standard,Late cancel,22.0,0
+S00551,P010,C006,2026-01-14,Standard,Attended,,0
+S00552,P015,C009,2026-01-14,Standard,Attended,,0
+S00553,P017,C010,2026-01-14,Standard,Early cancel,69.0,0
+S00554,P019,C011,2026-01-14,Standard,Attended,,0
+S00555,P020,C012,2026-01-14,Standard,Attended,,0
+S00556,P021,C013,2026-01-14,Postpartum,Early cancel,61.0,0
+S00557,P028,C018,2026-01-14,Standard,Attended,,0
+S00558,P033,C020,2026-01-14,Standard,Attended,,1
+S00559,P046,C029,2026-01-14,Standard,Attended,,0
+S00560,P010,C006,2026-01-15,Standard,Attended,,0
+S00561,P015,C009,2026-01-15,Standard,Attended,,0
+S00562,P019,C011,2026-01-15,Standard,Early cancel,66.0,0
+S00563,P020,C012,2026-01-15,Standard,Early cancel,46.0,0
+S00564,P024,C015,2026-01-15,Standard,Attended,,0
+S00565,P028,C018,2026-01-15,Standard,Late cancel,10.0,1
+S00566,P033,C020,2026-01-15,Standard,Attended,,0
+S00567,P015,C009,2026-01-16,Standard,Early cancel,72.0,0
+S00568,P017,C010,2026-01-16,Standard,Attended,,1
+S00569,P019,C011,2026-01-16,Standard,Attended,,1
+S00570,P021,C013,2026-01-16,Postpartum,Attended,,1
+S00571,P030,C019,2026-01-16,Standard,Attended,,0
+S00572,P033,C020,2026-01-16,Standard,Early cancel,62.0,0
+S00573,P035,C022,2026-01-16,Standard,Attended,,0
+S00574,P004,C003,2026-01-17,Prenatal,Early cancel,34.0,0
+S00575,P010,C006,2026-01-17,Standard,Attended,,1
+S00576,P028,C018,2026-01-17,Standard,Attended,,0
+S00577,P033,C020,2026-01-17,Standard,Attended,,0
+S00578,P035,C022,2026-01-17,Standard,Attended,,0
+S00579,P015,C009,2026-01-19,Standard,Late cancel,18.0,1
+S00580,P019,C011,2026-01-19,Standard,Early cancel,49.0,0
+S00581,P020,C012,2026-01-19,Standard,Early cancel,45.0,1
+S00582,P033,C020,2026-01-19,Standard,Late cancel,6.0,1
+S00583,P004,C003,2026-01-20,Prenatal,Attended,,1
+S00584,P010,C006,2026-01-20,Standard,Attended,,0
+S00585,P017,C010,2026-01-20,Standard,Attended,,0
+S00586,P019,C011,2026-01-20,Standard,Early cancel,42.0,1
+S00587,P024,C015,2026-01-20,Standard,Late cancel,4.0,0
+S00588,P028,C018,2026-01-20,Standard,Attended,,0
+S00589,P030,C019,2026-01-20,Standard,Attended,,0
+S00590,P033,C020,2026-01-20,Standard,Attended,,2
+S00591,P046,C029,2026-01-20,Standard,Early cancel,56.0,0
+S00592,P010,C006,2026-01-21,Standard,Attended,,0
+S00593,P015,C009,2026-01-21,Standard,Early cancel,33.0,0
+S00594,P017,C010,2026-01-21,Standard,Attended,,0
+S00595,P019,C011,2026-01-21,Standard,Attended,,0
+S00596,P020,C012,2026-01-21,Standard,Attended,,0
+S00597,P021,C013,2026-01-21,Postpartum,Attended,,0
+S00598,P028,C018,2026-01-21,Standard,Attended,,0
+S00599,P046,C029,2026-01-21,Standard,Early cancel,54.0,0
+S00600,P010,C006,2026-01-22,Standard,Attended,,0
+S00601,P015,C009,2026-01-22,Standard,Attended,,0
+S00602,P019,C011,2026-01-22,Standard,Attended,,0
+S00603,P020,C012,2026-01-22,Standard,Early cancel,28.0,0
+S00604,P024,C015,2026-01-22,Standard,Attended,,0
+S00605,P015,C009,2026-01-23,Standard,Attended,,0
+S00606,P019,C011,2026-01-23,Standard,Early cancel,46.0,1
+S00607,P020,C012,2026-01-23,Standard,Attended,,2
+S00608,P023,C014,2026-01-23,Standard,Attended,,0
+S00609,P030,C019,2026-01-23,Standard,Attended,,0
+S00610,P035,C022,2026-01-23,Standard,Attended,,0
+S00611,P046,C029,2026-01-23,Standard,Early cancel,30.0,1
+S00612,P047,C030,2026-01-23,Standard,Early cancel,29.0,0
+S00613,P004,C003,2026-01-24,Prenatal,Attended,,0
+S00614,P015,C009,2026-01-24,Standard,Late cancel,23.0,1
+S00615,P019,C011,2026-01-24,Standard,Early cancel,63.0,2
+S00616,P020,C012,2026-01-24,Standard,Early cancel,46.0,1
+S00617,P028,C018,2026-01-24,Standard,Late cancel,20.0,0
+S00618,P035,C022,2026-01-24,Standard,Early cancel,30.0,0
+S00619,P046,C029,2026-01-24,Standard,Attended,,1
+S00620,P047,C030,2026-01-24,Standard,Early cancel,36.0,0
+S00621,P019,C011,2026-01-26,Standard,Attended,,0
+S00622,P035,C022,2026-01-26,Standard,Early cancel,36.0,1
+S00623,P047,C030,2026-01-26,Standard,Late cancel,2.0,1
+S00624,P010,C006,2026-01-27,Standard,Early cancel,32.0,0
+S00625,P017,C010,2026-01-27,Standard,Attended,,0
+S00626,P019,C011,2026-01-27,Standard,Early cancel,59.0,2
+S00627,P020,C012,2026-01-27,Standard,Attended,,2
+S00628,P023,C014,2026-01-27,Standard,Attended,,0
+S00629,P024,C015,2026-01-27,Standard,Attended,,0
+S00630,P028,C018,2026-01-27,Standard,Early cancel,53.0,0
+S00631,P030,C019,2026-01-27,Standard,Attended,,0
+S00632,P046,C029,2026-01-27,Standard,Attended,,0
+S00633,P010,C006,2026-01-28,Standard,Late cancel,15.0,0
+S00634,P015,C009,2026-01-28,Standard,Late cancel,17.0,0
+S00635,P017,C010,2026-01-28,Standard,Attended,,0
+S00636,P019,C011,2026-01-28,Standard,Early cancel,71.0,0
+S00637,P020,C012,2026-01-28,Standard,Late cancel,20.0,0
+S00638,P021,C013,2026-01-28,Postpartum,Attended,,0
+S00639,P028,C018,2026-01-28,Standard,Attended,,0
+S00640,P046,C029,2026-01-28,Standard,Attended,,0
+S00641,P047,C030,2026-01-28,Standard,Early cancel,25.0,1
+S00642,P010,C006,2026-01-29,Standard,Attended,,0
+S00643,P015,C009,2026-01-29,Standard,Early cancel,53.0,0
+S00644,P019,C011,2026-01-29,Standard,Early cancel,43.0,0
+S00645,P020,C012,2026-01-29,Standard,Early cancel,69.0,0
+S00646,P024,C015,2026-01-29,Standard,Attended,,0
+S00647,P028,C018,2026-01-29,Standard,Early cancel,27.0,1
+S00648,P035,C022,2026-01-29,Standard,Early cancel,41.0,2
+S00649,P046,C029,2026-01-29,Standard,Attended,,2
+S00650,P015,C009,2026-01-30,Standard,Early cancel,38.0,0
+S00651,P023,C014,2026-01-30,Standard,Early cancel,47.0,0
+S00652,P030,C019,2026-01-30,Standard,Attended,,0
+S00653,P035,C022,2026-01-30,Standard,Attended,,0
+S00654,P047,C030,2026-01-30,Standard,Early cancel,39.0,0
+S00655,P004,C003,2026-01-31,Prenatal,Early cancel,30.0,0
+S00656,P010,C006,2026-01-31,Standard,Attended,,1
+S00657,P020,C012,2026-01-31,Standard,Early cancel,49.0,1
+S00658,P028,C018,2026-01-31,Standard,Early cancel,52.0,0
+S00659,P035,C022,2026-01-31,Standard,Early cancel,34.0,0
+S00660,P047,C030,2026-01-31,Standard,Early cancel,32.0,0
+S00661,P015,C009,2026-02-02,Standard,Attended,,1
+S00662,P019,C011,2026-02-02,Standard,Attended,,0
+S00663,P023,C014,2026-02-02,Standard,Early cancel,29.0,1
+S00664,P028,C018,2026-02-02,Standard,Attended,,2
+S00665,P047,C030,2026-02-02,Standard,Late cancel,23.0,2
+S00666,P010,C006,2026-02-03,Standard,Early cancel,36.0,0
+S00667,P015,C009,2026-02-03,Standard,Attended,,1
+S00668,P017,C010,2026-02-03,Standard,Early cancel,53.0,0
+S00669,P019,C011,2026-02-03,Standard,Attended,,1
+S00670,P020,C012,2026-02-03,Standard,Attended,,2
+S00671,P023,C014,2026-02-03,Standard,Early cancel,36.0,0
+S00672,P024,C015,2026-02-03,Standard,Late cancel,6.0,0
+S00673,P028,C018,2026-02-03,Standard,Attended,,0
+S00674,P030,C019,2026-02-03,Standard,Attended,,0
+S00675,P046,C029,2026-02-03,Standard,Attended,,0
+S00676,P047,C030,2026-02-03,Standard,Attended,,1
+S00677,P004,C003,2026-02-04,Prenatal,Attended,,1
+S00678,P010,C006,2026-02-04,Standard,Attended,,0
+S00679,P015,C009,2026-02-04,Standard,Attended,,0
+S00680,P017,C010,2026-02-04,Standard,Attended,,0
+S00681,P019,C011,2026-02-04,Standard,Late cancel,16.0,0
+S00682,P020,C012,2026-02-04,Standard,Early cancel,58.0,0
+S00683,P021,C013,2026-02-04,Postpartum,Attended,,0
+S00684,P035,C022,2026-02-04,Standard,Early cancel,36.0,1
+S00685,P046,C029,2026-02-04,Standard,Attended,,0
+S00686,P047,C030,2026-02-04,Standard,Early cancel,37.0,1
+S00687,P010,C006,2026-02-05,Standard,Attended,,0
+S00688,P015,C009,2026-02-05,Standard,Early cancel,61.0,0
+S00689,P017,C010,2026-02-05,Standard,Late cancel,19.0,1
+S00690,P019,C011,2026-02-05,Standard,Late cancel,16.0,0
+S00691,P020,C012,2026-02-05,Standard,Early cancel,43.0,0
+S00692,P023,C014,2026-02-05,Standard,Attended,,1
+S00693,P024,C015,2026-02-05,Standard,Attended,,0
+S00694,P015,C009,2026-02-06,Standard,Early cancel,32.0,0
+S00695,P019,C011,2026-02-06,Standard,Early cancel,57.0,1
+S00696,P023,C014,2026-02-06,Standard,Attended,,0
+S00697,P030,C019,2026-02-06,Standard,No-show,,0
+S00698,P035,C022,2026-02-06,Standard,Attended,,0
+S00699,P047,C030,2026-02-06,Standard,Attended,,0
+S00700,P004,C003,2026-02-07,Prenatal,Attended,,0
+S00701,P010,C006,2026-02-07,Standard,Attended,,1
+S00702,P020,C012,2026-02-07,Standard,Attended,,1
+S00703,P023,C014,2026-02-07,Standard,Attended,,2
+S00704,P035,C022,2026-02-07,Standard,Attended,,0
+S00705,P047,C030,2026-02-07,Standard,Attended,,0
+S00706,P015,C009,2026-02-09,Standard,Late cancel,19.0,1
+S00707,P019,C011,2026-02-09,Standard,Attended,,0
+S00708,P020,C012,2026-02-09,Standard,Late cancel,14.0,1
+S00709,P035,C022,2026-02-09,Standard,Early cancel,55.0,2
+S00710,P047,C030,2026-02-09,Standard,Late cancel,6.0,2
+S00711,P010,C006,2026-02-10,Standard,Attended,,0
+S00712,P015,C009,2026-02-10,Standard,Attended,,1
+S00713,P019,C011,2026-02-10,Standard,Early cancel,51.0,2
+S00714,P023,C014,2026-02-10,Standard,Late cancel,6.0,0
+S00715,P024,C015,2026-02-10,Standard,Attended,,0
+S00716,P029,C018,2026-02-10,Standard,Late cancel,5.0,0
+S00717,P030,C019,2026-02-10,Standard,Attended,,0
+S00718,P039,C025,2026-02-10,Postpartum,Attended,,0
+S00719,P046,C029,2026-02-10,Standard,Late cancel,5.0,0
+S00720,P010,C006,2026-02-11,Standard,Late cancel,23.0,0
+S00721,P015,C009,2026-02-11,Standard,Late cancel,12.0,0
+S00722,P019,C011,2026-02-11,Standard,Attended,,0
+S00723,P020,C012,2026-02-11,Standard,Late cancel,19.0,0
+S00724,P021,C013,2026-02-11,Postpartum,Attended,,0
+S00725,P029,C018,2026-02-11,Standard,Attended,,0
+S00726,P046,C029,2026-02-11,Standard,Attended,,0
+S00727,P010,C006,2026-02-12,Standard,Attended,,0
+S00728,P015,C009,2026-02-12,Standard,Attended,,0
+S00729,P019,C011,2026-02-12,Standard,Attended,,0
+S00730,P020,C012,2026-02-12,Standard,Attended,,0
+S00731,P024,C015,2026-02-12,Standard,Early cancel,58.0,0
+S00732,P044,C028,2026-02-12,Standard,Early cancel,25.0,0
+S00733,P015,C009,2026-02-13,Standard,Early cancel,50.0,0
+S00734,P023,C014,2026-02-13,Standard,Attended,,0
+S00735,P030,C019,2026-02-13,Standard,Attended,,0
+S00736,P035,C022,2026-02-13,Standard,Attended,,0
+S00737,P047,C030,2026-02-13,Standard,Attended,,0
+S00738,P004,C003,2026-02-14,Prenatal,Attended,,0
+S00739,P029,C018,2026-02-14,Standard,Attended,,0
+S00740,P035,C022,2026-02-14,Standard,Early cancel,45.0,0
+S00741,P044,C028,2026-02-14,Standard,Early cancel,24.0,1
+S00742,P047,C030,2026-02-14,Standard,Early cancel,26.0,0
+S00743,P015,C009,2026-02-16,Standard,Attended,,1
+S00744,P019,C011,2026-02-16,Standard,Attended,,0
+S00745,P024,C015,2026-02-16,Standard,Attended,,1
+S00746,P035,C022,2026-02-16,Standard,Attended,,1
+S00747,P044,C028,2026-02-16,Standard,Late cancel,3.0,0
+S00748,P010,C006,2026-02-17,Standard,Attended,,0
+S00749,P018,C010,2026-02-17,Standard,Attended,,0
+S00750,P023,C014,2026-02-17,Standard,Attended,,0
+S00751,P024,C015,2026-02-17,Standard,Late cancel,14.0,0
+S00752,P029,C018,2026-02-17,Standard,Early cancel,30.0,0
+S00753,P030,C019,2026-02-17,Standard,Late cancel,7.0,0
+S00754,P039,C025,2026-02-17,Postpartum,Attended,,0
+S00755,P044,C028,2026-02-17,Standard,Attended,,0
+S00756,P046,C029,2026-02-17,Standard,Late cancel,18.0,0
+S00757,P010,C006,2026-02-18,Standard,Late cancel,23.0,0
+S00758,P015,C009,2026-02-18,Standard,Attended,,0
+S00759,P018,C010,2026-02-18,Standard,Attended,,0
+S00760,P019,C011,2026-02-18,Standard,Attended,,0
+S00761,P020,C012,2026-02-18,Standard,Late cancel,15.0,0
+S00762,P021,C013,2026-02-18,Postpartum,Early cancel,58.0,0
+S00763,P029,C018,2026-02-18,Standard,Late cancel,5.0,0
+S00764,P044,C028,2026-02-18,Standard,Early cancel,51.0,2
+S00765,P046,C029,2026-02-18,Standard,Attended,,0
+S00766,P047,C030,2026-02-18,Standard,Attended,,1
+S00767,P010,C006,2026-02-19,Standard,Early cancel,28.0,0
+S00768,P015,C009,2026-02-19,Standard,Attended,,0
+S00769,P019,C011,2026-02-19,Standard,Attended,,0
+S00770,P020,C012,2026-02-19,Standard,Attended,,0
+S00771,P024,C015,2026-02-19,Standard,Attended,,0
+S00772,P044,C028,2026-02-19,Standard,Early cancel,32.0,0
+S00773,P015,C009,2026-02-20,Standard,Early cancel,66.0,0
+S00774,P023,C014,2026-02-20,Standard,Early cancel,39.0,0
+S00775,P029,C018,2026-02-20,Standard,Late cancel,2.0,1
+S00776,P030,C019,2026-02-20,Standard,Early cancel,42.0,0
+S00777,P035,C022,2026-02-20,Standard,Attended,,0
+S00778,P047,C030,2026-02-20,Standard,Early cancel,71.0,0
+S00779,P004,C003,2026-02-21,Prenatal,Early cancel,28.0,0
+S00780,P021,C013,2026-02-21,Postpartum,Early cancel,55.0,1
+S00781,P029,C018,2026-02-21,Standard,Early cancel,68.0,0
+S00782,P035,C022,2026-02-21,Standard,Early cancel,68.0,0
+S00783,P047,C030,2026-02-21,Standard,Early cancel,44.0,0
+S00784,P010,C006,2026-02-23,Standard,Attended,,1
+S00785,P015,C009,2026-02-23,Standard,Early cancel,53.0,1
+S00786,P019,C011,2026-02-23,Standard,Late cancel,16.0,0
+S00787,P021,C013,2026-02-23,Postpartum,Attended,,2
+S00788,P023,C014,2026-02-23,Standard,Attended,,1
+S00789,P030,C019,2026-02-23,Standard,Attended,,1
+S00790,P035,C022,2026-02-23,Standard,Late cancel,19.0,1
+S00791,P044,C028,2026-02-23,Standard,Attended,,0
+S00792,P047,C030,2026-02-23,Standard,Early cancel,38.0,1
+S00793,P004,C003,2026-02-24,Prenatal,Late cancel,6.0,1
+S00794,P010,C006,2026-02-24,Standard,Attended,,0
+S00795,P018,C010,2026-02-24,Standard,Attended,,0
+S00796,P023,C014,2026-02-24,Standard,Late cancel,9.0,0
+S00797,P024,C015,2026-02-24,Standard,Attended,,0
+S00798,P029,C018,2026-02-24,Standard,Attended,,0
+S00799,P030,C019,2026-02-24,Standard,Attended,,0
+S00800,P039,C025,2026-02-24,Postpartum,Early cancel,40.0,0
+S00801,P044,C028,2026-02-24,Standard,Attended,,0
+S00802,P046,C029,2026-02-24,Standard,No-show,,0
+S00803,P047,C030,2026-02-24,Standard,Late cancel,6.0,1
+S00804,P010,C006,2026-02-25,Standard,Attended,,0
+S00805,P015,C009,2026-02-25,Standard,Attended,,0
+S00806,P018,C010,2026-02-25,Standard,Attended,,0
+S00807,P019,C011,2026-02-25,Standard,Early cancel,53.0,0
+S00808,P020,C012,2026-02-25,Standard,Attended,,0
+S00809,P021,C013,2026-02-25,Postpartum,Attended,,0
+S00810,P029,C018,2026-02-25,Standard,Attended,,0
+S00811,P044,C028,2026-02-25,Standard,Late cancel,7.0,1
+S00812,P046,C029,2026-02-25,Standard,Attended,,0
+S00813,P047,C030,2026-02-25,Standard,Attended,,2
+S00814,P010,C006,2026-02-26,Standard,Attended,,0
+S00815,P015,C009,2026-02-26,Standard,Attended,,0
+S00816,P019,C011,2026-02-26,Standard,Early cancel,24.0,0
+S00817,P020,C012,2026-02-26,Standard,Early cancel,27.0,0
+S00818,P024,C015,2026-02-26,Standard,Attended,,0
+S00819,P029,C018,2026-02-26,Standard,Early cancel,29.0,1
+S00820,P044,C028,2026-02-26,Standard,Attended,,0
+S00821,P013,C008,2026-02-27,Standard,Late cancel,7.0,0
+S00822,P015,C009,2026-02-27,Standard,Attended,,0
+S00823,P019,C011,2026-02-27,Standard,Early cancel,56.0,1
+S00824,P023,C014,2026-02-27,Standard,Attended,,0
+S00825,P030,C019,2026-02-27,Standard,Late cancel,4.0,0
+S00826,P035,C022,2026-02-27,Standard,Attended,,0
+S00827,P047,C030,2026-02-27,Standard,Early cancel,29.0,0
+S00828,P004,C003,2026-02-28,Prenatal,Early cancel,35.0,0
+S00829,P019,C011,2026-02-28,Standard,Early cancel,31.0,1
+S00830,P020,C012,2026-02-28,Standard,Early cancel,34.0,1
+S00831,P029,C018,2026-02-28,Standard,Early cancel,40.0,0
+S00832,P034,C021,2026-02-28,Standard,Early cancel,70.0,0
+S00833,P035,C022,2026-02-28,Standard,Attended,,0
+S00834,P039,C025,2026-02-28,Postpartum,Early cancel,42.0,1
+S00835,P047,C030,2026-02-28,Standard,Late cancel,7.0,0
+S00836,P019,C011,2026-03-02,Standard,Late cancel,10.0,0
+S00837,P020,C012,2026-03-02,Standard,Early cancel,38.0,2
+S00838,P029,C018,2026-03-02,Standard,Early cancel,52.0,2
+S00839,P034,C021,2026-03-02,Standard,Attended,,1
+S00840,P044,C028,2026-03-02,Standard,Early cancel,53.0,0
+S00841,P047,C030,2026-03-02,Standard,Early cancel,34.0,1
+S00842,P010,C006,2026-03-03,Standard,Attended,,0
+S00843,P018,C010,2026-03-03,Standard,Attended,,0
+S00844,P023,C014,2026-03-03,Standard,Attended,,0
+S00845,P024,C015,2026-03-03,Standard,Attended,,0
+S00846,P029,C018,2026-03-03,Standard,Early cancel,53.0,0
+S00847,P030,C019,2026-03-03,Standard,Late cancel,22.0,0
+S00848,P039,C025,2026-03-03,Postpartum,Early cancel,72.0,0
+S00849,P044,C028,2026-03-03,Standard,Late cancel,8.0,0
+S00850,P046,C029,2026-03-03,Standard,Attended,,0
+S00851,P004,C003,2026-03-04,Prenatal,No-show,,1
+S00852,P010,C006,2026-03-04,Standard,Attended,,0
+S00853,P018,C010,2026-03-04,Standard,Attended,,0
+S00854,P020,C012,2026-03-04,Standard,Late cancel,22.0,0
+S00855,P021,C013,2026-03-04,Postpartum,Attended,,0
+S00856,P029,C018,2026-03-04,Standard,Late cancel,3.0,0
+S00857,P034,C021,2026-03-04,Standard,Attended,,0
+S00858,P039,C025,2026-03-04,Postpartum,Early cancel,26.0,2
+S00859,P044,C028,2026-03-04,Standard,Early cancel,43.0,1
+S00860,P046,C029,2026-03-04,Standard,Attended,,0
+S00861,P010,C006,2026-03-05,Standard,Attended,,0
+S00862,P020,C012,2026-03-05,Standard,Late cancel,8.0,0
+S00863,P024,C015,2026-03-05,Standard,Attended,,0
+S00864,P029,C018,2026-03-05,Standard,Late cancel,5.0,1
+S00865,P034,C021,2026-03-05,Standard,Early cancel,72.0,0
+S00866,P044,C028,2026-03-05,Standard,Early cancel,48.0,0
+S00867,P013,C008,2026-03-06,Standard,Early cancel,68.0,0
+S00868,P023,C014,2026-03-06,Standard,Early cancel,68.0,0
+S00869,P030,C019,2026-03-06,Standard,Early cancel,33.0,0
+S00870,P035,C022,2026-03-06,Standard,Attended,,0
+S00871,P039,C025,2026-03-06,Postpartum,Attended,,1
+S00872,P047,C030,2026-03-06,Standard,Early cancel,71.0,0
+S00873,P004,C003,2026-03-07,Prenatal,Early cancel,67.0,0
+S00874,P029,C018,2026-03-07,Standard,Late cancel,23.0,0
+S00875,P034,C021,2026-03-07,Standard,Early cancel,44.0,0
+S00876,P035,C022,2026-03-07,Standard,Attended,,0
+S00877,P044,C028,2026-03-07,Standard,Late cancel,7.0,2
+S00878,P047,C030,2026-03-07,Standard,Attended,,0
+S00879,P013,C008,2026-03-09,Standard,Early cancel,72.0,1
+S00880,P029,C018,2026-03-09,Standard,Attended,,1
+S00881,P034,C021,2026-03-09,Standard,Attended,,1
+S00882,P044,C028,2026-03-09,Standard,Early cancel,41.0,0
+S00883,P047,C030,2026-03-09,Standard,Attended,,2
+S00884,P004,C003,2026-03-10,Prenatal,Attended,,1
+S00885,P010,C006,2026-03-10,Standard,Attended,,0
+S00886,P018,C010,2026-03-10,Standard,Early cancel,60.0,0
+S00887,P023,C014,2026-03-10,Standard,Attended,,0
+S00888,P024,C015,2026-03-10,Standard,Early cancel,55.0,0
+S00889,P029,C018,2026-03-10,Standard,Attended,,0
+S00890,P030,C019,2026-03-10,Standard,Attended,,0
+S00891,P034,C021,2026-03-10,Standard,Attended,,1
+S00892,P039,C025,2026-03-10,Postpartum,Early cancel,64.0,0
+S00893,P044,C028,2026-03-10,Standard,Attended,,0
+S00894,P046,C029,2026-03-10,Standard,Attended,,0
+S00895,P047,C030,2026-03-10,Standard,Late cancel,19.0,1
+S00896,P010,C006,2026-03-11,Standard,Late cancel,12.0,0
+S00897,P018,C010,2026-03-11,Standard,Attended,,0
+S00898,P020,C012,2026-03-11,Standard,Late cancel,7.0,0
+S00899,P021,C013,2026-03-11,Postpartum,Early cancel,44.0,0
+S00900,P023,C014,2026-03-11,Standard,Early cancel,25.0,1
+S00901,P029,C018,2026-03-11,Standard,Attended,,0
+S00902,P030,C019,2026-03-11,Standard,Attended,,1
+S00903,P034,C021,2026-03-11,Standard,Attended,,0
+S00904,P044,C028,2026-03-11,Standard,Early cancel,70.0,1
+S00905,P046,C029,2026-03-11,Standard,Attended,,0
+S00906,P010,C006,2026-03-12,Standard,Attended,,0
+S00907,P020,C012,2026-03-12,Standard,Attended,,0
+S00908,P024,C015,2026-03-12,Standard,Attended,,0
+S00909,P034,C021,2026-03-12,Standard,Late cancel,14.0,0
+S00910,P044,C028,2026-03-12,Standard,Early cancel,65.0,0
+S00911,P013,C008,2026-03-13,Standard,Attended,,0
+S00912,P023,C014,2026-03-13,Standard,Early cancel,41.0,0
+S00913,P024,C015,2026-03-13,Standard,Late cancel,8.0,1
+S00914,P030,C019,2026-03-13,Standard,Attended,,0
+S00915,P035,C022,2026-03-13,Standard,Attended,,0
+S00916,P039,C025,2026-03-13,Postpartum,Attended,,1
+S00917,P044,C028,2026-03-13,Standard,Early cancel,39.0,1
+S00918,P047,C030,2026-03-13,Standard,Early cancel,46.0,0
+S00919,P004,C003,2026-03-14,Prenatal,Early cancel,56.0,0
+S00920,P013,C008,2026-03-14,Standard,Attended,,2
+S00921,P018,C010,2026-03-14,Standard,Attended,,1
+S00922,P023,C014,2026-03-14,Standard,Attended,,2
+S00923,P029,C018,2026-03-14,Standard,Early cancel,28.0,0
+S00924,P034,C021,2026-03-14,Standard,Early cancel,70.0,0
+S00925,P035,C022,2026-03-14,Standard,Early cancel,67.0,0
+S00926,P047,C030,2026-03-14,Standard,Attended,,0
+S00927,P021,C013,2026-03-16,Postpartum,Attended,,1
+S00928,P023,C014,2026-03-16,Standard,Attended,,1
+S00929,P034,C021,2026-03-16,Standard,Early cancel,60.0,1
+S00930,P044,C028,2026-03-16,Standard,Early cancel,40.0,0
+S00931,P047,C030,2026-03-16,Standard,Attended,,1
+S00932,P010,C006,2026-03-17,Standard,Attended,,0
+S00933,P018,C010,2026-03-17,Standard,Late cancel,9.0,0
+S00934,P023,C014,2026-03-17,Standard,Attended,,0
+S00935,P024,C015,2026-03-17,Standard,Attended,,0
+S00936,P029,C018,2026-03-17,Standard,Attended,,0
+S00937,P030,C019,2026-03-17,Standard,Attended,,0
+S00938,P035,C022,2026-03-17,Standard,Early cancel,27.0,1
+S00939,P039,C025,2026-03-17,Postpartum,Early cancel,57.0,0
+S00940,P044,C028,2026-03-17,Standard,Early cancel,63.0,0
+S00941,P046,C029,2026-03-17,Standard,Attended,,0
+S00942,P004,C003,2026-03-18,Prenatal,Early cancel,61.0,1
+S00943,P010,C006,2026-03-18,Standard,Attended,,0
+S00944,P018,C010,2026-03-18,Standard,Early cancel,31.0,0
+S00945,P020,C012,2026-03-18,Standard,Attended,,0
+S00946,P021,C013,2026-03-18,Postpartum,Attended,,0
+S00947,P029,C018,2026-03-18,Standard,Early cancel,71.0,0
+S00948,P034,C021,2026-03-18,Standard,Attended,,0
+S00949,P044,C028,2026-03-18,Standard,Attended,,2
+S00950,P046,C029,2026-03-18,Standard,Late cancel,12.0,0
+S00951,P010,C006,2026-03-19,Standard,Attended,,0
+S00952,P020,C012,2026-03-19,Standard,Attended,,0
+S00953,P024,C015,2026-03-19,Standard,Attended,,0
+S00954,P029,C018,2026-03-19,Standard,Attended,,1
+S00955,P034,C021,2026-03-19,Standard,Attended,,0
+S00956,P044,C028,2026-03-19,Standard,Attended,,0
+S00957,P013,C008,2026-03-20,Standard,Attended,,0
+S00958,P023,C014,2026-03-20,Standard,Early cancel,33.0,0
+S00959,P030,C019,2026-03-20,Standard,Attended,,0
+S00960,P034,C021,2026-03-20,Standard,Attended,,2
+S00961,P035,C022,2026-03-20,Standard,Attended,,0
+S00962,P044,C028,2026-03-20,Standard,Early cancel,71.0,1
+S00963,P047,C030,2026-03-20,Standard,Early cancel,43.0,0
+S00964,P004,C003,2026-03-21,Prenatal,Attended,,0
+S00965,P029,C018,2026-03-21,Standard,Early cancel,52.0,0
+S00966,P034,C021,2026-03-21,Standard,Attended,,0
+S00967,P035,C022,2026-03-21,Standard,Attended,,0
+S00968,P039,C025,2026-03-21,Postpartum,Attended,,1
+S00969,P044,C028,2026-03-21,Standard,Attended,,2
+S00970,P047,C030,2026-03-21,Standard,Attended,,0
+S00971,P004,C003,2026-03-23,Prenatal,Attended,,2
+S00972,P018,C010,2026-03-23,Standard,Attended,,1
+S00973,P023,C014,2026-03-23,Standard,Attended,,1
+S00974,P029,C018,2026-03-23,Standard,Attended,,1
+S00975,P035,C022,2026-03-23,Standard,Attended,,2
+S00976,P044,C028,2026-03-23,Standard,Attended,,0
+S00977,P047,C030,2026-03-23,Standard,Early cancel,51.0,1
+S00978,P010,C006,2026-03-24,Standard,Attended,,0
+S00979,P018,C010,2026-03-24,Standard,Early cancel,46.0,0
+S00980,P023,C014,2026-03-24,Standard,Attended,,0
+S00981,P024,C015,2026-03-24,Standard,Attended,,0
+S00982,P029,C018,2026-03-24,Standard,Early cancel,61.0,0
+S00983,P030,C019,2026-03-24,Standard,Attended,,0
+S00984,P039,C025,2026-03-24,Postpartum,Early cancel,58.0,0
+S00985,P044,C028,2026-03-24,Standard,Early cancel,51.0,0
+S00986,P046,C029,2026-03-24,Standard,Late cancel,2.0,0
+S00987,P010,C006,2026-03-25,Standard,Attended,,0
+S00988,P018,C010,2026-03-25,Standard,Late cancel,22.0,0
+S00989,P020,C012,2026-03-25,Standard,Early cancel,66.0,0
+S00990,P021,C013,2026-03-25,Postpartum,Attended,,0
+S00991,P029,C018,2026-03-25,Standard,Early cancel,60.0,0
+S00992,P034,C021,2026-03-25,Standard,Early cancel,34.0,0
+S00993,P044,C028,2026-03-25,Standard,Attended,,1
+S00994,P046,C029,2026-03-25,Standard,Attended,,0
+S00995,P047,C030,2026-03-25,Standard,Early cancel,64.0,2
+S00996,P010,C006,2026-03-26,Standard,Attended,,0
+S00997,P018,C010,2026-03-26,Standard,Attended,,1
+S00998,P020,C012,2026-03-26,Standard,Attended,,0
+S00999,P024,C015,2026-03-26,Standard,Attended,,0
+S01000,P029,C018,2026-03-26,Standard,Early cancel,30.0,1
+S01001,P034,C021,2026-03-26,Standard,Attended,,0
+S01002,P044,C028,2026-03-26,Standard,Early cancel,42.0,0
+S01003,P013,C008,2026-03-27,Standard,Early cancel,35.0,0
+S01004,P023,C014,2026-03-27,Standard,Attended,,0
+S01005,P029,C018,2026-03-27,Standard,Early cancel,29.0,1
+S01006,P030,C019,2026-03-27,Standard,Late cancel,4.0,0
+S01007,P035,C022,2026-03-27,Standard,Attended,,0
+S01008,P039,C025,2026-03-27,Postpartum,Attended,,1
+S01009,P044,C028,2026-03-27,Standard,Attended,,1
+S01010,P047,C030,2026-03-27,Standard,Early cancel,42.0,0
+S01011,P029,C018,2026-03-28,Standard,Late cancel,6.0,0
+S01012,P034,C021,2026-03-28,Standard,Attended,,0
+S01013,P035,C022,2026-03-28,Standard,Attended,,0
+S01014,P044,C028,2026-03-28,Standard,Early cancel,25.0,2
+S01015,P047,C030,2026-03-28,Standard,Attended,,0
+S01016,P029,C018,2026-03-30,Standard,Early cancel,60.0,1
+S01017,P034,C021,2026-03-30,Standard,Attended,,1
+S01018,P044,C028,2026-03-30,Standard,Early cancel,43.0,0
+S01019,P010,C006,2026-03-31,Standard,Attended,,0
+S01020,P013,C008,2026-03-31,Standard,Attended,,1
+S01021,P018,C010,2026-03-31,Standard,Attended,,0
+S01022,P023,C014,2026-03-31,Standard,Early cancel,53.0,0
+S01023,P024,C015,2026-03-31,Standard,Attended,,0
+S01024,P029,C018,2026-03-31,Standard,Attended,,0
+S01025,P030,C019,2026-03-31,Standard,Early cancel,47.0,0
+S01026,P039,C025,2026-03-31,Postpartum,Early cancel,25.0,0
+S01027,P044,C028,2026-03-31,Standard,Attended,,0
+S01028,P046,C029,2026-03-31,Standard,Attended,,0
+S01029,P047,C030,2026-03-31,Standard,Attended,,1
+S01030,P010,C006,2026-04-01,Standard,Attended,,0
+S01031,P018,C010,2026-04-01,Standard,Attended,,0
+S01032,P021,C013,2026-04-01,Postpartum,Early cancel,39.0,0
+S01033,P029,C018,2026-04-01,Standard,Attended,,0
+S01034,P034,C021,2026-04-01,Standard,Attended,,0
+S01035,P044,C028,2026-04-01,Standard,Early cancel,27.0,1
+S01036,P046,C029,2026-04-01,Standard,Early cancel,33.0,0
+S01037,P010,C006,2026-04-02,Standard,Attended,,0
+S01038,P023,C014,2026-04-02,Standard,Early cancel,44.0,1
+S01039,P024,C015,2026-04-02,Standard,Attended,,0
+S01040,P029,C018,2026-04-02,Standard,Early cancel,38.0,2
+S01041,P030,C019,2026-04-02,Standard,Attended,,1
+S01042,P034,C021,2026-04-02,Standard,Attended,,0
+S01043,P044,C028,2026-04-02,Standard,Early cancel,58.0,0
+S01044,P013,C008,2026-04-03,Standard,Attended,,0
+S01045,P021,C013,2026-04-03,Postpartum,Attended,,1
+S01046,P023,C014,2026-04-03,Standard,Early cancel,72.0,0
+S01047,P029,C018,2026-04-03,Standard,Attended,,2
+S01048,P030,C019,2026-04-03,Standard,Late cancel,2.0,0
+S01049,P035,C022,2026-04-03,Standard,Attended,,0
+S01050,P044,C028,2026-04-03,Standard,Early cancel,39.0,1
+S01051,P047,C030,2026-04-03,Standard,Attended,,0
+S01052,P034,C021,2026-04-04,Standard,Attended,,0
+S01053,P035,C022,2026-04-04,Standard,Late cancel,1.0,0
+S01054,P039,C025,2026-04-04,Postpartum,Attended,,1
+S01055,P044,C028,2026-04-04,Standard,No-show,,1
+S01056,P047,C030,2026-04-04,Standard,Early cancel,57.0,0
+S01057,P023,C014,2026-04-06,Standard,Attended,,2
+S01058,P044,C028,2026-04-06,Standard,Early cancel,53.0,0
+S01059,P046,C029,2026-04-06,Standard,Attended,,1
+S01060,P047,C030,2026-04-06,Standard,Attended,,1
+S01061,P010,C006,2026-04-07,Standard,Late cancel,22.0,0
+S01062,P018,C010,2026-04-07,Standard,Early cancel,44.0,0
+S01063,P023,C014,2026-04-07,Standard,Early cancel,54.0,0
+S01064,P024,C015,2026-04-07,Standard,Attended,,0
+S01065,P039,C025,2026-04-07,Postpartum,Attended,,0
+S01066,P044,C028,2026-04-07,Standard,Early cancel,42.0,0
+S01067,P046,C029,2026-04-07,Standard,Attended,,0
+S01068,P010,C006,2026-04-08,Standard,Attended,,0
+S01069,P018,C010,2026-04-08,Standard,Late cancel,16.0,0
+S01070,P021,C013,2026-04-08,Postpartum,Attended,,0
+S01071,P023,C014,2026-04-08,Standard,Attended,,1
+S01072,P026,C016,2026-04-08,Standard,Early cancel,62.0,0
+S01073,P034,C021,2026-04-08,Standard,Attended,,0
+S01074,P044,C028,2026-04-08,Standard,Attended,,2
+S01075,P046,C029,2026-04-08,Standard,Early cancel,26.0,0
+S01076,P010,C006,2026-04-09,Standard,Early cancel,70.0,0
+S01077,P018,C010,2026-04-09,Standard,Attended,,1
+S01078,P024,C015,2026-04-09,Standard,Early cancel,70.0,0
+S01079,P034,C021,2026-04-09,Standard,Attended,,0
+S01080,P044,C028,2026-04-09,Standard,Early cancel,54.0,0
+S01081,P013,C008,2026-04-10,Standard,Attended,,0
+S01082,P023,C014,2026-04-10,Standard,Late cancel,15.0,0
+S01083,P044,C028,2026-04-10,Standard,Early cancel,42.0,1
+S01084,P047,C030,2026-04-10,Standard,Early cancel,68.0,0
+S01085,P010,C006,2026-04-11,Standard,Attended,,1
+S01086,P023,C014,2026-04-11,Standard,Early cancel,59.0,1
+S01087,P026,C016,2026-04-11,Standard,Early cancel,42.0,0
+S01088,P034,C021,2026-04-11,Standard,Late cancel,7.0,0
+S01089,P044,C028,2026-04-11,Standard,Early cancel,51.0,2
+S01090,P046,C029,2026-04-11,Standard,Attended,,1
+S01091,P047,C030,2026-04-11,Standard,Attended,,0
+S01092,P024,C015,2026-04-13,Standard,Attended,,1
+S01093,P026,C016,2026-04-13,Standard,Late cancel,7.0,1
+S01094,P044,C028,2026-04-13,Standard,Attended,,0
+S01095,P047,C030,2026-04-13,Standard,Attended,,1
+S01096,P010,C006,2026-04-14,Standard,Attended,,0
+S01097,P018,C010,2026-04-14,Standard,Early cancel,64.0,0
+S01098,P023,C014,2026-04-14,Standard,Attended,,0
+S01099,P024,C015,2026-04-14,Standard,Late cancel,19.0,0
+S01100,P026,C016,2026-04-14,Standard,Late cancel,16.0,1
+S01101,P039,C025,2026-04-14,Postpartum,Attended,,0
+S01102,P044,C028,2026-04-14,Standard,Early cancel,45.0,0
+S01103,P046,C029,2026-04-14,Standard,Attended,,0
+S01104,P010,C006,2026-04-15,Standard,Attended,,0
+S01105,P018,C010,2026-04-15,Standard,Attended,,0
+S01106,P023,C014,2026-04-15,Standard,Late cancel,10.0,2
+S01107,P026,C016,2026-04-15,Standard,Attended,,0
+S01108,P034,C021,2026-04-15,Standard,Attended,,0
+S01109,P044,C028,2026-04-15,Standard,Attended,,1
+S01110,P046,C029,2026-04-15,Standard,Attended,,0
+S01111,P010,C006,2026-04-16,Standard,Attended,,0
+S01112,P024,C015,2026-04-16,Standard,Early cancel,71.0,0
+S01113,P034,C021,2026-04-16,Standard,Late cancel,10.0,0
+S01114,P036,C023,2026-04-16,Standard,Attended,,0
+S01115,P044,C028,2026-04-16,Standard,Early cancel,68.0,0
+S01116,P013,C008,2026-04-17,Standard,Early cancel,31.0,0
+S01117,P023,C014,2026-04-17,Standard,Attended,,0
+S01118,P031,C019,2026-04-17,Standard,Late cancel,10.0,0
+S01119,P044,C028,2026-04-17,Standard,Late cancel,17.0,1
+S01120,P047,C030,2026-04-17,Standard,Early cancel,27.0,0
+S01121,P018,C010,2026-04-18,Standard,Attended,,1
+S01122,P026,C016,2026-04-18,Standard,Attended,,0
+S01123,P034,C021,2026-04-18,Standard,Attended,,0
+S01124,P044,C028,2026-04-18,Standard,Attended,,1
+S01125,P047,C030,2026-04-18,Standard,Late cancel,16.0,0
+S01126,P005,C004,2026-04-20,Standard,Early cancel,46.0,0
+S01127,P024,C015,2026-04-20,Standard,Attended,,1
+S01128,P044,C028,2026-04-20,Standard,Attended,,0
+S01129,P047,C030,2026-04-20,Standard,Attended,,1
+S01130,P005,C004,2026-04-21,Standard,Early cancel,52.0,0
+S01131,P010,C006,2026-04-21,Standard,Late cancel,6.0,0
+S01132,P013,C008,2026-04-21,Standard,Attended,,1
+S01133,P018,C010,2026-04-21,Standard,Attended,,0
+S01134,P023,C014,2026-04-21,Standard,Early cancel,28.0,0
+S01135,P024,C015,2026-04-21,Standard,Attended,,0
+S01136,P031,C019,2026-04-21,Standard,Attended,,0
+S01137,P039,C025,2026-04-21,Postpartum,Late cancel,8.0,0
+S01138,P044,C028,2026-04-21,Standard,Attended,,0
+S01139,P046,C029,2026-04-21,Standard,Attended,,0
+S01140,P005,C004,2026-04-22,Standard,Early cancel,39.0,0
+S01141,P010,C006,2026-04-22,Standard,Attended,,0
+S01142,P018,C010,2026-04-22,Standard,Late cancel,6.0,0
+S01143,P026,C016,2026-04-22,Standard,Early cancel,29.0,0
+S01144,P034,C021,2026-04-22,Standard,Attended,,0
+S01145,P036,C023,2026-04-22,Standard,Early cancel,24.0,0
+S01146,P044,C028,2026-04-22,Standard,Early cancel,44.0,2
+S01147,P046,C029,2026-04-22,Standard,Attended,,0
+S01148,P010,C006,2026-04-23,Standard,Late cancel,21.0,0
+S01149,P024,C015,2026-04-23,Standard,Attended,,0
+S01150,P034,C021,2026-04-23,Standard,Early cancel,53.0,0
+S01151,P036,C023,2026-04-23,Standard,Attended,,0
+S01152,P044,C028,2026-04-23,Standard,Attended,,0
+S01153,P005,C004,2026-04-24,Standard,Early cancel,41.0,1
+S01154,P013,C008,2026-04-24,Standard,Attended,,0
+S01155,P023,C014,2026-04-24,Standard,Early cancel,51.0,0
+S01156,P031,C019,2026-04-24,Standard,Early cancel,35.0,0
+S01157,P044,C028,2026-04-24,Standard,Early cancel,40.0,1
+S01158,P047,C030,2026-04-24,Standard,Attended,,0
+S01159,P005,C004,2026-04-25,Standard,Late cancel,14.0,1
+S01160,P023,C014,2026-04-25,Standard,Attended,,1
+S01161,P026,C016,2026-04-25,Standard,Attended,,0
+S01162,P034,C021,2026-04-25,Standard,Attended,,0
+S01163,P036,C023,2026-04-25,Standard,Attended,,1
+S01164,P044,C028,2026-04-25,Standard,Early cancel,42.0,1
+S01165,P047,C030,2026-04-25,Standard,Early cancel,66.0,0
+S01166,P005,C004,2026-04-27,Standard,Attended,,0
+S01167,P023,C014,2026-04-27,Standard,Early cancel,30.0,1
+S01168,P026,C016,2026-04-27,Standard,Early cancel,54.0,1
+S01169,P031,C019,2026-04-27,Standard,Late cancel,11.0,1
+S01170,P034,C021,2026-04-27,Standard,Late cancel,19.0,1
+S01171,P044,C028,2026-04-27,Standard,Late cancel,18.0,0
+S01172,P005,C004,2026-04-28,Standard,Early cancel,45.0,0
+S01173,P010,C006,2026-04-28,Standard,Late cancel,22.0,0
+S01174,P018,C010,2026-04-28,Standard,Early cancel,27.0,0
+S01175,P023,C014,2026-04-28,Standard,Attended,,0
+S01176,P024,C015,2026-04-28,Standard,Late cancel,7.0,0
+S01177,P031,C019,2026-04-28,Standard,Attended,,0
+S01178,P039,C025,2026-04-28,Postpartum,Early cancel,57.0,0
+S01179,P044,C028,2026-04-28,Standard,Early cancel,50.0,0
+S01180,P046,C029,2026-04-28,Standard,Attended,,0
+S01181,P050,C033,2026-04-28,Standard,Early cancel,30.0,0
+S01182,P005,C004,2026-04-29,Standard,Attended,,0
+S01183,P010,C006,2026-04-29,Standard,Attended,,0
+S01184,P018,C010,2026-04-29,Standard,Early cancel,28.0,0
+S01185,P026,C016,2026-04-29,Standard,Attended,,0
+S01186,P034,C021,2026-04-29,Standard,Attended,,0
+S01187,P036,C023,2026-04-29,Standard,Attended,,0
+S01188,P044,C028,2026-04-29,Standard,Early cancel,64.0,2
+S01189,P046,C029,2026-04-29,Standard,Early cancel,44.0,0
+S01190,P047,C030,2026-04-29,Standard,Early cancel,33.0,1
+S01191,P005,C004,2026-04-30,Standard,Early cancel,48.0,1
+S01192,P010,C006,2026-04-30,Standard,Attended,,0
+S01193,P018,C010,2026-04-30,Standard,Early cancel,67.0,1
+S01194,P023,C014,2026-04-30,Standard,Early cancel,46.0,2
+S01195,P024,C015,2026-04-30,Standard,Early cancel,53.0,0
+S01196,P026,C016,2026-04-30,Standard,Attended,,2
+S01197,P034,C021,2026-04-30,Standard,Attended,,0
+S01198,P036,C023,2026-04-30,Standard,Attended,,0
+S01199,P044,C028,2026-04-30,Standard,Attended,,0
+S01200,P005,C004,2026-05-01,Standard,Attended,,2
+S01201,P013,C008,2026-05-01,Standard,Attended,,0
+S01202,P023,C014,2026-05-01,Standard,Attended,,0
+S01203,P031,C019,2026-05-01,Standard,Attended,,0
+S01204,P044,C028,2026-05-01,Standard,Early cancel,47.0,2
+S01205,P047,C030,2026-05-01,Standard,Attended,,0
+S01206,P005,C004,2026-05-02,Standard,Attended,,1
+S01207,P026,C016,2026-05-02,Standard,Attended,,0
+S01208,P034,C021,2026-05-02,Standard,Attended,,0
+S01209,P039,C025,2026-05-02,Postpartum,Attended,,1
+S01210,P044,C028,2026-05-02,Standard,Early cancel,35.0,1
+S01211,P046,C029,2026-05-02,Standard,Attended,,1
+S01212,P047,C030,2026-05-02,Standard,Late cancel,4.0,0
+S01213,P050,C033,2026-05-02,Standard,Early cancel,28.0,1
+S01214,P005,C004,2026-05-04,Standard,Attended,,0
+S01215,P018,C010,2026-05-04,Standard,Attended,,1
+S01216,P024,C015,2026-05-04,Standard,Attended,,1
+S01217,P047,C030,2026-05-04,Standard,Late cancel,16.0,2
+S01218,P050,C033,2026-05-04,Standard,Attended,,0
+S01219,P053,C035,2026-05-04,Postpartum,Attended,,0
+S01220,P005,C004,2026-05-05,Standard,Attended,,0
+S01221,P010,C006,2026-05-05,Standard,Attended,,0
+S01222,P018,C010,2026-05-05,Standard,Attended,,0
+S01223,P023,C014,2026-05-05,Standard,Attended,,0
+S01224,P024,C015,2026-05-05,Standard,Attended,,0
+S01225,P031,C019,2026-05-05,Standard,Attended,,0
+S01226,P039,C025,2026-05-05,Postpartum,Early cancel,44.0,0
+S01227,P046,C029,2026-05-05,Standard,Attended,,0
+S01228,P050,C033,2026-05-05,Standard,Attended,,0
+S01229,P005,C004,2026-05-06,Standard,Late cancel,13.0,0
+S01230,P010,C006,2026-05-06,Standard,Attended,,0
+S01231,P018,C010,2026-05-06,Standard,Early cancel,40.0,0
+S01232,P026,C016,2026-05-06,Standard,Early cancel,33.0,0
+S01233,P034,C021,2026-05-06,Standard,Attended,,0
+S01234,P036,C023,2026-05-06,Standard,Early cancel,51.0,0
+S01235,P046,C029,2026-05-06,Standard,Attended,,0
+S01236,P050,C033,2026-05-06,Standard,Attended,,2
+S01237,P005,C004,2026-05-07,Standard,Attended,,2
+S01238,P010,C006,2026-05-07,Standard,Early cancel,59.0,0
+S01239,P018,C010,2026-05-07,Standard,Attended,,2
+S01240,P024,C015,2026-05-07,Standard,Early cancel,30.0,0
+S01241,P034,C021,2026-05-07,Standard,Early cancel,24.0,0
+S01242,P036,C023,2026-05-07,Standard,Attended,,0
+S01243,P039,C025,2026-05-07,Postpartum,Late cancel,19.0,1
+S01244,P053,C035,2026-05-07,Postpartum,Attended,,0
+S01245,P013,C008,2026-05-08,Standard,Attended,,0
+S01246,P018,C010,2026-05-08,Standard,Attended,,1
+S01247,P023,C014,2026-05-08,Standard,Attended,,0
+S01248,P031,C019,2026-05-08,Standard,Attended,,0
+S01249,P047,C030,2026-05-08,Standard,Attended,,0
+S01250,P026,C016,2026-05-09,Standard,Attended,,0
+S01251,P034,C021,2026-05-09,Standard,Attended,,0
+S01252,P036,C023,2026-05-09,Standard,Early cancel,46.0,1
+S01253,P047,C030,2026-05-09,Standard,Early cancel,25.0,0
+S01254,P005,C004,2026-05-11,Standard,Attended,,0
+S01255,P010,C006,2026-05-11,Standard,Attended,,1
+S01256,P024,C015,2026-05-11,Standard,Attended,,1
+S01257,P026,C016,2026-05-11,Standard,Attended,,1
+S01258,P034,C021,2026-05-11,Standard,Early cancel,57.0,1
+S01259,P047,C030,2026-05-11,Standard,Early cancel,41.0,1
+S01260,P050,C033,2026-05-11,Standard,Attended,,0
+S01261,P053,C035,2026-05-11,Postpartum,Attended,,0
+S01262,P005,C004,2026-05-12,Standard,Attended,,0
+S01263,P010,C006,2026-05-12,Standard,Attended,,0
+S01264,P018,C010,2026-05-12,Standard,Early cancel,48.0,0
+S01265,P023,C014,2026-05-12,Standard,Early cancel,53.0,0
+S01266,P024,C015,2026-05-12,Standard,Attended,,0
+S01267,P031,C019,2026-05-12,Standard,Attended,,0
+S01268,P039,C025,2026-05-12,Postpartum,Attended,,0
+S01269,P046,C029,2026-05-12,Standard,Attended,,0
+S01270,P050,C033,2026-05-12,Standard,Early cancel,32.0,0
+S01271,P005,C004,2026-05-13,Standard,Attended,,0
+S01272,P010,C006,2026-05-13,Standard,Attended,,0
+S01273,P018,C010,2026-05-13,Standard,Early cancel,60.0,0
+S01274,P026,C016,2026-05-13,Standard,Attended,,0
+S01275,P034,C021,2026-05-13,Standard,Attended,,0
+S01276,P036,C023,2026-05-13,Standard,Attended,,0
+S01277,P046,C029,2026-05-13,Standard,Attended,,0
+S01278,P010,C006,2026-05-14,Standard,Attended,,0
+S01279,P024,C015,2026-05-14,Standard,Early cancel,26.0,0
+S01280,P034,C021,2026-05-14,Standard,Late cancel,7.0,0
+S01281,P036,C023,2026-05-14,Standard,Attended,,0
+S01282,P053,C035,2026-05-14,Postpartum,Attended,,0
+S01283,P013,C008,2026-05-15,Standard,Late cancel,12.0,0
+S01284,P018,C010,2026-05-15,Standard,Attended,,1
+S01285,P023,C014,2026-05-15,Standard,Attended,,0
+S01286,P031,C019,2026-05-15,Standard,Attended,,0
+S01287,P034,C021,2026-05-15,Standard,Attended,,2
+S01288,P036,C023,2026-05-15,Standard,No-show,,2
+S01289,P047,C030,2026-05-15,Standard,Early cancel,34.0,0
+S01290,P018,C010,2026-05-16,Standard,Early cancel,52.0,1
+S01291,P023,C014,2026-05-16,Standard,Attended,,1
+S01292,P024,C015,2026-05-16,Standard,Attended,,1
+S01293,P026,C016,2026-05-16,Standard,Attended,,0
+S01294,P034,C021,2026-05-16,Standard,Attended,,0
+S01295,P047,C030,2026-05-16,Standard,Attended,,0
+S01296,P050,C033,2026-05-16,Standard,Early cancel,44.0,1
+S01297,P005,C004,2026-05-18,Standard,Early cancel,70.0,0
+S01298,P018,C010,2026-05-18,Standard,Attended,,2
+S01299,P040,C026,2026-05-18,Standard,Attended,,0
+S01300,P047,C030,2026-05-18,Standard,Attended,,2
+S01301,P050,C033,2026-05-18,Standard,Attended,,0
+S01302,P053,C035,2026-05-18,Postpartum,Attended,,0
+S01303,P005,C004,2026-05-19,Standard,Attended,,0
+S01304,P010,C006,2026-05-19,Standard,Attended,,0
+S01305,P018,C010,2026-05-19,Standard,Early cancel,61.0,0
+S01306,P023,C014,2026-05-19,Standard,Attended,,0
+S01307,P024,C015,2026-05-19,Standard,Attended,,0
+S01308,P031,C019,2026-05-19,Standard,Attended,,0
+S01309,P039,C025,2026-05-19,Postpartum,Late cancel,8.0,0
+S01310,P040,C026,2026-05-19,Standard,Attended,,0
+S01311,P047,C030,2026-05-19,Standard,Early cancel,26.0,1
+S01312,P048,C031,2026-05-19,Standard,Attended,,0
+S01313,P050,C033,2026-05-19,Standard,Attended,,0
+S01314,P005,C004,2026-05-20,Standard,Attended,,0
+S01315,P010,C006,2026-05-20,Standard,Attended,,0
+S01316,P018,C010,2026-05-20,Standard,Early cancel,49.0,0
+S01317,P021,C013,2026-05-20,Postpartum,Early cancel,43.0,0
+S01318,P026,C016,2026-05-20,Standard,Attended,,0
+S01319,P034,C021,2026-05-20,Standard,Attended,,0
+S01320,P036,C023,2026-05-20,Standard,No-show,,0
+S01321,P038,C024,2026-05-20,Standard,Attended,,0
+S01322,P040,C026,2026-05-20,Standard,Attended,,0
+S01323,P050,C033,2026-05-20,Standard,Attended,,2
+S01324,P010,C006,2026-05-21,Standard,Attended,,0
+S01325,P024,C015,2026-05-21,Standard,Attended,,0
+S01326,P034,C021,2026-05-21,Standard,Attended,,0
+S01327,P036,C023,2026-05-21,Standard,Early cancel,59.0,0
+S01328,P047,C030,2026-05-21,Standard,Early cancel,60.0,2
+S01329,P053,C035,2026-05-21,Postpartum,Early cancel,45.0,0
+S01330,P005,C004,2026-05-22,Standard,Early cancel,55.0,1
+S01331,P013,C008,2026-05-22,Standard,Early cancel,69.0,0
+S01332,P018,C010,2026-05-22,Standard,Attended,,1
+S01333,P021,C013,2026-05-22,Postpartum,Attended,,1
+S01334,P023,C014,2026-05-22,Standard,Attended,,0
+S01335,P031,C019,2026-05-22,Standard,Late cancel,12.0,0
+S01336,P047,C030,2026-05-22,Standard,Early cancel,44.0,0
+S01337,P048,C031,2026-05-22,Standard,Late cancel,17.0,0
+S01338,P026,C016,2026-05-23,Standard,Attended,,0
+S01339,P034,C021,2026-05-23,Standard,Early cancel,41.0,0
+S01340,P038,C024,2026-05-23,Standard,Attended,,0
+S01341,P047,C030,2026-05-23,Standard,Early cancel,46.0,0
+S01342,P048,C031,2026-05-23,Standard,Late cancel,1.0,0
+S01343,P005,C004,2026-05-25,Standard,Attended,,0
+S01344,P013,C008,2026-05-25,Standard,Attended,,1
+S01345,P018,C010,2026-05-25,Standard,Attended,,1
+S01346,P034,C021,2026-05-25,Standard,Attended,,1
+S01347,P036,C023,2026-05-25,Standard,Attended,,1
+S01348,P040,C026,2026-05-25,Standard,Attended,,0
+S01349,P047,C030,2026-05-25,Standard,Attended,,1
+S01350,P050,C033,2026-05-25,Standard,Attended,,0
+S01351,P053,C035,2026-05-25,Postpartum,No-show,,0
+S01352,P005,C004,2026-05-26,Standard,Attended,,0
+S01353,P010,C006,2026-05-26,Standard,Attended,,0
+S01354,P018,C010,2026-05-26,Standard,Attended,,0
+S01355,P023,C014,2026-05-26,Standard,Late cancel,3.0,0
+S01356,P024,C015,2026-05-26,Standard,Early cancel,62.0,0
+S01357,P031,C019,2026-05-26,Standard,Attended,,0
+S01358,P039,C025,2026-05-26,Postpartum,Late cancel,1.0,0
+S01359,P040,C026,2026-05-26,Standard,Early cancel,40.0,0
+S01360,P047,C030,2026-05-26,Standard,Attended,,1
+S01361,P048,C031,2026-05-26,Standard,Attended,,0
+S01362,P050,C033,2026-05-26,Standard,Attended,,0
+S01363,P053,C035,2026-05-26,Postpartum,Early cancel,45.0,1
+S01364,P005,C004,2026-05-27,Standard,Early cancel,56.0,0
+S01365,P010,C006,2026-05-27,Standard,Attended,,0
+S01366,P018,C010,2026-05-27,Standard,Attended,,0
+S01367,P021,C013,2026-05-27,Postpartum,Early cancel,64.0,0
+S01368,P026,C016,2026-05-27,Standard,Early cancel,30.0,0
+S01369,P034,C021,2026-05-27,Standard,Early cancel,26.0,0
+S01370,P036,C023,2026-05-27,Standard,Attended,,0
+S01371,P038,C024,2026-05-27,Standard,Attended,,0
+S01372,P040,C026,2026-05-27,Standard,Early cancel,56.0,0
+S01373,P005,C004,2026-05-28,Standard,Attended,,2
+S01374,P010,C006,2026-05-28,Standard,Attended,,0
+S01375,P024,C015,2026-05-28,Standard,Attended,,0
+S01376,P034,C021,2026-05-28,Standard,Attended,,0
+S01377,P036,C023,2026-05-28,Standard,Late cancel,20.0,0
+S01378,P053,C035,2026-05-28,Postpartum,Attended,,0
+S01379,P001,C001,2026-05-29,Postpartum,Early cancel,62.0,0
+S01380,P013,C008,2026-05-29,Standard,Early cancel,56.0,0
+S01381,P023,C014,2026-05-29,Standard,Attended,,0
+S01382,P024,C015,2026-05-29,Standard,Attended,,1
+S01383,P031,C019,2026-05-29,Standard,Attended,,0
+S01384,P034,C021,2026-05-29,Standard,Early cancel,36.0,1
+S01385,P040,C026,2026-05-29,Standard,Early cancel,59.0,1
+S01386,P047,C030,2026-05-29,Standard,Attended,,0
+S01387,P048,C031,2026-05-29,Standard,Early cancel,63.0,0
+S01388,P053,C035,2026-05-29,Postpartum,Attended,,2
+S01389,P001,C001,2026-05-30,Postpartum,Early cancel,72.0,0
+S01390,P006,C005,2026-05-30,Postpartum,Attended,,0
+S01391,P026,C016,2026-05-30,Standard,Early cancel,61.0,0
+S01392,P034,C021,2026-05-30,Standard,Attended,,0
+S01393,P038,C024,2026-05-30,Standard,Attended,,0
+S01394,P040,C026,2026-05-30,Standard,Attended,,1
+S01395,P047,C030,2026-05-30,Standard,Attended,,0
+S01396,P048,C031,2026-05-30,Standard,Attended,,0
+S01397,P001,C001,2026-06-01,Postpartum,Early cancel,42.0,1
+S01398,P005,C004,2026-06-01,Standard,Early cancel,36.0,0
+S01399,P021,C013,2026-06-01,Postpartum,Attended,,1
+S01400,P026,C016,2026-06-01,Standard,Attended,,1
+S01401,P034,C021,2026-06-01,Standard,Late cancel,12.0,2
+S01402,P040,C026,2026-06-01,Standard,Attended,,0
+S01403,P050,C033,2026-06-01,Standard,Attended,,0
+S01404,P053,C035,2026-06-01,Postpartum,No-show,,0
+S01405,P005,C004,2026-06-02,Standard,Late cancel,1.0,0
+S01406,P006,C005,2026-06-02,Postpartum,Attended,,0
+S01407,P010,C006,2026-06-02,Standard,Attended,,0
+S01408,P013,C008,2026-06-02,Standard,Early cancel,60.0,1
+S01409,P018,C010,2026-06-02,Standard,Attended,,0
+S01410,P023,C014,2026-06-02,Standard,Attended,,0
+S01411,P024,C015,2026-06-02,Standard,Attended,,0
+S01412,P026,C016,2026-06-02,Standard,Early cancel,33.0,1
+S01413,P031,C019,2026-06-02,Standard,Attended,,0
+S01414,P039,C025,2026-06-02,Postpartum,Attended,,0
+S01415,P040,C026,2026-06-02,Standard,Early cancel,26.0,0
+S01416,P048,C031,2026-06-02,Standard,Attended,,0
+S01417,P050,C033,2026-06-02,Standard,Early cancel,38.0,0
+S01418,P051,C034,2026-06-02,Standard,Early cancel,72.0,0
+S01419,P001,C001,2026-06-03,Postpartum,Attended,,1
+S01420,P005,C004,2026-06-03,Standard,Attended,,0
+S01421,P010,C006,2026-06-03,Standard,Attended,,0
+S01422,P018,C010,2026-06-03,Standard,Attended,,0
+S01423,P021,C013,2026-06-03,Postpartum,Attended,,0
+S01424,P026,C016,2026-06-03,Standard,Attended,,0
+S01425,P034,C021,2026-06-03,Standard,Attended,,0
+S01426,P036,C023,2026-06-03,Standard,Attended,,0
+S01427,P038,C024,2026-06-03,Standard,Attended,,0
+S01428,P040,C026,2026-06-03,Standard,Early cancel,24.0,0
+S01429,P048,C031,2026-06-03,Standard,Early cancel,40.0,1
+S01430,P005,C004,2026-06-04,Standard,Attended,,1
+S01431,P010,C006,2026-06-04,Standard,No-show,,0
+S01432,P024,C015,2026-06-04,Standard,Attended,,0
+S01433,P026,C016,2026-06-04,Standard,Attended,,2
+S01434,P034,C021,2026-06-04,Standard,Attended,,0
+S01435,P036,C023,2026-06-04,Standard,Attended,,0
+S01436,P040,C026,2026-06-04,Standard,Early cancel,26.0,2
+S01437,P050,C033,2026-06-04,Standard,Attended,,1
+S01438,P053,C035,2026-06-04,Postpartum,Attended,,0
+S01439,P001,C001,2026-06-05,Postpartum,Attended,,0
+S01440,P013,C008,2026-06-05,Standard,Early cancel,49.0,0
+S01441,P023,C014,2026-06-05,Standard,Late cancel,20.0,0
+S01442,P031,C019,2026-06-05,Standard,Early cancel,46.0,0
+S01443,P047,C030,2026-06-05,Standard,Early cancel,72.0,0
+S01444,P048,C031,2026-06-05,Standard,Attended,,0
+S01445,P051,C034,2026-06-05,Standard,Attended,,0
+S01446,P001,C001,2026-06-06,Postpartum,Early cancel,64.0,0
+S01447,P006,C005,2026-06-06,Postpartum,Early cancel,59.0,0
+S01448,P013,C008,2026-06-06,Standard,Attended,,2
+S01449,P026,C016,2026-06-06,Standard,Attended,,0
+S01450,P034,C021,2026-06-06,Standard,Early cancel,51.0,0
+S01451,P038,C024,2026-06-06,Standard,Late cancel,18.0,0
+S01452,P040,C026,2026-06-06,Standard,Early cancel,47.0,1
+S01453,P047,C030,2026-06-06,Standard,Attended,,0
+S01454,P048,C031,2026-06-06,Standard,Attended,,0
+S01455,P051,C034,2026-06-06,Standard,Attended,,1
+S01456,P001,C001,2026-06-08,Postpartum,Attended,,2
+S01457,P006,C005,2026-06-08,Postpartum,Attended,,1
+S01458,P034,C021,2026-06-08,Standard,Attended,,1
+S01459,P040,C026,2026-06-08,Standard,Attended,,0
+S01460,P048,C031,2026-06-08,Standard,Early cancel,71.0,2
+S01461,P050,C033,2026-06-08,Standard,Early cancel,63.0,0
+S01462,P053,C035,2026-06-08,Postpartum,Early cancel,26.0,0
+S01463,P001,C001,2026-06-09,Postpartum,Early cancel,67.0,1
+S01464,P006,C005,2026-06-09,Postpartum,Attended,,0
+S01465,P010,C006,2026-06-09,Standard,Early cancel,57.0,0
+S01466,P013,C008,2026-06-09,Standard,Attended,,1
+S01467,P018,C010,2026-06-09,Standard,Attended,,0
+S01468,P023,C014,2026-06-09,Standard,Attended,,0
+S01469,P024,C015,2026-06-09,Standard,Attended,,0
+S01470,P031,C019,2026-06-09,Standard,Early cancel,51.0,0
+S01471,P039,C025,2026-06-09,Postpartum,Attended,,0
+S01472,P040,C026,2026-06-09,Standard,Attended,,0
+S01473,P047,C030,2026-06-09,Standard,Early cancel,27.0,1
+S01474,P048,C031,2026-06-09,Standard,Early cancel,26.0,0
+S01475,P050,C033,2026-06-09,Standard,Attended,,0
+S01476,P051,C034,2026-06-09,Standard,Early cancel,39.0,0
+S01477,P010,C006,2026-06-10,Standard,Early cancel,70.0,0
+S01478,P018,C010,2026-06-10,Standard,Attended,,0
+S01479,P021,C013,2026-06-10,Postpartum,Late cancel,10.0,0
+S01480,P026,C016,2026-06-10,Standard,Attended,,0
+S01481,P031,C019,2026-06-10,Standard,Attended,,1
+S01482,P034,C021,2026-06-10,Standard,Attended,,0
+S01483,P036,C023,2026-06-10,Standard,Attended,,0
+S01484,P038,C024,2026-06-10,Standard,Attended,,0
+S01485,P040,C026,2026-06-10,Standard,Early cancel,48.0,0
+S01486,P010,C006,2026-06-11,Standard,Attended,,0
+S01487,P024,C015,2026-06-11,Standard,Early cancel,47.0,0
+S01488,P031,C019,2026-06-11,Standard,Attended,,1
+S01489,P034,C021,2026-06-11,Standard,Early cancel,31.0,0
+S01490,P036,C023,2026-06-11,Standard,Early cancel,46.0,0
+S01491,P040,C026,2026-06-11,Standard,Attended,,1
+S01492,P050,C033,2026-06-11,Standard,Attended,,1
+S01493,P053,C035,2026-06-11,Postpartum,Attended,,0
+S01494,P001,C001,2026-06-12,Postpartum,Late cancel,16.0,0
+S01495,P010,C006,2026-06-12,Standard,Early cancel,31.0,1
+S01496,P013,C008,2026-06-12,Standard,Attended,,0
+S01497,P023,C014,2026-06-12,Standard,Early cancel,42.0,0
+S01498,P031,C019,2026-06-12,Standard,Attended,,0
+S01499,P040,C026,2026-06-12,Standard,Attended,,2
+S01500,P047,C030,2026-06-12,Standard,Early cancel,54.0,0
+S01501,P048,C031,2026-06-12,Standard,Late cancel,5.0,0
+S01502,P051,C034,2026-06-12,Standard,Early cancel,28.0,0
+S01503,P053,C035,2026-06-12,Postpartum,Attended,,1
+S01504,P001,C001,2026-06-13,Postpartum,Attended,,0
+S01505,P006,C005,2026-06-13,Postpartum,Attended,,0
+S01506,P026,C016,2026-06-13,Standard,Early cancel,61.0,0
+S01507,P034,C021,2026-06-13,Standard,Early cancel,26.0,0
+S01508,P038,C024,2026-06-13,Standard,Attended,,0
+S01509,P040,C026,2026-06-13,Standard,Attended,,1
+S01510,P047,C030,2026-06-13,Standard,Attended,,0
+S01511,P048,C031,2026-06-13,Standard,Early cancel,55.0,0
+S01512,P051,C034,2026-06-13,Standard,Attended,,1
+S01513,P001,C001,2026-06-15,Postpartum,Attended,,2
+S01514,P010,C006,2026-06-15,Standard,Attended,,1
+S01515,P023,C014,2026-06-15,Standard,Early cancel,37.0,1
+S01516,P024,C015,2026-06-15,Standard,Attended,,1
+S01517,P034,C021,2026-06-15,Standard,Early cancel,64.0,1
+S01518,P036,C023,2026-06-15,Standard,Early cancel,44.0,1
+S01519,P040,C026,2026-06-15,Standard,Attended,,0
+S01520,P047,C030,2026-06-15,Standard,Attended,,2
+S01521,P048,C031,2026-06-15,Standard,Attended,,1
+S01522,P050,C033,2026-06-15,Standard,Attended,,0
+S01523,P051,C034,2026-06-15,Standard,Early cancel,28.0,1
+S01524,P053,C035,2026-06-15,Postpartum,Attended,,0
+S01525,P006,C005,2026-06-16,Postpartum,Early cancel,41.0,0
+S01526,P010,C006,2026-06-16,Standard,Attended,,0
+S01527,P018,C010,2026-06-16,Standard,Early cancel,45.0,0
+S01528,P023,C014,2026-06-16,Standard,Attended,,0
+S01529,P024,C015,2026-06-16,Standard,Attended,,0
+S01530,P031,C019,2026-06-16,Standard,Attended,,0
+S01531,P034,C021,2026-06-16,Standard,Attended,,1
+S01532,P039,C025,2026-06-16,Postpartum,Early cancel,64.0,0
+S01533,P040,C026,2026-06-16,Standard,Attended,,0
+S01534,P047,C030,2026-06-16,Standard,Early cancel,36.0,1
+S01535,P048,C031,2026-06-16,Standard,Early cancel,59.0,0
+S01536,P050,C033,2026-06-16,Standard,Late cancel,20.0,0
+S01537,P051,C034,2026-06-16,Standard,Attended,,0
+S01538,P010,C006,2026-06-17,Standard,Late cancel,14.0,0
+S01539,P018,C010,2026-06-17,Standard,Attended,,0
+S01540,P021,C013,2026-06-17,Postpartum,Attended,,0
+S01541,P026,C016,2026-06-17,Standard,Early cancel,31.0,0
+S01542,P034,C021,2026-06-17,Standard,Attended,,0
+S01543,P036,C023,2026-06-17,Standard,Attended,,0
+S01544,P038,C024,2026-06-17,Standard,Attended,,0
+S01545,P040,C026,2026-06-17,Standard,Attended,,0
+S01546,P048,C031,2026-06-17,Standard,Early cancel,28.0,1
+S01547,P006,C005,2026-06-18,Postpartum,Attended,,1
+S01548,P010,C006,2026-06-18,Standard,Attended,,0
+S01549,P018,C010,2026-06-18,Standard,Attended,,1
+S01550,P024,C015,2026-06-18,Standard,Attended,,0
+S01551,P026,C016,2026-06-18,Standard,Late cancel,9.0,1
+S01552,P034,C021,2026-06-18,Standard,Attended,,0
+S01553,P036,C023,2026-06-18,Standard,Late cancel,4.0,0
+S01554,P048,C031,2026-06-18,Standard,Early cancel,36.0,1
+S01555,P051,C034,2026-06-18,Standard,Early cancel,36.0,2
+S01556,P053,C035,2026-06-18,Postpartum,Attended,,0
+S01557,P001,C001,2026-06-19,Postpartum,Late cancel,5.0,0
+S01558,P010,C006,2026-06-19,Standard,Attended,,2
+S01559,P013,C008,2026-06-19,Standard,Early cancel,32.0,0
+S01560,P023,C014,2026-06-19,Standard,Attended,,0
+S01561,P031,C019,2026-06-19,Standard,Early cancel,35.0,0
+S01562,P034,C021,2026-06-19,Standard,Early cancel,56.0,2
+S01563,P036,C023,2026-06-19,Standard,Attended,,2
+S01564,P047,C030,2026-06-19,Standard,Early cancel,58.0,0
+S01565,P048,C031,2026-06-19,Standard,Attended,,0
+S01566,P051,C034,2026-06-19,Standard,Attended,,0
+S01567,P001,C001,2026-06-20,Postpartum,Early cancel,45.0,0
+S01568,P006,C005,2026-06-20,Postpartum,Attended,,0
+S01569,P023,C014,2026-06-20,Standard,Attended,,2
+S01570,P026,C016,2026-06-20,Standard,Attended,,0
+S01571,P034,C021,2026-06-20,Standard,Early cancel,51.0,0
+S01572,P038,C024,2026-06-20,Standard,Attended,,0
+S01573,P039,C025,2026-06-20,Postpartum,Attended,,1
+S01574,P047,C030,2026-06-20,Standard,Early cancel,66.0,0
+S01575,P048,C031,2026-06-20,Standard,Early cancel,58.0,0
+S01576,P013,C008,2026-06-22,Standard,Attended,,1
+S01577,P026,C016,2026-06-22,Standard,Attended,,1
+S01578,P040,C026,2026-06-22,Standard,Early cancel,28.0,0
+S01579,P047,C030,2026-06-22,Standard,Attended,,2
+S01580,P048,C031,2026-06-22,Standard,Early cancel,48.0,2
+S01581,P050,C033,2026-06-22,Standard,Attended,,0
+S01582,P053,C035,2026-06-22,Postpartum,Attended,,0
+S01583,P001,C001,2026-06-23,Postpartum,Attended,,1
+S01584,P006,C005,2026-06-23,Postpartum,Attended,,0
+S01585,P010,C006,2026-06-23,Standard,Early cancel,54.0,0
+S01586,P018,C010,2026-06-23,Standard,Early cancel,41.0,0
+S01587,P023,C014,2026-06-23,Standard,Attended,,0
+S01588,P024,C015,2026-06-23,Standard,Attended,,0
+S01589,P031,C019,2026-06-23,Standard,Attended,,0
+S01590,P034,C021,2026-06-23,Standard,Attended,,1
+S01591,P039,C025,2026-06-23,Postpartum,Late cancel,18.0,0
+S01592,P040,C026,2026-06-23,Standard,Early cancel,71.0,0
+S01593,P047,C030,2026-06-23,Standard,Attended,,1
+S01594,P048,C031,2026-06-23,Standard,Early cancel,30.0,0
+S01595,P050,C033,2026-06-23,Standard,Attended,,0
+S01596,P051,C034,2026-06-23,Standard,Attended,,0
+S01597,P010,C006,2026-06-24,Standard,Attended,,0
+S01598,P018,C010,2026-06-24,Standard,Attended,,0
+S01599,P021,C013,2026-06-24,Postpartum,Attended,,0
+S01600,P026,C016,2026-06-24,Standard,Early cancel,25.0,0
+S01601,P031,C019,2026-06-24,Standard,Early cancel,31.0,1
+S01602,P034,C021,2026-06-24,Standard,Attended,,0
+S01603,P036,C023,2026-06-24,Standard,Early cancel,62.0,0
+S01604,P038,C024,2026-06-24,Standard,Attended,,0
+S01605,P040,C026,2026-06-24,Standard,Attended,,0
+S01606,P047,C030,2026-06-24,Standard,Early cancel,58.0,1
+S01607,P010,C006,2026-06-25,Standard,Attended,,0
+S01608,P018,C010,2026-06-25,Standard,Early cancel,66.0,1
+S01609,P024,C015,2026-06-25,Standard,Late cancel,15.0,0
+S01610,P034,C021,2026-06-25,Standard,Attended,,0
+S01611,P036,C023,2026-06-25,Standard,Early cancel,31.0,0
+S01612,P040,C026,2026-06-25,Standard,Attended,,1
+S01613,P053,C035,2026-06-25,Postpartum,Attended,,0
+S01614,P001,C001,2026-06-26,Postpartum,Attended,,0
+S01615,P010,C006,2026-06-26,Standard,Early cancel,49.0,1
+S01616,P013,C008,2026-06-26,Standard,Attended,,0
+S01617,P023,C014,2026-06-26,Standard,Early cancel,60.0,0
+S01618,P031,C019,2026-06-26,Standard,Attended,,0
+S01619,P036,C023,2026-06-26,Standard,Attended,,1
+S01620,P047,C030,2026-06-26,Standard,Late cancel,4.0,0
+S01621,P051,C034,2026-06-26,Standard,Attended,,0
+S01622,P001,C001,2026-06-27,Postpartum,Early cancel,36.0,0
+S01623,P006,C005,2026-06-27,Postpartum,Attended,,0
+S01624,P018,C010,2026-06-27,Standard,Attended,,2
+S01625,P026,C016,2026-06-27,Standard,Early cancel,60.0,0
+S01626,P031,C019,2026-06-27,Standard,Attended,,2
+S01627,P038,C024,2026-06-27,Standard,Attended,,0
+S01628,P040,C026,2026-06-27,Standard,Attended,,1
+S01629,P047,C030,2026-06-27,Standard,Attended,,0
+S01630,P026,C016,2026-06-29,Standard,Attended,,1
+S01631,P040,C026,2026-06-29,Standard,Attended,,0
+S01632,P047,C030,2026-06-29,Standard,Early cancel,48.0,2
+S01633,P050,C033,2026-06-29,Standard,Late cancel,15.0,0
+S01634,P053,C035,2026-06-29,Postpartum,Attended,,0
+S01635,P001,C001,2026-06-30,Postpartum,Attended,,1
+S01636,P006,C005,2026-06-30,Postpartum,Early cancel,45.0,0
+S01637,P010,C006,2026-06-30,Standard,Early cancel,65.0,0
+S01638,P018,C010,2026-06-30,Standard,Attended,,0
+S01639,P023,C014,2026-06-30,Standard,Attended,,0
+S01640,P024,C015,2026-06-30,Standard,Attended,,0
+S01641,P026,C016,2026-06-30,Standard,Early cancel,51.0,1
+S01642,P031,C019,2026-06-30,Standard,Attended,,0
+S01643,P039,C025,2026-06-30,Postpartum,Attended,,0
+S01644,P040,C026,2026-06-30,Standard,Early cancel,46.0,0
+S01645,P050,C033,2026-06-30,Standard,Early cancel,37.0,0
+S01646,P051,C034,2026-06-30,Standard,Late cancel,7.0,0
+S01647,P010,C006,2026-07-01,Standard,Late cancel,2.0,0
+S01648,P018,C010,2026-07-01,Standard,Attended,,0
+S01649,P021,C013,2026-07-01,Postpartum,Attended,,0
+S01650,P023,C014,2026-07-01,Standard,Attended,,1
+S01651,P026,C016,2026-07-01,Standard,Early cancel,41.0,0
+S01652,P038,C024,2026-07-01,Standard,Attended,,0
+S01653,P040,C026,2026-07-01,Standard,Attended,,0
+S01654,P010,C006,2026-07-02,Standard,Attended,,0
+S01655,P024,C015,2026-07-02,Standard,No-show,,0
+S01656,P053,C035,2026-07-02,Postpartum,Attended,,0
+S01657,P010,C006,2026-07-03,Standard,Attended,,2
+S01658,P013,C008,2026-07-03,Standard,Late cancel,23.0,0
+S01659,P023,C014,2026-07-03,Standard,Attended,,0
+S01660,P026,C016,2026-07-03,Standard,Early cancel,56.0,2
+S01661,P031,C019,2026-07-03,Standard,Attended,,0
+S01662,P040,C026,2026-07-03,Standard,Early cancel,63.0,1
+S01663,P047,C030,2026-07-03,Standard,Attended,,0
+S01664,P050,C033,2026-07-03,Standard,Late cancel,20.0,1
+S01665,P051,C034,2026-07-03,Standard,Attended,,0
+S01666,P006,C005,2026-07-04,Postpartum,Attended,,0
+S01667,P010,C006,2026-07-04,Standard,Attended,,1
+S01668,P026,C016,2026-07-04,Standard,Attended,,0
+S01669,P038,C024,2026-07-04,Standard,Attended,,0
+S01670,P047,C030,2026-07-04,Standard,Attended,,0
+S01671,P006,C005,2026-07-06,Postpartum,Attended,,1
+S01672,P026,C016,2026-07-06,Standard,Attended,,1
+S01673,P040,C026,2026-07-06,Standard,Early cancel,56.0,0
+S01674,P050,C033,2026-07-06,Standard,Attended,,0
+S01675,P053,C035,2026-07-06,Postpartum,Attended,,0
+S01676,P006,C005,2026-07-07,Postpartum,Attended,,0
+S01677,P010,C006,2026-07-07,Standard,Attended,,0
+S01678,P018,C010,2026-07-07,Standard,Attended,,0
+S01679,P023,C014,2026-07-07,Standard,Attended,,0
+S01680,P024,C015,2026-07-07,Standard,Attended,,0
+S01681,P031,C019,2026-07-07,Standard,Attended,,0
+S01682,P039,C025,2026-07-07,Postpartum,Attended,,0
+S01683,P040,C026,2026-07-07,Standard,Attended,,0
+S01684,P050,C033,2026-07-07,Standard,Attended,,0
+S01685,P051,C034,2026-07-07,Standard,Early cancel,67.0,0
+S01686,P010,C006,2026-07-08,Standard,Attended,,0
+S01687,P018,C010,2026-07-08,Standard,Attended,,0
+S01688,P021,C013,2026-07-08,Postpartum,Attended,,0
+S01689,P026,C016,2026-07-08,Standard,Early cancel,47.0,0
+S01690,P037,C023,2026-07-08,Standard,Attended,,0
+S01691,P038,C024,2026-07-08,Standard,Attended,,0
+S01692,P010,C006,2026-07-09,Standard,Attended,,0
+S01693,P024,C015,2026-07-09,Standard,Attended,,0
+S01694,P037,C023,2026-07-09,Standard,Early cancel,55.0,0
+S01695,P053,C035,2026-07-09,Postpartum,Attended,,0
+S01696,P013,C008,2026-07-10,Standard,Early cancel,25.0,0
+S01697,P023,C014,2026-07-10,Standard,Late cancel,10.0,0
+S01698,P031,C019,2026-07-10,Standard,Attended,,0
+S01699,P047,C030,2026-07-10,Standard,Attended,,0
+S01700,P051,C034,2026-07-10,Standard,Attended,,0
+S01701,P006,C005,2026-07-11,Postpartum,Early cancel,48.0,0
+S01702,P026,C016,2026-07-11,Standard,Late cancel,13.0,0
+S01703,P038,C024,2026-07-11,Standard,Early cancel,69.0,0
+S01704,P047,C030,2026-07-11,Standard,Attended,,0
+S01705,P051,C034,2026-07-11,Standard,Attended,,1
+S01706,P013,C008,2026-07-13,Standard,Early cancel,41.0,1
+S01707,P026,C016,2026-07-13,Standard,Attended,,1
+S01708,P037,C023,2026-07-13,Standard,Attended,,1
+S01709,P038,C024,2026-07-13,Standard,Attended,,1
+S01710,P050,C033,2026-07-13,Standard,Attended,,0
+S01711,P006,C005,2026-07-14,Postpartum,Attended,,0
+S01712,P010,C006,2026-07-14,Standard,Attended,,0
+S01713,P018,C010,2026-07-14,Standard,Attended,,0
+S01714,P023,C014,2026-07-14,Standard,Attended,,0
+S01715,P024,C015,2026-07-14,Standard,Early cancel,59.0,0
+S01716,P031,C019,2026-07-14,Standard,Attended,,0
+S01717,P039,C025,2026-07-14,Postpartum,Attended,,0
+S01718,P050,C033,2026-07-14,Standard,Attended,,0
+S01719,P051,C034,2026-07-14,Standard,Early cancel,42.0,0
+S01720,P006,C005,2026-07-15,Postpartum,Attended,,1
+S01721,P010,C006,2026-07-15,Standard,Attended,,0
+S01722,P018,C010,2026-07-15,Standard,Early cancel,64.0,0
+S01723,P021,C013,2026-07-15,Postpartum,Attended,,0
+S01724,P026,C016,2026-07-15,Standard,Attended,,0
+S01725,P037,C023,2026-07-15,Standard,Attended,,0
+S01726,P038,C024,2026-07-15,Standard,Attended,,0
+S01727,P041,C026,2026-07-15,Standard,Attended,,0
+S01728,P010,C006,2026-07-16,Standard,Attended,,0
+S01729,P024,C015,2026-07-16,Standard,Early cancel,42.0,0
+S01730,P037,C023,2026-07-16,Standard,Late cancel,17.0,0
+S01731,P051,C034,2026-07-16,Standard,Attended,,1
+S01732,P013,C008,2026-07-17,Standard,Early cancel,70.0,0
+S01733,P018,C010,2026-07-17,Standard,Early cancel,44.0,1
+S01734,P023,C014,2026-07-17,Standard,Attended,,0
+S01735,P031,C019,2026-07-17,Standard,Early cancel,44.0,0
+S01736,P047,C030,2026-07-17,Standard,Attended,,0
+S01737,P051,C034,2026-07-17,Standard,Attended,,0
+S01738,P006,C005,2026-07-18,Postpartum,Attended,,0
+S01739,P013,C008,2026-07-18,Standard,Early cancel,46.0,2
+S01740,P024,C015,2026-07-18,Standard,Attended,,1
+S01741,P026,C016,2026-07-18,Standard,Attended,,0
+S01742,P038,C024,2026-07-18,Standard,Late cancel,11.0,0
+S01743,P047,C030,2026-07-18,Standard,Early cancel,46.0,0
+S01744,P013,C008,2026-07-20,Standard,Early cancel,53.0,1
+S01745,P024,C015,2026-07-20,Standard,Attended,,1
+S01746,P041,C026,2026-07-20,Standard,Late cancel,16.0,0
+S01747,P050,C033,2026-07-20,Standard,Attended,,0
+S01748,P054,C035,2026-07-20,Postpartum,Attended,,0
+S01749,P006,C005,2026-07-21,Postpartum,Attended,,0
+S01750,P010,C006,2026-07-21,Standard,Attended,,0
+S01751,P018,C010,2026-07-21,Standard,Attended,,0
+S01752,P023,C014,2026-07-21,Standard,Attended,,0
+S01753,P024,C015,2026-07-21,Standard,Attended,,0
+S01754,P031,C019,2026-07-21,Standard,Early cancel,64.0,0
+S01755,P039,C025,2026-07-21,Postpartum,Attended,,0
+S01756,P041,C026,2026-07-21,Standard,Late cancel,8.0,0
+S01757,P047,C030,2026-07-21,Standard,Early cancel,34.0,1
+S01758,P050,C033,2026-07-21,Standard,Attended,,0
+S01759,P010,C006,2026-07-22,Standard,Early cancel,46.0,0
+S01760,P012,C007,2026-07-22,Standard,Early cancel,33.0,0
+S01761,P018,C010,2026-07-22,Standard,Attended,,0
+S01762,P021,C013,2026-07-22,Postpartum,Attended,,0
+S01763,P026,C016,2026-07-22,Standard,Attended,,0
+S01764,P031,C019,2026-07-22,Standard,Attended,,1
+S01765,P037,C023,2026-07-22,Standard,Attended,,0
+S01766,P038,C024,2026-07-22,Standard,Attended,,0
+S01767,P041,C026,2026-07-22,Standard,Attended,,0
+S01768,P010,C006,2026-07-23,Standard,Late cancel,5.0,0
+S01769,P013,C008,2026-07-23,Standard,Attended,,2
+S01770,P018,C010,2026-07-23,Standard,Attended,,2
+S01771,P024,C015,2026-07-23,Standard,Attended,,0
+S01772,P037,C023,2026-07-23,Standard,Attended,,0
+S01773,P054,C035,2026-07-23,Postpartum,Attended,,0
+S01774,P013,C008,2026-07-24,Standard,Late cancel,15.0,0
+S01775,P023,C014,2026-07-24,Standard,Attended,,0
+S01776,P031,C019,2026-07-24,Standard,Attended,,0
+S01777,P047,C030,2026-07-24,Standard,Early cancel,24.0,0
+S01778,P006,C005,2026-07-25,Postpartum,Attended,,0
+S01779,P012,C007,2026-07-25,Standard,Late cancel,20.0,0
+S01780,P026,C016,2026-07-25,Standard,Attended,,0
+S01781,P031,C019,2026-07-25,Standard,Attended,,1
+S01782,P038,C024,2026-07-25,Standard,Attended,,0
+S01783,P047,C030,2026-07-25,Standard,Early cancel,51.0,0
+S01784,P010,C006,2026-07-27,Standard,Attended,,1
+S01785,P012,C007,2026-07-27,Standard,Attended,,1
+S01786,P041,C026,2026-07-27,Standard,Attended,,0
+S01787,P047,C030,2026-07-27,Standard,Attended,,2
+S01788,P050,C033,2026-07-27,Standard,Attended,,0
+S01789,P054,C035,2026-07-27,Postpartum,Attended,,0
+S01790,P006,C005,2026-07-28,Postpartum,Attended,,0
+S01791,P010,C006,2026-07-28,Standard,Attended,,0
+S01792,P018,C010,2026-07-28,Standard,Early cancel,41.0,0
+S01793,P023,C014,2026-07-28,Standard,Late cancel,22.0,0
+S01794,P024,C015,2026-07-28,Standard,Early cancel,58.0,0
+S01795,P031,C019,2026-07-28,Standard,Attended,,0
+S01796,P039,C025,2026-07-28,Postpartum,Attended,,0
+S01797,P041,C026,2026-07-28,Standard,Attended,,0
+S01798,P047,C030,2026-07-28,Standard,Early cancel,39.0,1
+S01799,P050,C033,2026-07-28,Standard,Early cancel,49.0,0
+S01800,P010,C006,2026-07-29,Standard,Attended,,0
+S01801,P012,C007,2026-07-29,Standard,Attended,,0
+S01802,P018,C010,2026-07-29,Standard,Late cancel,15.0,0
+S01803,P021,C013,2026-07-29,Postpartum,Early cancel,60.0,0
+S01804,P026,C016,2026-07-29,Standard,Early cancel,50.0,0
+S01805,P037,C023,2026-07-29,Standard,Attended,,0
+S01806,P038,C024,2026-07-29,Standard,Attended,,0
+S01807,P041,C026,2026-07-29,Standard,Attended,,0
+S01808,P047,C030,2026-07-29,Standard,Early cancel,26.0,1
+S01809,P010,C006,2026-07-30,Standard,Attended,,0
+S01810,P024,C015,2026-07-30,Standard,Attended,,0
+S01811,P037,C023,2026-07-30,Standard,Early cancel,53.0,0
+S01812,P047,C030,2026-07-30,Standard,Attended,,2
+S01813,P054,C035,2026-07-30,Postpartum,Attended,,0
+S01814,P013,C008,2026-07-31,Standard,Attended,,0
+S01815,P023,C014,2026-07-31,Standard,Attended,,0
+S01816,P024,C015,2026-07-31,Standard,Attended,,1
+S01817,P026,C016,2026-07-31,Standard,Attended,,1
+S01818,P031,C019,2026-07-31,Standard,Attended,,0
+S01819,P050,C033,2026-07-31,Standard,Early cancel,61.0,1
+S01820,P006,C005,2026-08-01,Postpartum,Attended,,0
+S01821,P012,C007,2026-08-01,Standard,Early cancel,66.0,0
+S01822,P018,C010,2026-08-01,Standard,Early cancel,45.0,1
+S01823,P026,C016,2026-08-01,Standard,Attended,,0
+S01824,P038,C024,2026-08-01,Standard,Attended,,0
+S01825,P012,C007,2026-08-03,Standard,Early cancel,59.0,1
+S01826,P021,C013,2026-08-03,Postpartum,Attended,,1
+S01827,P037,C023,2026-08-03,Standard,Attended,,1
+S01828,P041,C026,2026-08-03,Standard,Attended,,0
+S01829,P050,C033,2026-08-03,Standard,Attended,,0
+S01830,P054,C035,2026-08-03,Postpartum,Attended,,0
+S01831,P006,C005,2026-08-04,Postpartum,Attended,,0
+S01832,P010,C006,2026-08-04,Standard,Early cancel,52.0,0
+S01833,P018,C010,2026-08-04,Standard,Attended,,0
+S01834,P023,C014,2026-08-04,Standard,Attended,,0
+S01835,P024,C015,2026-08-04,Standard,Attended,,0
+S01836,P031,C019,2026-08-04,Standard,Early cancel,65.0,0
+S01837,P039,C025,2026-08-04,Postpartum,Attended,,0
+S01838,P041,C026,2026-08-04,Standard,Attended,,0
+S01839,P050,C033,2026-08-04,Standard,Attended,,0
+S01840,P010,C006,2026-08-05,Standard,Attended,,0
+S01841,P012,C007,2026-08-05,Standard,Attended,,0
+S01842,P018,C010,2026-08-05,Standard,Attended,,0
+S01843,P021,C013,2026-08-05,Postpartum,Attended,,0
+S01844,P026,C016,2026-08-05,Standard,Early cancel,52.0,0
+S01845,P037,C023,2026-08-05,Standard,Attended,,0
+S01846,P038,C024,2026-08-05,Standard,Attended,,0
+S01847,P041,C026,2026-08-05,Standard,Attended,,0
+S01848,P050,C033,2026-08-05,Standard,Late cancel,5.0,2
+S01849,P010,C006,2026-08-06,Standard,Attended,,0
+S01850,P012,C007,2026-08-06,Standard,Attended,,2
+S01851,P018,C010,2026-08-06,Standard,Early cancel,36.0,2
+S01852,P024,C015,2026-08-06,Standard,Early cancel,25.0,0
+S01853,P037,C023,2026-08-06,Standard,Early cancel,62.0,0
+S01854,P054,C035,2026-08-06,Postpartum,Attended,,0
+S01855,P010,C006,2026-08-07,Standard,Attended,,1
+S01856,P013,C008,2026-08-07,Standard,Early cancel,60.0,0
+S01857,P023,C014,2026-08-07,Standard,Attended,,0
+S01858,P031,C019,2026-08-07,Standard,Early cancel,46.0,0
+S01859,P002,C002,2026-08-08,Postpartum,Attended,,0
+S01860,P012,C007,2026-08-08,Standard,Early cancel,61.0,0
+S01861,P026,C016,2026-08-08,Standard,Attended,,0
+S01862,P031,C019,2026-08-08,Standard,Attended,,1
+S01863,P037,C023,2026-08-08,Standard,Attended,,1
+S01864,P038,C024,2026-08-08,Standard,Attended,,0
+S01865,P013,C008,2026-08-10,Standard,Attended,,1
+S01866,P024,C015,2026-08-10,Standard,Attended,,1
+S01867,P026,C016,2026-08-10,Standard,Late cancel,4.0,1
+S01868,P031,C019,2026-08-10,Standard,Attended,,1
+S01869,P041,C026,2026-08-10,Standard,Attended,,0
+S01870,P050,C033,2026-08-10,Standard,Attended,,0
+S01871,P054,C035,2026-08-10,Postpartum,Attended,,0
+S01872,P010,C006,2026-08-11,Standard,Attended,,0
+S01873,P012,C007,2026-08-11,Standard,Attended,,1
+S01874,P018,C010,2026-08-11,Standard,Late cancel,7.0,0
+S01875,P023,C014,2026-08-11,Standard,Attended,,0
+S01876,P024,C015,2026-08-11,Standard,Late cancel,12.0,0
+S01877,P031,C019,2026-08-11,Standard,Attended,,0
+S01878,P039,C025,2026-08-11,Postpartum,Early cancel,52.0,0
+S01879,P041,C026,2026-08-11,Standard,Late cancel,4.0,0
+S01880,P050,C033,2026-08-11,Standard,Attended,,0
+S01881,P010,C006,2026-08-12,Standard,Attended,,0
+S01882,P012,C007,2026-08-12,Standard,Attended,,0
+S01883,P021,C013,2026-08-12,Postpartum,Attended,,0
+S01884,P026,C016,2026-08-12,Standard,Attended,,0
+S01885,P037,C023,2026-08-12,Standard,Attended,,0
+S01886,P038,C024,2026-08-12,Standard,Attended,,0
+S01887,P041,C026,2026-08-12,Standard,Early cancel,47.0,0
+S01888,P002,C002,2026-08-13,Postpartum,Late cancel,16.0,0
+S01889,P010,C006,2026-08-13,Standard,Attended,,0
+S01890,P024,C015,2026-08-13,Standard,Attended,,0
+S01891,P037,C023,2026-08-13,Standard,Attended,,0
+S01892,P054,C035,2026-08-13,Postpartum,Attended,,0
+S01893,P013,C008,2026-08-14,Standard,Attended,,0
+S01894,P023,C014,2026-08-14,Standard,Attended,,0
+S01895,P031,C019,2026-08-14,Standard,Attended,,0
+S01896,P041,C026,2026-08-14,Standard,Attended,,1
+S01897,P002,C002,2026-08-15,Postpartum,Attended,,0
+S01898,P012,C007,2026-08-15,Standard,Late cancel,7.0,0
+S01899,P026,C016,2026-08-15,Standard,Attended,,0
+S01900,P038,C024,2026-08-15,Standard,Attended,,0
+S01901,P039,C025,2026-08-15,Postpartum,Attended,,1
+S01902,P041,C026,2026-08-17,Standard,Early cancel,36.0,0
+S01903,P050,C033,2026-08-17,Standard,Early cancel,41.0,0
+S01904,P054,C035,2026-08-17,Postpartum,Attended,,0
+S01905,P007,C005,2026-08-18,Postpartum,Early cancel,37.0,0
+S01906,P010,C006,2026-08-18,Standard,Attended,,0
+S01907,P023,C014,2026-08-18,Standard,Attended,,0
+S01908,P024,C015,2026-08-18,Standard,Attended,,0
+S01909,P031,C019,2026-08-18,Standard,Attended,,0
+S01910,P039,C025,2026-08-18,Postpartum,Late cancel,17.0,0
+S01911,P041,C026,2026-08-18,Standard,Early cancel,68.0,0
+S01912,P050,C033,2026-08-18,Standard,Early cancel,48.0,0
+S01913,P010,C006,2026-08-19,Standard,Attended,,0
+S01914,P012,C007,2026-08-19,Standard,Attended,,0
+S01915,P021,C013,2026-08-19,Postpartum,Attended,,0
+S01916,P026,C016,2026-08-19,Standard,Attended,,0
+S01917,P037,C023,2026-08-19,Standard,Attended,,0
+S01918,P038,C024,2026-08-19,Standard,Early cancel,55.0,0
+S01919,P041,C026,2026-08-19,Standard,Early cancel,27.0,0
+S01920,P002,C002,2026-08-20,Postpartum,Early cancel,43.0,0
+S01921,P010,C006,2026-08-20,Standard,Early cancel,51.0,0
+S01922,P024,C015,2026-08-20,Standard,Early cancel,42.0,0
+S01923,P037,C023,2026-08-20,Standard,Late cancel,6.0,0
+S01924,P054,C035,2026-08-20,Postpartum,Attended,,0
+S01925,P007,C005,2026-08-21,Postpartum,Late cancel,23.0,1
+S01926,P013,C008,2026-08-21,Standard,Late cancel,6.0,0
+S01927,P023,C014,2026-08-21,Standard,Attended,,0
+S01928,P031,C019,2026-08-21,Standard,Early cancel,71.0,0
+S01929,P038,C024,2026-08-21,Standard,Early cancel,29.0,1
+S01930,P041,C026,2026-08-21,Standard,Early cancel,41.0,1
+S01931,P050,C033,2026-08-21,Standard,Early cancel,66.0,1
+S01932,P002,C002,2026-08-22,Postpartum,Attended,,0
+S01933,P007,C005,2026-08-22,Postpartum,Attended,,0
+S01934,P012,C007,2026-08-22,Standard,Late cancel,14.0,0
+S01935,P026,C016,2026-08-22,Standard,Early cancel,27.0,0
+S01936,P038,C024,2026-08-22,Standard,Attended,,0
+S01937,P041,C026,2026-08-22,Standard,Early cancel,24.0,1
+S01938,P050,C033,2026-08-22,Standard,Early cancel,54.0,1
+S01939,P002,C002,2026-08-24,Postpartum,Attended,,1
+S01940,P010,C006,2026-08-24,Standard,Attended,,1
+S01941,P024,C015,2026-08-24,Standard,Attended,,1
+S01942,P038,C024,2026-08-24,Standard,Attended,,2
+S01943,P041,C026,2026-08-24,Standard,Early cancel,50.0,0
+S01944,P050,C033,2026-08-24,Standard,Attended,,0
+S01945,P054,C035,2026-08-24,Postpartum,Attended,,0
+S01946,P007,C005,2026-08-25,Postpartum,Attended,,0
+S01947,P010,C006,2026-08-25,Standard,Attended,,0
+S01948,P023,C014,2026-08-25,Standard,Early cancel,28.0,0
+S01949,P024,C015,2026-08-25,Standard,Attended,,0
+S01950,P031,C019,2026-08-25,Standard,Attended,,0
+S01951,P039,C025,2026-08-25,Postpartum,Attended,,0
+S01952,P041,C026,2026-08-25,Standard,Attended,,0
+S01953,P050,C033,2026-08-25,Standard,Early cancel,43.0,0
+S01954,P051,C034,2026-08-25,Standard,Attended,,0
+S01955,P010,C006,2026-08-26,Standard,Late cancel,19.0,0
+S01956,P012,C007,2026-08-26,Standard,Attended,,0
+S01957,P021,C013,2026-08-26,Postpartum,Late cancel,18.0,0
+S01958,P026,C016,2026-08-26,Standard,Attended,,0
+S01959,P031,C019,2026-08-26,Standard,Attended,,1
+S01960,P037,C023,2026-08-26,Standard,Attended,,0
+S01961,P038,C024,2026-08-26,Standard,Attended,,0
+S01962,P041,C026,2026-08-26,Standard,Attended,,0
+S01963,P050,C033,2026-08-26,Standard,Attended,,2
+S01964,P002,C002,2026-08-27,Postpartum,Attended,,0
+S01965,P010,C006,2026-08-27,Standard,Attended,,0
+S01966,P024,C015,2026-08-27,Standard,Attended,,0
+S01967,P026,C016,2026-08-27,Standard,Attended,,1
+S01968,P037,C023,2026-08-27,Standard,Attended,,0
+S01969,P041,C026,2026-08-27,Standard,Attended,,1
+S01970,P050,C033,2026-08-27,Standard,Attended,,2
+S01971,P054,C035,2026-08-27,Postpartum,Attended,,0
+S01972,P013,C008,2026-08-28,Standard,Late cancel,15.0,0
+S01973,P023,C014,2026-08-28,Standard,Early cancel,45.0,0
+S01974,P031,C019,2026-08-28,Standard,Attended,,0
+S01975,P041,C026,2026-08-28,Standard,Early cancel,41.0,2
+S01976,P051,C034,2026-08-28,Standard,Attended,,0
+S01977,P002,C002,2026-08-29,Postpartum,Late cancel,21.0,0
+S01978,P007,C005,2026-08-29,Postpartum,Late cancel,4.0,0
+S01979,P012,C007,2026-08-29,Standard,Early cancel,63.0,0
+S01980,P023,C014,2026-08-29,Standard,Attended,,1
+S01981,P026,C016,2026-08-29,Standard,Early cancel,33.0,0
+S01982,P038,C024,2026-08-29,Standard,Late cancel,8.0,0
+S01983,P041,C026,2026-08-29,Standard,Attended,,2
+S01984,P050,C033,2026-08-29,Standard,Attended,,1
+S01985,P012,C007,2026-08-31,Standard,Attended,,1
+S01986,P023,C014,2026-08-31,Standard,Early cancel,68.0,1
+S01987,P041,C026,2026-08-31,Standard,Early cancel,44.0,0
+S01988,P050,C033,2026-08-31,Standard,Attended,,0
+S01989,P054,C035,2026-08-31,Postpartum,Attended,,0
+S01990,P007,C005,2026-09-01,Postpartum,Early cancel,29.0,0
+S01991,P010,C006,2026-09-01,Standard,Late cancel,16.0,0
+S01992,P023,C014,2026-09-01,Standard,Attended,,0
+S01993,P024,C015,2026-09-01,Standard,Attended,,0
+S01994,P031,C019,2026-09-01,Standard,Attended,,0
+S01995,P039,C025,2026-09-01,Postpartum,Attended,,0
+S01996,P041,C026,2026-09-01,Standard,Early cancel,24.0,0
+S01997,P050,C033,2026-09-01,Standard,Attended,,0
+S01998,P051,C034,2026-09-01,Standard,Attended,,0
+S01999,P012,C007,2026-09-02,Standard,Attended,,0
+S02000,P021,C013,2026-09-02,Postpartum,Early cancel,55.0,0
+S02001,P026,C016,2026-09-02,Standard,Attended,,0
+S02002,P037,C023,2026-09-02,Standard,Late cancel,12.0,0
+S02003,P038,C024,2026-09-02,Standard,Early cancel,66.0,0
+S02004,P041,C026,2026-09-02,Standard,Early cancel,27.0,0
+S02005,P002,C002,2026-09-03,Postpartum,Attended,,0
+S02006,P023,C014,2026-09-03,Standard,Late cancel,8.0,2
+S02007,P024,C015,2026-09-03,Standard,Attended,,0
+S02008,P026,C016,2026-09-03,Standard,Early cancel,36.0,1
+S02009,P037,C023,2026-09-03,Standard,Attended,,0
+S02010,P041,C026,2026-09-03,Standard,Attended,,1
+S02011,P054,C035,2026-09-03,Postpartum,Attended,,0
+S02012,P007,C005,2026-09-04,Postpartum,Attended,,1
+S02013,P013,C008,2026-09-04,Standard,Attended,,0
+S02014,P023,C014,2026-09-04,Standard,No-show,,0
+S02015,P031,C019,2026-09-04,Standard,Attended,,0
+S02016,P041,C026,2026-09-04,Standard,Attended,,1
+S02017,P051,C034,2026-09-04,Standard,Attended,,0
+S02018,P002,C002,2026-09-05,Postpartum,Late cancel,18.0,0
+S02019,P004,C003,2026-09-05,Postpartum,Early cancel,48.0,0
+S02020,P007,C005,2026-09-05,Postpartum,Attended,,0
+S02021,P012,C007,2026-09-05,Standard,Attended,,0
+S02022,P026,C016,2026-09-05,Standard,Early cancel,46.0,0
+S02023,P038,C024,2026-09-05,Standard,Attended,,0
+S02024,P041,C026,2026-09-05,Standard,Attended,,1
+S02025,P021,C013,2026-09-07,Postpartum,Attended,,1
+S02026,P026,C016,2026-09-07,Standard,Late cancel,18.0,2
+S02027,P027,C017,2026-09-07,Standard,Early cancel,55.0,0
+S02028,P038,C024,2026-09-07,Standard,Attended,,1
+S02029,P042,C027,2026-09-07,Standard,Attended,,0
+S02030,P050,C033,2026-09-07,Standard,Late cancel,4.0,0
+S02031,P054,C035,2026-09-07,Postpartum,Attended,,0
+S02032,P007,C005,2026-09-08,Postpartum,Early cancel,52.0,0
+S02033,P023,C014,2026-09-08,Standard,Early cancel,39.0,0
+S02034,P024,C015,2026-09-08,Standard,Early cancel,46.0,0
+S02035,P026,C016,2026-09-08,Standard,Attended,,1
+S02036,P027,C017,2026-09-08,Standard,Attended,,0
+S02037,P031,C019,2026-09-08,Standard,Attended,,0
+S02038,P039,C025,2026-09-08,Postpartum,Attended,,0
+S02039,P050,C033,2026-09-08,Standard,Early cancel,71.0,0
+S02040,P051,C034,2026-09-08,Standard,Late cancel,10.0,0
+S02041,P004,C003,2026-09-09,Postpartum,Early cancel,34.0,1
+S02042,P011,C006,2026-09-09,Standard,Attended,,0
+S02043,P012,C007,2026-09-09,Standard,Attended,,0
+S02044,P021,C013,2026-09-09,Postpartum,Early cancel,66.0,0
+S02045,P026,C016,2026-09-09,Standard,Attended,,0
+S02046,P037,C023,2026-09-09,Standard,Attended,,0
+S02047,P038,C024,2026-09-09,Standard,Attended,,0
+S02048,P042,C027,2026-09-09,Standard,Attended,,0
+S02049,P002,C002,2026-09-10,Postpartum,Attended,,0
+S02050,P011,C006,2026-09-10,Standard,Attended,,0
+S02051,P024,C015,2026-09-10,Standard,Attended,,0
+S02052,P027,C017,2026-09-10,Standard,Attended,,0
+S02053,P037,C023,2026-09-10,Standard,Attended,,0
+S02054,P054,C035,2026-09-10,Postpartum,Attended,,0
+S02055,P013,C008,2026-09-11,Standard,Attended,,0
+S02056,P023,C014,2026-09-11,Standard,Attended,,0
+S02057,P024,C015,2026-09-11,Standard,Early cancel,35.0,1
+S02058,P027,C017,2026-09-11,Standard,Attended,,1
+S02059,P031,C019,2026-09-11,Standard,Attended,,0
+S02060,P042,C027,2026-09-11,Standard,Attended,,0
+S02061,P051,C034,2026-09-11,Standard,Late cancel,9.0,0
+S02062,P003,C002,2026-09-12,Postpartum,Attended,,0
+S02063,P004,C003,2026-09-12,Postpartum,Early cancel,72.0,0
+S02064,P007,C005,2026-09-12,Postpartum,Early cancel,46.0,0
+S02065,P012,C007,2026-09-12,Standard,Late cancel,1.0,0
+S02066,P021,C013,2026-09-12,Postpartum,Attended,,1
+S02067,P023,C014,2026-09-12,Standard,Early cancel,60.0,1
+S02068,P026,C016,2026-09-12,Standard,Attended,,0
+S02069,P038,C024,2026-09-12,Standard,Attended,,0
+S02070,P050,C033,2026-09-12,Standard,Attended,,1
+S02071,P004,C003,2026-09-14,Postpartum,Late cancel,2.0,2
+S02072,P007,C005,2026-09-14,Postpartum,Attended,,1
+S02073,P023,C014,2026-09-14,Standard,Early cancel,55.0,2
+S02074,P024,C015,2026-09-14,Standard,Early cancel,58.0,2
+S02075,P027,C017,2026-09-14,Standard,Attended,,0
+S02076,P042,C027,2026-09-14,Standard,No-show,,0
+S02077,P050,C033,2026-09-14,Standard,Early cancel,29.0,0
+S02078,P054,C035,2026-09-14,Postpartum,Attended,,0
+S02079,P004,C003,2026-09-15,Postpartum,No-show,,1
+S02080,P007,C005,2026-09-15,Postpartum,Attended,,0
+S02081,P011,C006,2026-09-15,Standard,Attended,,0
+S02082,P023,C014,2026-09-15,Standard,Early cancel,52.0,0
+S02083,P024,C015,2026-09-15,Standard,Early cancel,39.0,0
+S02084,P027,C017,2026-09-15,Standard,Late cancel,2.0,0
+S02085,P031,C019,2026-09-15,Standard,Attended,,0
+S02086,P039,C025,2026-09-15,Postpartum,Early cancel,34.0,0
+S02087,P050,C033,2026-09-15,Standard,Attended,,0
+S02088,P051,C034,2026-09-15,Standard,Attended,,0
+S02089,P007,C005,2026-09-16,Postpartum,Attended,,1
+S02090,P011,C006,2026-09-16,Standard,Early cancel,66.0,0
+S02091,P012,C007,2026-09-16,Standard,Attended,,0
+S02092,P021,C013,2026-09-16,Postpartum,Attended,,0
+S02093,P026,C016,2026-09-16,Standard,Attended,,0
+S02094,P038,C024,2026-09-16,Standard,Attended,,0
+S02095,P042,C027,2026-09-16,Standard,Attended,,0
+S02096,P003,C002,2026-09-17,Postpartum,Early cancel,46.0,0
+S02097,P011,C006,2026-09-17,Standard,Attended,,0
+S02098,P024,C015,2026-09-17,Standard,Attended,,0
+S02099,P027,C017,2026-09-17,Standard,Early cancel,67.0,0
+S02100,P039,C025,2026-09-17,Postpartum,Attended,,1
+S02101,P054,C035,2026-09-17,Postpartum,Attended,,0
+S02102,P011,C006,2026-09-18,Standard,Attended,,1
+S02103,P013,C008,2026-09-18,Standard,Early cancel,72.0,0
+S02104,P023,C014,2026-09-18,Standard,Attended,,0
+S02105,P031,C019,2026-09-18,Standard,Attended,,0
+S02106,P042,C027,2026-09-18,Standard,Attended,,0
+S02107,P050,C033,2026-09-18,Standard,Attended,,1
+S02108,P052,C034,2026-09-18,Standard,Attended,,0
+S02109,P003,C002,2026-09-19,Postpartum,Attended,,0
+S02110,P004,C003,2026-09-19,Postpartum,Early cancel,70.0,0
+S02111,P007,C005,2026-09-19,Postpartum,Early cancel,72.0,0
+S02112,P012,C007,2026-09-19,Standard,Late cancel,14.0,0
+S02113,P023,C014,2026-09-19,Standard,Attended,,1
+S02114,P024,C015,2026-09-19,Standard,Early cancel,49.0,1
+S02115,P026,C016,2026-09-19,Standard,Attended,,0
+S02116,P038,C024,2026-09-19,Standard,Attended,,0
+S02117,P003,C002,2026-09-21,Postpartum,Late cancel,6.0,1
+S02118,P007,C005,2026-09-21,Postpartum,Early cancel,34.0,1
+S02119,P027,C017,2026-09-21,Standard,Early cancel,26.0,0
+S02120,P042,C027,2026-09-21,Standard,Attended,,0
+S02121,P050,C033,2026-09-21,Standard,Attended,,0
+S02122,P054,C035,2026-09-21,Postpartum,Early cancel,26.0,0
+S02123,P004,C003,2026-09-22,Postpartum,Late cancel,20.0,1
+S02124,P007,C005,2026-09-22,Postpartum,Attended,,0
+S02125,P011,C006,2026-09-22,Standard,Attended,,0
+S02126,P013,C008,2026-09-22,Standard,Attended,,1
+S02127,P023,C014,2026-09-22,Standard,Early cancel,54.0,0
+S02128,P024,C015,2026-09-22,Standard,Attended,,0
+S02129,P027,C017,2026-09-22,Standard,Attended,,0
+S02130,P031,C019,2026-09-22,Standard,Early cancel,40.0,0
+S02131,P039,C025,2026-09-22,Postpartum,Early cancel,62.0,0
+S02132,P050,C033,2026-09-22,Standard,Attended,,0
+S02133,P052,C034,2026-09-22,Standard,No-show,,0
+S02134,P011,C006,2026-09-23,Standard,Attended,,0
+S02135,P012,C007,2026-09-23,Standard,Attended,,0
+S02136,P021,C013,2026-09-23,Postpartum,Early cancel,46.0,0
+S02137,P024,C015,2026-09-23,Standard,Attended,,2
+S02138,P026,C016,2026-09-23,Standard,Attended,,0
+S02139,P027,C017,2026-09-23,Standard,Early cancel,40.0,1
+S02140,P038,C024,2026-09-23,Standard,Attended,,0
+S02141,P042,C027,2026-09-23,Standard,Attended,,0
+S02142,P003,C002,2026-09-24,Postpartum,Attended,,0
+S02143,P011,C006,2026-09-24,Standard,Early cancel,59.0,0
+S02144,P023,C014,2026-09-24,Standard,Early cancel,32.0,1
+S02145,P024,C015,2026-09-24,Standard,Attended,,0
+S02146,P027,C017,2026-09-24,Standard,Attended,,0
+S02147,P054,C035,2026-09-24,Postpartum,Attended,,0
+S02148,P007,C005,2026-09-25,Postpartum,Attended,,2
+S02149,P013,C008,2026-09-25,Standard,Early cancel,68.0,0
+S02150,P021,C013,2026-09-25,Postpartum,Early cancel,31.0,1
+S02151,P023,C014,2026-09-25,Standard,Early cancel,47.0,0
+S02152,P027,C017,2026-09-25,Standard,Attended,,1
+S02153,P031,C019,2026-09-25,Standard,Attended,,0
+S02154,P042,C027,2026-09-25,Standard,Attended,,0
+S02155,P052,C034,2026-09-25,Standard,Early cancel,38.0,0
+S02156,P054,C035,2026-09-25,Postpartum,Attended,,1
+S02157,P003,C002,2026-09-26,Postpartum,Attended,,0
+S02158,P004,C003,2026-09-26,Postpartum,Attended,,0
+S02159,P007,C005,2026-09-26,Postpartum,Late cancel,19.0,0
+S02160,P012,C007,2026-09-26,Standard,Early cancel,36.0,0
+S02161,P023,C014,2026-09-26,Standard,Attended,,2
+S02162,P026,C016,2026-09-26,Standard,Attended,,0
+S02163,P027,C017,2026-09-26,Standard,Early cancel,40.0,2
+S02164,P031,C019,2026-09-26,Standard,Attended,,1
+S02165,P038,C024,2026-09-26,Standard,Attended,,0
+S02166,P039,C025,2026-09-26,Postpartum,Early cancel,38.0,1
+S02167,P011,C006,2026-09-28,Standard,Attended,,1
+S02168,P013,C008,2026-09-28,Standard,Attended,,1
+S02169,P021,C013,2026-09-28,Postpartum,Early cancel,38.0,2
+S02170,P023,C014,2026-09-28,Standard,Attended,,1
+S02171,P027,C017,2026-09-28,Standard,Attended,,0
+S02172,P039,C025,2026-09-28,Postpartum,Attended,,2
+S02173,P042,C027,2026-09-28,Standard,Attended,,0
+S02174,P050,C033,2026-09-28,Standard,Attended,,0
+S02175,P052,C034,2026-09-28,Standard,Attended,,1
+S02176,P007,C005,2026-09-29,Postpartum,Attended,,0
+S02177,P011,C006,2026-09-29,Standard,Attended,,0
+S02178,P012,C007,2026-09-29,Standard,Early cancel,31.0,1
+S02179,P023,C014,2026-09-29,Standard,Attended,,0
+S02180,P024,C015,2026-09-29,Standard,Early cancel,72.0,0
+S02181,P027,C017,2026-09-29,Standard,Late cancel,20.0,0
+S02182,P031,C019,2026-09-29,Standard,Attended,,0
+S02183,P050,C033,2026-09-29,Standard,Late cancel,15.0,0
+S02184,P052,C034,2026-09-29,Standard,Attended,,0
+S02185,P011,C006,2026-09-30,Standard,Attended,,0
+S02186,P012,C007,2026-09-30,Standard,Attended,,0
+S02187,P021,C013,2026-09-30,Postpartum,Attended,,0
+S02188,P026,C016,2026-09-30,Standard,Early cancel,31.0,0
+S02189,P038,C024,2026-09-30,Standard,Attended,,0
+S02190,P042,C027,2026-09-30,Standard,Attended,,0
+S02191,P003,C002,2026-10-01,Postpartum,Attended,,0
+S02192,P011,C006,2026-10-01,Standard,Attended,,0
+S02193,P024,C015,2026-10-01,Standard,Attended,,0
+S02194,P027,C017,2026-10-01,Standard,Late cancel,17.0,0
+S02195,P013,C008,2026-10-02,Standard,Late cancel,19.0,0
+S02196,P023,C014,2026-10-02,Standard,Attended,,0
+S02197,P024,C015,2026-10-02,Standard,Early cancel,24.0,1
+S02198,P026,C016,2026-10-02,Standard,Late cancel,4.0,1
+S02199,P031,C019,2026-10-02,Standard,Attended,,0
+S02200,P042,C027,2026-10-02,Standard,Early cancel,51.0,0
+S02201,P052,C034,2026-10-02,Standard,Early cancel,53.0,0
+S02202,P003,C002,2026-10-03,Postpartum,Late cancel,2.0,0
+S02203,P004,C003,2026-10-03,Postpartum,Early cancel,33.0,0
+S02204,P007,C005,2026-10-03,Postpartum,Attended,,0
+S02205,P012,C007,2026-10-03,Standard,Attended,,0
+S02206,P026,C016,2026-10-03,Standard,Attended,,0
+S02207,P038,C024,2026-10-03,Standard,Attended,,0
+S02208,P012,C007,2026-10-05,Standard,Early cancel,67.0,2
+S02209,P027,C017,2026-10-05,Standard,Early cancel,57.0,0
+S02210,P042,C027,2026-10-05,Standard,Late cancel,20.0,0
+S02211,P050,C033,2026-10-05,Standard,Attended,,0
+S02212,P007,C005,2026-10-06,Postpartum,Attended,,0
+S02213,P011,C006,2026-10-06,Standard,Early cancel,53.0,0
+S02214,P023,C014,2026-10-06,Standard,Early cancel,24.0,0
+S02215,P024,C015,2026-10-06,Standard,Attended,,0
+S02216,P027,C017,2026-10-06,Standard,Attended,,0
+S02217,P031,C019,2026-10-06,Standard,Early cancel,61.0,0
+S02218,P042,C027,2026-10-06,Standard,Early cancel,53.0,1
+S02219,P050,C033,2026-10-06,Standard,Attended,,0
+S02220,P052,C034,2026-10-06,Standard,Attended,,0
+S02221,P004,C003,2026-10-07,Postpartum,Attended,,1
+S02222,P011,C006,2026-10-07,Standard,Attended,,0
+S02223,P012,C007,2026-10-07,Standard,Early cancel,35.0,0
+S02224,P021,C013,2026-10-07,Postpartum,Attended,,0
+S02225,P024,C015,2026-10-07,Standard,Attended,,2
+S02226,P026,C016,2026-10-07,Standard,Attended,,0
+S02227,P038,C024,2026-10-07,Standard,Attended,,0
+S02228,P042,C027,2026-10-07,Standard,Attended,,0
+S02229,P052,C034,2026-10-07,Standard,Late cancel,3.0,1
+S02230,P003,C002,2026-10-08,Postpartum,Attended,,0
+S02231,P011,C006,2026-10-08,Standard,Early cancel,43.0,0
+S02232,P024,C015,2026-10-08,Standard,Late cancel,23.0,0
+S02233,P027,C017,2026-10-08,Standard,Attended,,0
+S02234,P042,C027,2026-10-08,Standard,Attended,,2
+S02235,P055,C035,2026-10-08,Postpartum,Attended,,0
+S02236,P013,C008,2026-10-09,Standard,Attended,,0
+S02237,P023,C014,2026-10-09,Standard,Attended,,0
+S02238,P027,C017,2026-10-09,Standard,Early cancel,44.0,1
+S02239,P031,C019,2026-10-09,Standard,Early cancel,49.0,0
+S02240,P042,C027,2026-10-09,Standard,Attended,,0
+S02241,P052,C034,2026-10-09,Standard,Attended,,0
+S02242,P003,C002,2026-10-10,Postpartum,Early cancel,28.0,0
+S02243,P004,C003,2026-10-10,Postpartum,Attended,,0
+S02244,P007,C005,2026-10-10,Postpartum,Attended,,0
+S02245,P011,C006,2026-10-10,Standard,Early cancel,63.0,1
+S02246,P012,C007,2026-10-10,Standard,Attended,,0
+S02247,P023,C014,2026-10-10,Standard,Early cancel,53.0,1
+S02248,P026,C016,2026-10-10,Standard,Attended,,0
+S02249,P031,C019,2026-10-10,Standard,Attended,,1
+S02250,P038,C024,2026-10-10,Standard,Attended,,0
+S02251,P003,C002,2026-10-12,Postpartum,Attended,,1
+S02252,P011,C006,2026-10-12,Standard,Attended,,1
+S02253,P012,C007,2026-10-12,Standard,Attended,,1
+S02254,P027,C017,2026-10-12,Standard,Early cancel,35.0,0
+S02255,P042,C027,2026-10-12,Standard,Attended,,0
+S02256,P050,C033,2026-10-12,Standard,Attended,,0
+S02257,P055,C035,2026-10-12,Postpartum,Attended,,0
+S02258,P007,C005,2026-10-13,Postpartum,Attended,,0
+S02259,P011,C006,2026-10-13,Standard,Early cancel,67.0,0
+S02260,P023,C014,2026-10-13,Standard,Attended,,0
+S02261,P025,C015,2026-10-13,Standard,Early cancel,26.0,0
+S02262,P027,C017,2026-10-13,Standard,Late cancel,15.0,0
+S02263,P050,C033,2026-10-13,Standard,Attended,,0
+S02264,P052,C034,2026-10-13,Standard,Attended,,0
+S02265,P011,C006,2026-10-14,Standard,Early cancel,29.0,0
+S02266,P012,C007,2026-10-14,Standard,Early cancel,41.0,0
+S02267,P022,C013,2026-10-14,Postpartum,Early cancel,54.0,0
+S02268,P023,C014,2026-10-14,Standard,Attended,,2
+S02269,P026,C016,2026-10-14,Standard,Attended,,0
+S02270,P027,C017,2026-10-14,Standard,Late cancel,12.0,2
+S02271,P038,C024,2026-10-14,Standard,Attended,,0
+S02272,P042,C027,2026-10-14,Standard,Attended,,0
+S02273,P003,C002,2026-10-15,Postpartum,Early cancel,31.0,0
+S02274,P011,C006,2026-10-15,Standard,Early cancel,54.0,0
+S02275,P025,C015,2026-10-15,Standard,Attended,,0
+S02276,P027,C017,2026-10-15,Standard,Early cancel,50.0,0
+S02277,P055,C035,2026-10-15,Postpartum,Attended,,0
+S02278,P011,C006,2026-10-16,Standard,Late cancel,6.0,2
+S02279,P012,C007,2026-10-16,Standard,Early cancel,53.0,1
+S02280,P013,C008,2026-10-16,Standard,Early cancel,52.0,0
+S02281,P023,C014,2026-10-16,Standard,Attended,,0
+S02282,P025,C015,2026-10-16,Standard,Attended,,1
+S02283,P027,C017,2026-10-16,Standard,Attended,,1
+S02284,P042,C027,2026-10-16,Standard,Early cancel,24.0,0
+S02285,P052,C034,2026-10-16,Standard,Attended,,0
+S02286,P003,C002,2026-10-17,Postpartum,Attended,,0
+S02287,P004,C003,2026-10-17,Postpartum,Attended,,0
+S02288,P007,C005,2026-10-17,Postpartum,Attended,,0
+S02289,P011,C006,2026-10-17,Standard,Attended,,1
+S02290,P012,C007,2026-10-17,Standard,Attended,,0
+S02291,P022,C013,2026-10-17,Postpartum,Late cancel,3.0,1
+S02292,P026,C016,2026-10-17,Standard,Early cancel,51.0,0
+S02293,P027,C017,2026-10-17,Standard,Attended,,1
+S02294,P038,C024,2026-10-17,Standard,Attended,,0
+S02295,P003,C002,2026-10-19,Postpartum,Attended,,1
+S02296,P011,C006,2026-10-19,Standard,Attended,,1
+S02297,P012,C007,2026-10-19,Standard,Attended,,2
+S02298,P027,C017,2026-10-19,Standard,Attended,,0
+S02299,P042,C027,2026-10-19,Standard,Early cancel,59.0,0
+S02300,P050,C033,2026-10-19,Standard,Early cancel,71.0,0
+S02301,P055,C035,2026-10-19,Postpartum,Attended,,0
+S02302,P007,C005,2026-10-20,Postpartum,Early cancel,50.0,0
+S02303,P011,C006,2026-10-20,Standard,Attended,,0
+S02304,P013,C008,2026-10-20,Standard,Early cancel,72.0,1
+S02305,P023,C014,2026-10-20,Standard,Attended,,0
+S02306,P025,C015,2026-10-20,Standard,Attended,,0
+S02307,P026,C016,2026-10-20,Standard,Attended,,1
+S02308,P027,C017,2026-10-20,Standard,Attended,,0
+S02309,P042,C027,2026-10-20,Standard,Attended,,1
+S02310,P050,C033,2026-10-20,Standard,Attended,,0
+S02311,P052,C034,2026-10-20,Standard,Late cancel,17.0,0
+S02312,P011,C006,2026-10-21,Standard,Early cancel,52.0,0
+S02313,P012,C007,2026-10-21,Standard,Attended,,0
+S02314,P022,C013,2026-10-21,Postpartum,Attended,,0
+S02315,P026,C016,2026-10-21,Standard,Attended,,0
+S02316,P038,C024,2026-10-21,Standard,Attended,,0
+S02317,P042,C027,2026-10-21,Standard,Attended,,0
+S02318,P003,C002,2026-10-22,Postpartum,Attended,,0
+S02319,P011,C006,2026-10-22,Standard,Attended,,0
+S02320,P013,C008,2026-10-22,Standard,Attended,,2
+S02321,P025,C015,2026-10-22,Standard,Early cancel,63.0,0
+S02322,P027,C017,2026-10-22,Standard,Late cancel,19.0,0
+S02323,P042,C027,2026-10-22,Standard,Attended,,1
+S02324,P055,C035,2026-10-22,Postpartum,Attended,,0
+S02325,P007,C005,2026-10-23,Postpartum,Attended,,1
+S02326,P011,C006,2026-10-23,Standard,Attended,,1
+S02327,P013,C008,2026-10-23,Standard,Attended,,0
+S02328,P023,C014,2026-10-23,Standard,Early cancel,65.0,0
+S02329,P032,C019,2026-10-23,Standard,Late cancel,17.0,0
+S02330,P052,C034,2026-10-23,Standard,Attended,,0
+S02331,P003,C002,2026-10-24,Postpartum,Attended,,0
+S02332,P004,C003,2026-10-24,Postpartum,Attended,,0
+S02333,P007,C005,2026-10-24,Postpartum,Attended,,0
+S02334,P011,C006,2026-10-24,Standard,Early cancel,70.0,1
+S02335,P012,C007,2026-10-24,Standard,Attended,,0
+S02336,P026,C016,2026-10-24,Standard,Attended,,0
+S02337,P038,C024,2026-10-24,Standard,Attended,,0
+S02338,P023,C014,2026-10-26,Standard,Attended,,1
+S02339,P025,C015,2026-10-26,Standard,Attended,,1
+S02340,P027,C017,2026-10-26,Standard,Attended,,0
+S02341,P055,C035,2026-10-26,Postpartum,Early cancel,25.0,0
+S02342,P011,C006,2026-10-27,Standard,Late cancel,2.0,0
+S02343,P023,C014,2026-10-27,Standard,Early cancel,65.0,0
+S02344,P025,C015,2026-10-27,Standard,Attended,,0
+S02345,P027,C017,2026-10-27,Standard,Early cancel,72.0,0
+S02346,P032,C019,2026-10-27,Standard,Attended,,0
+S02347,P052,C034,2026-10-27,Standard,Early cancel,69.0,0
+S02348,P011,C006,2026-10-28,Standard,Attended,,0
+S02349,P012,C007,2026-10-28,Standard,Attended,,0
+S02350,P022,C013,2026-10-28,Postpartum,Early cancel,25.0,0
+S02351,P026,C016,2026-10-28,Standard,Attended,,0
+S02352,P038,C024,2026-10-28,Standard,Early cancel,28.0,0
+S02353,P003,C002,2026-10-29,Postpartum,Attended,,0
+S02354,P011,C006,2026-10-29,Standard,No-show,,0
+S02355,P023,C014,2026-10-29,Standard,Attended,,1
+S02356,P025,C015,2026-10-29,Standard,Attended,,0
+S02357,P027,C017,2026-10-29,Standard,Late cancel,14.0,0
+S02358,P052,C034,2026-10-29,Standard,Early cancel,60.0,1
+S02359,P055,C035,2026-10-29,Postpartum,Attended,,0
+S02360,P011,C006,2026-10-30,Standard,Attended,,2
+S02361,P013,C008,2026-10-30,Standard,Attended,,0
+S02362,P023,C014,2026-10-30,Standard,Attended,,0
+S02363,P027,C017,2026-10-30,Standard,Early cancel,29.0,1
+S02364,P032,C019,2026-10-30,Standard,Early cancel,55.0,0
+S02365,P052,C034,2026-10-30,Standard,Late cancel,19.0,0
+S02366,P055,C035,2026-10-30,Postpartum,Attended,,1
+S02367,P003,C002,2026-10-31,Postpartum,Early cancel,44.0,0
+S02368,P004,C003,2026-10-31,Postpartum,Early cancel,41.0,0
+S02369,P012,C007,2026-10-31,Standard,Attended,,0
+S02370,P022,C013,2026-10-31,Postpartum,Attended,,1
+S02371,P026,C016,2026-10-31,Standard,Early cancel,71.0,0
+S02372,P038,C024,2026-10-31,Standard,Attended,,0
+S02373,P052,C034,2026-10-31,Standard,Attended,,2
+S02374,P027,C017,2026-11-02,Standard,Early cancel,63.0,0
+S02375,P032,C019,2026-11-02,Standard,Early cancel,66.0,1
+S02376,P038,C024,2026-11-02,Standard,Attended,,1
+S02377,P055,C035,2026-11-02,Postpartum,Attended,,0
+S02378,P008,C005,2026-11-03,Postpartum,Attended,,0
+S02379,P011,C006,2026-11-03,Standard,Attended,,0
+S02380,P023,C014,2026-11-03,Standard,Attended,,0
+S02381,P025,C015,2026-11-03,Standard,Attended,,0
+S02382,P027,C017,2026-11-03,Standard,Attended,,0
+S02383,P032,C019,2026-11-03,Standard,Attended,,0
+S02384,P052,C034,2026-11-03,Standard,Early cancel,49.0,0
+S02385,P003,C002,2026-11-04,Postpartum,Attended,,1
+S02386,P011,C006,2026-11-04,Standard,Attended,,0
+S02387,P012,C007,2026-11-04,Standard,Attended,,0
+S02388,P022,C013,2026-11-04,Postpartum,Attended,,0
+S02389,P026,C016,2026-11-04,Standard,Early cancel,54.0,0
+S02390,P027,C017,2026-11-04,Standard,Attended,,2
+S02391,P038,C024,2026-11-04,Standard,Attended,,0
+S02392,P003,C002,2026-11-05,Postpartum,Early cancel,33.0,0
+S02393,P011,C006,2026-11-05,Standard,Attended,,0
+S02394,P025,C015,2026-11-05,Standard,Attended,,0
+S02395,P026,C016,2026-11-05,Standard,Attended,,1
+S02396,P027,C017,2026-11-05,Standard,Early cancel,27.0,0
+S02397,P032,C019,2026-11-05,Standard,Attended,,2
+S02398,P055,C035,2026-11-05,Postpartum,Attended,,0
+S02399,P013,C008,2026-11-06,Standard,Attended,,0
+S02400,P023,C014,2026-11-06,Standard,Attended,,0
+S02401,P026,C016,2026-11-06,Standard,Early cancel,68.0,1
+S02402,P027,C017,2026-11-06,Standard,Early cancel,40.0,1
+S02403,P032,C019,2026-11-06,Standard,Attended,,0
+S02404,P043,C027,2026-11-06,Standard,Early cancel,51.0,0
+S02405,P052,C034,2026-11-06,Standard,Attended,,0
+S02406,P003,C002,2026-11-07,Postpartum,Attended,,0
+S02407,P008,C005,2026-11-07,Postpartum,Attended,,0
+S02408,P012,C007,2026-11-07,Standard,Attended,,0
+S02409,P026,C016,2026-11-07,Standard,Attended,,0
+S02410,P038,C024,2026-11-07,Standard,Attended,,0
+S02411,P052,C034,2026-11-07,Standard,Attended,,1
+S02412,P003,C002,2026-11-09,Postpartum,Attended,,1
+S02413,P026,C016,2026-11-09,Standard,No-show,,2
+S02414,P027,C017,2026-11-09,Standard,Attended,,0
+S02415,P043,C027,2026-11-09,Standard,Attended,,0
+S02416,P055,C035,2026-11-09,Postpartum,Attended,,0
+S02417,P008,C005,2026-11-10,Postpartum,Attended,,0
+S02418,P011,C006,2026-11-10,Standard,Late cancel,18.0,0
+S02419,P023,C014,2026-11-10,Standard,Attended,,0
+S02420,P025,C015,2026-11-10,Standard,Early cancel,59.0,0
+S02421,P027,C017,2026-11-10,Standard,Late cancel,23.0,0
+S02422,P032,C019,2026-11-10,Standard,Attended,,0
+S02423,P043,C027,2026-11-10,Standard,Attended,,1
+S02424,P052,C034,2026-11-10,Standard,Attended,,0
+S02425,P011,C006,2026-11-11,Standard,Attended,,0
+S02426,P012,C007,2026-11-11,Standard,Early cancel,66.0,0
+S02427,P022,C013,2026-11-11,Postpartum,Late cancel,15.0,0
+S02428,P026,C016,2026-11-11,Standard,Attended,,0
+S02429,P027,C017,2026-11-11,Standard,Attended,,1
+S02430,P043,C027,2026-11-11,Standard,Early cancel,43.0,0
+S02431,P003,C002,2026-11-12,Postpartum,Early cancel,53.0,0
+S02432,P011,C006,2026-11-12,Standard,Attended,,0
+S02433,P025,C015,2026-11-12,Standard,Early cancel,30.0,0
+S02434,P027,C017,2026-11-12,Standard,Late cancel,15.0,0
+S02435,P055,C035,2026-11-12,Postpartum,Attended,,0
+S02436,P013,C008,2026-11-13,Standard,Early cancel,24.0,0
+S02437,P023,C014,2026-11-13,Standard,Early cancel,72.0,0
+S02438,P027,C017,2026-11-13,Standard,Late cancel,5.0,2
+S02439,P032,C019,2026-11-13,Standard,Early cancel,49.0,0
+S02440,P043,C027,2026-11-13,Standard,Early cancel,27.0,0
+S02441,P052,C034,2026-11-13,Standard,Attended,,0
+S02442,P003,C002,2026-11-14,Postpartum,Attended,,0
+S02443,P008,C005,2026-11-14,Postpartum,Attended,,0
+S02444,P012,C007,2026-11-14,Standard,Late cancel,9.0,0
+S02445,P025,C015,2026-11-14,Standard,Attended,,1
+S02446,P026,C016,2026-11-14,Standard,Early cancel,49.0,0
+S02447,P043,C027,2026-11-14,Standard,Attended,,1

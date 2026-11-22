@@ -1,0 +1,4 @@
+planted_pause_effect,trials,cohorts_per_trial,flagged,avg_packages_with_a_pause
+0.0,8,8,0,68.875
+0.15,8,8,2,70.25
+0.3,8,8,8,70.875

@@ -1,0 +1,38 @@
+outcome_id,package_id,client_id,end_date,outcome,renewed,reason_category,renewed_package_id
+O001,P001,C001,2026-06-30,Completed,No,Life stage change,
+O002,P002,C002,2026-09-10,Completed,Yes,,P003
+O003,P005,C004,2026-06-04,Completed,No,Relocated,
+O004,P006,C005,2026-08-04,Completed,Yes,,P007
+O005,P007,C005,2026-10-24,Completed,Yes,,P008
+O006,P009,C006,2025-12-29,Completed,Yes,,P010
+O007,P010,C006,2026-09-01,Completed,Yes,,P011
+O008,P014,C009,2026-01-08,Completed,Yes,,P015
+O009,P015,C009,2026-02-27,Completed,No,Price,
+O010,P016,C010,2025-11-19,Completed,Yes,,P017
+O011,P017,C010,2026-02-05,Completed,Yes,,P018
+O012,P018,C010,2026-08-11,Completed,No,No reply,
+O013,P019,C011,2026-03-02,Completed,No,Reached goal,
+O014,P020,C012,2026-03-26,Completed,No,Price,
+O015,P021,C013,2026-10-07,Completed,Yes,,P022
+O016,P024,C015,2026-10-08,Completed,Yes,,P025
+O017,P028,C018,2026-02-03,Completed,Yes,,P029
+O018,P029,C018,2026-04-03,Completed,No,Schedule change,
+O019,P030,C019,2026-04-03,Completed,Yes,,P031
+O020,P031,C019,2026-10-10,Completed,Yes,,P032
+O021,P033,C020,2026-01-20,Completed,No,Reached goal,
+O022,P034,C021,2026-06-25,Completed,No,Schedule change,
+O023,P035,C022,2026-04-04,Completed,No,Reached goal,
+O024,P036,C023,2026-06-26,Completed,Yes,,P037
+O025,P037,C023,2026-09-10,Completed,No,Reached goal,
+O026,P038,C024,2026-11-07,Completed,Pending,,
+O027,P039,C025,2026-09-28,Completed,No,Price,
+O028,P040,C026,2026-07-07,Completed,Yes,,P041
+O029,P041,C026,2026-09-05,Completed,No,Price,
+O030,P042,C027,2026-10-22,Completed,Yes,,P043
+O031,P045,C029,2025-11-12,Completed,Yes,,P046
+O032,P046,C029,2026-05-13,Completed,No,No reply,
+O033,P047,C030,2026-07-30,Completed,No,Price,
+O034,P050,C033,2026-10-20,Completed,No,Reached goal,
+O035,P051,C034,2026-09-15,Completed,Yes,,P052
+O036,P053,C035,2026-07-09,Completed,Yes,,P054
+O037,P054,C035,2026-09-25,Completed,Yes,,P055
